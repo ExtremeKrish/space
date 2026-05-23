@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Indie Flower",
-        body: "Indie Flower",
+        header: "Patrick Hand SC",
+        body: "Gloria Hallelujah",
         code: "IBM Plex Mono",
       },
       colors: {
