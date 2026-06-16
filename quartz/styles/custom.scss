@@ -2,6 +2,13 @@
 
 // put your custom CSS here!
 
+/* ── Body text ── */
+article p, article li {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+
 @media (min-width: 800px) and (max-width: 1200px)
 .page>#quartz-body {
     grid-template:
