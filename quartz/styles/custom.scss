@@ -20,3 +20,10 @@ article p, article li {
 }
 
 }
+
+:root {
+--secondary:var(--dark);
+}
+:root[saved-theme=dark] {
+--secondary:var(--dark);
+}
