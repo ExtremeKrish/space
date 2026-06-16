@@ -9,7 +9,7 @@ article p, article li {
 }
 
 
-@media (min-width: 800px) and (max-width: 1200px)
+@media (min-width: 800px) and (max-width: 1200px) {
 .page>#quartz-body {
     grid-template:
         "grid-sidebar-left grid-header"
@@ -19,3 +19,4 @@ article p, article li {
     gap: 10px;
 }
 
+}
