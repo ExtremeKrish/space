@@ -20,38 +20,36 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
-      typography: {
-        header: "Inter",
-        body: "Inter",
-        code: "IBM Plex Mono",
-      },
-      colors: {
-        lightMode: {
-          light: "#f0eee6",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#1f1e1d",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#1f1e1d",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#f0eee6",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
-      },
+  typography: {
+    header: "Inter",
+    body: "Inter",
+    code: "JetBrains Mono",
+  },
+  colors: {
+    lightMode: {
+      light: "#ffffff",
+      lightgray: "#ebedf0",
+      gray: "#bdbdbd",
+      darkgray: "#5a5a5a",
+      dark: "#222222",
+      secondary: "#2e80f2",   // Things' signature blue
+      tertiary: "#3eb4bf",    // Things' green
+      highlight: "rgba(255, 208, 0, 0.15)",
+      textHighlight: "#ffd0007a",
     },
+    darkMode: {
+      light: "#1c2127",
+      lightgray: "#282c34",
+      gray: "#555555",
+      darkgray: "#dadada",
+      dark: "#f6f7f8",
+      secondary: "#5b9bf5",
+      tertiary: "#53dfdd",
+      highlight: "rgba(255, 208, 0, 0.15)",
+      textHighlight: "#ffd0007a",
+    },
+  },
+},
   },
   plugins: {
     transformers: [

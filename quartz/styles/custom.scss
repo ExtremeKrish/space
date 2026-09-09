@@ -31,3 +31,19 @@ article p, article li {
 p, ul, text, a, tr, td, li, ol, ul, .katex, .math, .typst-doc, g[class~="typst-text"] { color: var(--dark);
 fill: var(--dark);
 }
+
+
+.tag-link {
+  border-radius: 999px;
+  padding: 0.2em 0.7em;
+  background-color: #bde1d3;
+  color: #1d694b;
+  &:hover { background-color: #1d694b; color: #fff; }
+}
+.darkmode .tag-link {
+  background-color: #1d694b;
+  color: #fff;
+}
+.page, .callout, img {
+  border-radius: 10px;
+}
