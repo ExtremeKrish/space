@@ -61,6 +61,13 @@ padding:0 1rem !important;
 padding:1rem;
 }
 
+#quartz-body,
+#quartz-body .center,
+#quartz-body .sidebar.right,
+#quartz-body .sidebar.left {
+  box-sizing: border-box !important;
+}
+
 /* ==========================================
    3. CSS Application (Do not change selectors)
    ========================================== */
