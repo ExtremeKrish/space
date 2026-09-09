@@ -35,8 +35,8 @@ fontOrigin: "googleFonts",
       darkgray: "#5a5a5a",
       dark: "#222222",
       secondary: "#2e80f2",   // Things' signature blue
-      tertiary: "#3eb4bf",    // Things' green
-      highlight: "rgba(255, 208, 0, 0.15)",
+      tertiary: "#0066CC",    // Things' green
+      highlight: "rgba(255, 208, 0, 0)",
       textHighlight: "#ffd0007a",
     },
     darkMode: {
@@ -46,8 +46,8 @@ fontOrigin: "googleFonts",
       darkgray: "#dadada",
       dark: "#f6f7f8",
       secondary: "#5b9bf5",
-      tertiary: "#53dfdd",
-      highlight: "rgba(255, 208, 0, 0.15)",
+      tertiary: "#3399FF",
+      highlight: "rgba(255, 208, 0, 0)",
       textHighlight: "#ffd0007a",
     },
   },

@@ -15,7 +15,7 @@
   --h1-color: #000;       /* Dark Blue */
   --h2-color: #000;       /* Medium Blue */
   --h3-color: #0369a1;       /* Charcoal */
-  --h4-color: #0369a1;
+  --h4-color: #4f7c0f;
   
   --bold-color: #b45309;     /* Deep Crimson Red for **bold** */
   --italic-color: #9d174d;   /* Forest Green for *italics* */
@@ -23,7 +23,8 @@
   --blockquote-text: #4a5568;  /* Muted Grey text */
   --blockquote-bg: #f7fafc;    /* Very light gray background */
   --blockquote-border: #cbd5e0;/* Border color */
-
+  --tag-bg-color:#bde1d3;
+    --tag-color:#1d694b;
 
 }
 
@@ -35,7 +36,7 @@
   --h1-color: #fff;       /* Light Blue */
   --h2-color: #fff;       /* Soft Cyan Blue */
   --h3-color: #38bdf8;       /* Off-White */
-  --h4-color: #0369a1;
+  --h4-color: #a3e635;
   
   --bold-color: #facc15;     /* Light Coral Pink for **bold** */
   --italic-color: #f472b6;   /* Light Mint Green for *italics* */
@@ -43,6 +44,8 @@
   --blockquote-text: #cbd5e0;  /* Light Grey text */
   --blockquote-bg: #1a202c;    /* Deep dark blue/gray background */
   --blockquote-border: #4a5568;/* Subtle border color */
+ --tag-bg-color:#005eb9;
+--tag-color:fff;
 }
 
 /* ==========================================
@@ -84,7 +87,15 @@ article p, article li {
 article li {
 margin-bottom:8px;
 }
+article a {
+font-weight:400;
+text-decoration: underline;
+}
 
+.callout{
+border-radius:0 !important;
+border:0;
+}
 /*
 @media (min-width: 800px) and (max-width: 1200px) {
     .page>#quartz-body {
@@ -134,9 +145,9 @@ font-size: 8px;
 .tag-link {
   border-radius: 40px!important;
   padding: 0.2em 0.7em !important ;
-  background-color: #bde1d3 !important;
-  color: #1d694b !important;
-  &:hover { background-color: #1d694b; color: #fff; }
+  background-color: var(--tag-bg-color) !important;
+  color: var(--tag-bg-color) !important;
+  
 }
 .darkmode .tag-link {
   background-color: #1d694b;
@@ -144,4 +155,33 @@ font-size: 8px;
 }
 .page, .callout, img {
   border-radius: 10px;
+}
+
+/* 1. Import Libre Baskerville from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* 2. Your Classic Theme Setup */
+body.classic {
+  --font-header: 'Libre Baskerville', serif;
+  --font-body: 'Crimson Text', serif;
+  /* --font-body: 'EB Garamond', serif; */
+
+
+  /* Apply the body font to the main text */
+  p, li, span, body.classic {
+    font-family: var(--font-body);
+  }
+
+  /* Apply the serif font and dark color specifically to headings */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-header);
+    color: var(--dark);
+    letter-spacing: -0.01em;
+  }
+
+  /* 1px clean borders for containers or dividers */
+  hr, .toc, .sidebar {
+    border-color: var(--dark);
+    border-width: 1px;
+  }
 }
