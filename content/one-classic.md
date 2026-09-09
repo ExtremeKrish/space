@@ -5,8 +5,6 @@ tags: [news, tech, lifestyle]
 cssclasses: ["classic"]
 ---
 
-# BREAKING: Local Developer Accidentally Automates Entire Life, Becomes Obsolete in Pajamas
-
 ## The Great Python Overhaul
 
 It started as a simple script to control a smart bulb. Three days and 400 lines of chaotic Python later, a local full-stack developer has successfully automated every single aspect of his daily existence, completely forgetting how to function manually. 
