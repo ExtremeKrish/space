@@ -146,7 +146,7 @@ font-size: 8px;
   border-radius: 40px!important;
   padding: 0.2em 0.7em !important ;
   background-color: var(--tag-bg-color) !important;
-  color: var(--tag-bg-color) !important;
+  color: var(--tag-color) !important;
   
 }
 .darkmode .tag-link {
@@ -160,7 +160,7 @@ font-size: 8px;
 /* 1. Import Libre Baskerville from Google Fonts */
 
 /* 2. Your Classic Theme Setup */
-body.classic {
+article.classic {
   --font-header: 'Libre Baskerville', serif;
   --font-body: 'Crimson Text', serif;
   /* --font-body: 'EB Garamond', serif; */
