@@ -62,6 +62,9 @@ padding:0 1rem !important;
 padding:1rem !important;
 }
 
+blockquote {
+  border-left: 3px solid var(--tertiary) !important;
+}
 
 #quartz-body,
 #quartz-body .center,
@@ -183,27 +186,27 @@ font-size: 8px;
 /* 1. Import Libre Baskerville from Google Fonts */
 
 /* 2. Your Classic Theme Setup */
-//article.classic {
-//  --font-header: 'Libre Baskerville', serif;
-//  --font-body: 'Crimson Text', serif;
-//  /* --font-body: 'EB Garamond', serif; */
-//
-//
-//  /* Apply the body font to the main text */
-//  p, li, span, body.classic {
-//    font-family: var(--font-body);
-//  }
-//
-//  /* Apply the serif font and dark color specifically to headings */
-//  h1, h2, h3, h4, h5, h6 {
-//    font-family: var(--font-header);
-//    color: var(--dark);
-//    letter-spacing: -0.01em;
-//  }
-//
-//  /* 1px clean borders for containers or dividers */
-//  hr, .toc, .sidebar {
-//    border-color: var(--dark);
-//    border-width: 1px;
-//  }
-//}
+body.classic {
+  --font-header: 'Libre Baskerville', serif;
+  --font-body: 'Crimson Text', serif;
+  /* --font-body: 'EB Garamond', serif; */
+
+
+  /* Apply the body font to the main text */
+  p, li, span, body.classic {
+    font-family: var(--font-body);
+  }
+
+  /* Apply the serif font and dark color specifically to headings */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-header);
+    color: var(--dark);
+    letter-spacing: -0.01em;
+  }
+
+  /* 1px clean borders for containers or dividers */
+  hr, .toc, .sidebar {
+    border-color: var(--dark);
+    border-width: 1px;
+  }
+}

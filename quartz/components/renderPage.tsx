@@ -259,11 +259,13 @@ export function renderPage(
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const direction = i18n(cfg.locale).direction ?? "ltr"
+  //Updated Line Below
+  const frontmatterBodyClass = componentData.fileData.frontmatter?.body_class as string || ""
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
-      <body data-slug={slug}>
-        <div id="quartz-root" class="page">
+      <body data-slug={slug} class={frontmatterBodyClass}>
+        <div id="quartz-root" class={`page ${frontmatterBodyClass}`}>
           <Body {...componentData}>
             {LeftComponent}
             <div class="center">
