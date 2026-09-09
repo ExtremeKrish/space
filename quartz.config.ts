@@ -52,18 +52,6 @@ const config: QuartzConfig = {
         },
       },
     },
-    head: {
-      includePageMetadata: true,
-      additionalHead: [
-        {
-          tag: "link",
-          attrs: {
-            rel: "stylesheet",
-            href: "https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap",
-          },
-        },
-      ],
-    },
   },
   plugins: {
     transformers: [
