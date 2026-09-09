@@ -59,14 +59,15 @@ padding:0 1rem !important;
 }
 
 #quartz-body .sidebar.left {
-//padding:1rem !important;
+padding:1rem !important;
 }
 
 
 #quartz-body,
 #quartz-body .center,
 #quartz-body .sidebar.right,
-#quartz-body .sidebar.left {
+#quartz-body .sidebar.left,
+footer {
   box-sizing: border-box !important;
 }
 
