@@ -151,6 +151,7 @@ font-size:1.6rem !important;
 margin-bottom: 4px !important;
   margin-left: 8px !important;
 font-weight:500;
+width:100% !important;
 }
 
 .search > .search-button {
@@ -191,6 +192,21 @@ body.classic {
   --font-body: 'Crimson Text', serif;
   /* --font-body: 'EB Garamond', serif; */
 
+    .page-title{
+text-align:center !important;
+font-style: italic !important;
+font-size: 21px !important;
+}
+
+#quartz-body .sidebar.left {
+border-bottom: 1px solid var(--dark) !important;
+}
+
+article p, article li {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-top: 8px;
+}
 
   /* Apply the body font to the main text */
   p, li, span, body.classic {
