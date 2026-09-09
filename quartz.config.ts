@@ -20,38 +20,50 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-fontOrigin: "googleFonts",
-  cdnCaching: true,
-  typography: {
-    header: "Inter",
-    body: "Inter",
-    code: "JetBrains Mono",
-  },
-  colors: {
-    lightMode: {
-      light: "#ffffff",
-      lightgray: "#ebedf0",
-      gray: "#bdbdbd",
-      darkgray: "#5a5a5a",
-      dark: "#222222",
-      secondary: "#2e80f2",   // Things' signature blue
-      tertiary: "#0066CC",    // Things' green
-      highlight: "rgba(255, 208, 0, 0)",
-      textHighlight: "#ffd0007a",
+      fontOrigin: "googleFonts",
+      cdnCaching: true,
+      typography: {
+        header: "Inter",
+        body: "Inter",
+        code: "JetBrains Mono",
+      },
+      colors: {
+        lightMode: {
+          light: "#ffffff",
+          lightgray: "#ebedf0",
+          gray: "#bdbdbd",
+          darkgray: "#5a5a5a",
+          dark: "#222222",
+          secondary: "#2e80f2",   // Things' signature blue
+          tertiary: "#0066CC",    // Things' green
+          highlight: "rgba(255, 208, 0, 0)",
+          textHighlight: "#ffd0007a",
+        },
+        darkMode: {
+          light: "#1c2127",
+          lightgray: "#282c34",
+          gray: "#555555",
+          darkgray: "#dadada",
+          dark: "#f6f7f8",
+          secondary: "#5b9bf5",
+          tertiary: "#3399FF",
+          highlight: "rgba(255, 208, 0, 0)",
+          textHighlight: "#ffd0007a",
+        },
+      },
     },
-    darkMode: {
-      light: "#1c2127",
-      lightgray: "#282c34",
-      gray: "#555555",
-      darkgray: "#dadada",
-      dark: "#f6f7f8",
-      secondary: "#5b9bf5",
-      tertiary: "#3399FF",
-      highlight: "rgba(255, 208, 0, 0)",
-      textHighlight: "#ffd0007a",
+    head: {
+      includePageMetadata: true,
+      additionalHead: [
+        {
+          tag: "link",
+          attrs: {
+            rel: "stylesheet",
+            href: "https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap",
+          },
+        },
+      ],
     },
-  },
-},
   },
   plugins: {
     transformers: [
