@@ -16,10 +16,12 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "extremekrish.github.io/space",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
+fontOrigin: "googleFonts",
+  cdnCaching: true,
   typography: {
     header: "Inter",
     body: "Inter",
