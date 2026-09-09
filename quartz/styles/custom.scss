@@ -52,6 +52,9 @@ h1 { font-size: var(--h1-size) !important; color: var(--h1-color) !important; }
 h2 { font-size: var(--h2-size) !important; color: var(--h2-color) !important; }
 h3 { font-size: var(--h3-size) !important; color: var(--h3-color) !important; }
 
+h1, h2, h3, h4, h5 {
+font-family: 'Inter', sans-serif;
+}
 /* Apply Bold & Italic Styles */
 strong, b {
   color: var(--bold-color) !important;
@@ -100,6 +103,11 @@ p, ul, text, a, tr, td, li, ol, ul, .katex, .math, .typst-doc, g[class~="typst-t
 fill: var(--dark);
 }
 
+.page-title {
+font-size:1.6rem;
+margin-bottom: 4px;
+  margin-left: 8px;
+}
 
 .tag-link {
   border-radius: 999px;
