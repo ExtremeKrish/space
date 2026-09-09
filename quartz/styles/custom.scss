@@ -2,25 +2,93 @@
 
 // put your custom CSS here!
 
+/* ------- Headings -------*/
+/* --- Light Theme (Default) Heading Sizes & Colors --- */
+/* ==========================================
+   1. LIGHT THEME (Default) Styles
+   ========================================== */
+:root {
+  /* Heading Sizes */
+  --h1-size: 2.2rem;
+  --h2-size: 1.7rem;
+  --h3-size: 1.4rem;
+
+  /* --- Colors for Light Theme --- */
+  --h1-color: #000;       /* Dark Blue */
+  --h2-color: #000;       /* Medium Blue */
+  --h3-color: #0369a1;       /* Charcoal */
+  
+  --bold-color: #b45309;     /* Deep Crimson Red for **bold** */
+  --italic-color: #9d174d;   /* Forest Green for *italics* */
+  
+  --blockquote-text: #4a5568;  /* Muted Grey text */
+  --blockquote-bg: #f7fafc;    /* Very light gray background */
+  --blockquote-border: #cbd5e0;/* Border color */
+}
+
+/* ==========================================
+   2. DARK THEME Styles
+   ========================================== */
+[saved-theme="dark"] {
+  /* --- Colors for Dark Theme --- */
+  --h1-color: #fff;       /* Light Blue */
+  --h2-color: #fff;       /* Soft Cyan Blue */
+  --h3-color: #38bdf8;       /* Off-White */
+  
+  --bold-color: #facc15;     /* Light Coral Pink for **bold** */
+  --italic-color: #f472b6;   /* Light Mint Green for *italics* */
+  
+  --blockquote-text: #cbd5e0;  /* Light Grey text */
+  --blockquote-bg: #1a202c;    /* Deep dark blue/gray background */
+  --blockquote-border: #4a5568;/* Subtle border color */
+}
+
+/* ==========================================
+   3. CSS Application (Do not change selectors)
+   ========================================== */
+
+/* Apply Heading Styles */
+h1 { font-size: var(--h1-size) !important; color: var(--h1-color) !important; }
+h2 { font-size: var(--h2-size) !important; color: var(--h2-color) !important; }
+h3 { font-size: var(--h3-size) !important; color: var(--h3-color) !important; }
+
+/* Apply Bold & Italic Styles */
+strong, b {
+  color: var(--bold-color) !important;
+}
+
+em, i {
+  color: var(--italic-color) !important;
+}
+
+/* Apply Blockquote Styles */
+blockquote {
+  color: var(--blockquote-text) !important;
+  border-left: 4px solid var(--blockquote-border) !important;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
+}
+
+
+
 /* ── Body text ── */
 article p, article li {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     line-height: 1.5;
 }
 
-
-@media (min-width: 800px) and (max-width: 1200px) {
-.page>#quartz-body {
-    grid-template:
-        "grid-sidebar-left grid-header"
-        "grid-sidebar-left grid-center"
-        "grid-sidebar-left grid-sidebar-right"
-        "grid-sidebar-left grid-footer"/200px auto;
-    gap: 10px;
-}
-
-}
-
+/*
+    @media (min-width: 800px) and (max-width: 1200px) {
+        .page>#quartz-body {
+            grid-template:
+                "grid-sidebar-left grid-header"
+                "grid-sidebar-left grid-center"
+                "grid-sidebar-left grid-sidebar-right"
+                "grid-sidebar-left grid-footer"/200px auto;
+            gap: 10px;
+        }
+    }
+*/
 :root {
 --secondary:#1f1e1d !important;
 }
