@@ -190,12 +190,14 @@ font-size: 8px;
 /* 2. Your Classic Theme Setup */
 body.classic {
 
---dark: #000;
+ html[saved-theme="light"] & {
+    --dark: #000;
+  }
+  html[saved-theme="dark"] & {
+    --dark: #f6f7f8;
+  }
 
-[saved-theme="dark"] {
---dark:#f6f7f8 !important;
 
-}
   --font-header: 'EB Garamond', serif;
   --font-body: 'EB Garamond', serif;
       --h1-size: 3rem !important;
