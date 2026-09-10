@@ -263,15 +263,7 @@ export function renderPage(
   const frontmatterBodyClass = componentData.fileData.frontmatter?.body_class as string || ""
   const doc = (
     <html lang={lang} dir={direction}>
-      <Head {...componentData} />
-         {/* Renders your exact font bundle link if 'classic' is passed in markdown */}
-  {frontmatterBodyClass.includes("classic") && (
-    <>
-      <link rel="preconnect" href="https://fonts.googleapis.com" />
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-      <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet" />
-    </>
-  )}
+      <Head {...componentData} />         
       <body data-slug={slug} class={frontmatterBodyClass}>
         <div id="quartz-root" class={`page ${frontmatterBodyClass}`}>
           <Body {...componentData}>
