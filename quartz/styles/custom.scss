@@ -192,10 +192,20 @@ body.classic {
 
 
 :root[saved-theme="dark"] body.classic {
-  --dark: #f6f7f8 !important;
+  --dark: #c8c6c0 !important;
+    --light: #000;
+--h1-color:#dddbd4;
+--h2-color:#dddbd4;
+--h3-color:#dddbd4;
+--h4-color:#dddbd4;
 }
 :root[saved-theme="light"] body.classic {
   --dark: #000;
+--light:#fff;
+--h1-color:#000;
+--h2-color:#000;
+--h3-color:#000;
+--h4-color:#000;
 }
 
 
@@ -211,6 +221,12 @@ text-align:center !important;
 font-style: italic !important;
 font-size: 21px !important;
 }
+
+.breadcrumb-container {
+  font-family: Cutive Mono !important;
+}
+
+
 
 .tags {
 display:none !important;
@@ -245,7 +261,7 @@ article p, article li {
   /* Apply the serif font and dark color specifically to headings */
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-header);
-    color: var(--dark) !important;
+
     letter-spacing: 0 !important;
     font-weight:400 !important;
   }

@@ -25,7 +25,7 @@ The cascade began when local tech enthusiast **Krish Vishwakarma** decided that 
 
 > "I just wanted the lights to dim when I watch a movie, and now my refrigerator is emailing my landlord about my protein intake."
 
-[!info]
+> [!info]
 > **System Notice:** Automated protocols indicate the subject has not left his chair in 72 hours. All inquiries should be directed to his local Python script.
 
 *Stay tuned as this developing story continues to compile.*
