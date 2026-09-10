@@ -193,7 +193,7 @@ body.classic {
 --dark: #000;
 
 [saved-theme="dark"] {
-//--dark:#E0E0E0;
+--dark:#f6f7f8 !important;
 
 }
   --font-header: 'EB Garamond', serif;
@@ -206,6 +206,10 @@ body.classic {
 text-align:center !important;
 font-style: italic !important;
 font-size: 21px !important;
+}
+
+.tags {
+display:none !important;
 }
 
 #quartz-body .sidebar.left {
