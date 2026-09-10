@@ -189,9 +189,9 @@ font-size: 8px;
 
 /* 2. Your Classic Theme Setup */
 body.classic {
-  --font-header: 'Libre Baskerville', serif;
-  --font-body: 'Crimson Text', serif;
-  /* --font-body: 'EB Garamond', serif; */
+  --font-header: 'EB Garamond', serif;
+  --font-body: 'EB Garamond', serif;
+
 
     .page-title{
 text-align:center !important;
@@ -205,6 +205,15 @@ padding: 0 1rem !important;
   height: 56px !important;
 }
 
+#quartz-body .center {
+max-width: 800px !important; 
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+min-width:0 !important;
+
+}
 article p, article li {
     font-size: 1.2rem;
     line-height: 1.5;
@@ -220,7 +229,8 @@ article p, article li {
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-header);
     color: var(--dark) !important;
-    letter-spacing: -0.01em;
+    letter-spacing: 0 !important;
+    font-weight:400 !important;
   }
 
   /* 1px clean borders for containers or dividers */
