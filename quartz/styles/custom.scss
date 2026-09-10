@@ -219,7 +219,7 @@ article p, article li {
   /* Apply the serif font and dark color specifically to headings */
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-header);
-    color: var(--dark);
+    color: var(--dark) !important;
     letter-spacing: -0.01em;
   }
 
