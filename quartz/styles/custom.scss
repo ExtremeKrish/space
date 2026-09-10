@@ -190,12 +190,14 @@ font-size: 8px;
 /* 2. Your Classic Theme Setup */
 body.classic {
 
- html[saved-theme="light"] & {
-    --dark: #000;
-  }
-  html[saved-theme="dark"] & {
-    --dark: #f6f7f8;
-  }
+
+:root[saved-theme="dark"] body.classic {
+  --dark: #f6f7f8 !important;
+}
+:root[saved-theme="light"] body.classic {
+  --dark: #000;
+}
+
 
 
   --font-header: 'EB Garamond', serif;
@@ -220,7 +222,7 @@ padding: 0 1rem !important;
   height: 56px !important;
 }
 
-#quartz-body .center {
+#quartz-body .center, footer {
 max-width: 750px !important; 
   margin-left: auto;
   margin-right: auto;

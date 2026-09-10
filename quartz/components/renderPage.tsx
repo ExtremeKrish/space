@@ -269,7 +269,7 @@ export function renderPage(
             {/* ADD THIS BLOCK: Dynamically injects the font import straight into the rendered DOM */}
           {frontmatterBodyClass.includes("classic") && (
             <style dangerouslySetInnerHTML={{ __html: `
-              @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap');
+              @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Cutive+Mono&family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
             `}} />
           )}
           <Body {...componentData}>
