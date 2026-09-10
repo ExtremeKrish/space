@@ -190,24 +190,21 @@ font-size: 8px;
 /* 2. Your Classic Theme Setup */
 body.classic {
 
-  :root[saved-theme="dark"] & {
+ --dark: #000 !important;
+  --light: #fff !important;
+  --h1-color: #000 !important;
+  --h2-color: #000 !important;
+  --h3-color: #000 !important;
+  --h4-color: #000 !important;
+
+  /* Classic Dark Theme Variables */
+  [saved-theme="dark"] & {
     --dark: #c8c6c0 !important;
     --light: #000 !important;
---h1-color:#dddbd4 !important;
---h2-color:#dddbd4 !important;
---h3-color:#dddbd4 !important;
---h4-color:#dddbd4 !important;
-  }
-
-
-
-:root[saved-theme="light"] & {
-   --dark: #000 !important;
---light:#fff !important;
---h1-color:#000 !important;
---h2-color:#000 !important;
---h3-color:#000 !important;
---h4-color:#000 !important;
+    --h1-color: #dddbd4 !important;
+    --h2-color: #dddbd4 !important;
+    --h3-color: #dddbd4 !important;
+    --h4-color: #dddbd4 !important;
   }
   
 
