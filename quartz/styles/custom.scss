@@ -201,8 +201,8 @@ font-size: 21px !important;
 
 #quartz-body .sidebar.left {
 border-bottom: 1px solid var(--dark) !important;
-padding: 0 1rem;
-  height: 56px;
+padding: 0 1rem !important;
+  height: 56px !important;
 }
 
 article p, article li {
