@@ -63,7 +63,7 @@ padding:1rem !important;
 }
 
 blockquote {
-  border-left: 3px solid var(--tertiary) !important;
+//  border-left: 3px solid var(--tertiary) !important;
 
 }
 
@@ -189,9 +189,16 @@ font-size: 8px;
 
 /* 2. Your Classic Theme Setup */
 body.classic {
+
+--dark: #000;
+
+[saved-theme="dark"] {
+--dark:#E0E0E0;
+
+}
   --font-header: 'EB Garamond', serif;
   --font-body: 'EB Garamond', serif;
-      --h1-size: 2.4rem !important;
+      --h1-size: 3rem !important;
 --bold-color: var(--dark) !important;     /* Deep Crimson Red for **bold** */
   --italic-color: var(--dark) !important;
 
@@ -202,7 +209,7 @@ font-size: 21px !important;
 }
 
 #quartz-body .sidebar.left {
-border-bottom: 1px solid var(--dark) !important;
+border-bottom: 1px solid var(--darkgray) !important;
 padding: 0 1rem !important;
   height: 56px !important;
 }
@@ -237,7 +244,7 @@ article p, article li {
 
   /* 1px clean borders for containers or dividers */
   hr, .toc, .sidebar {
-    border-color: var(--darkgrey);
+    border-color: var(--darkgray);
     border-width: 1px;
   }
 }
