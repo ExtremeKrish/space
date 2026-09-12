@@ -1,18 +1,18 @@
 ---
 title: "Refuting Viral Hindu Claims"
 tags:
-  #atheism/pseudoscience
+  - atheism/pseudoscience
 ---
 #### Claims
-1. [Mysterious Kailash Parvat](#Mysterious%20Kailash%20Parvat)
-2. [Hanuman Footprint](#Hanuman%20Footprint)
-3. [Ram Setu](#Ram%20Setu)
-4. [Om sound in Black Hole](#Om%20sound%20in%20Black%20Hole)
-5. [Ravana's Palace](#Ravana's%20Palace)
-6. [Mysterious Bhim-Kunda](#Mysterious%20Bhim-Kunda)
-7. [Shiv Damru in Space Photography](#Shiv%20Damru%20in%20Space%20Photography)
-8. [Dwarka City Underwater](#Dwarka%20City%20Underwater)
-9. [Jagganath Temple Flag waving in Opposite Direction](#Jagganath%20Temple%20Flag%20waving%20in%20Opposite%20Direction)
+1. [Mysterious Kailash Parvat](#Mysterious-Kailash-Parvat)
+2. [Hanuman Footprint](#Hanuman-Footprint)
+3. [Ram Setu](#Ram-Setu)
+4. [Om sound in Black Hole](#Om-sound-in-Black-Hole)
+5. [Ravana's Palace](#Ravana's-Palace)
+6. [Mysterious Bhim-Kunda](#Mysterious-Bhim-Kunda)
+7. [Shiv Damru in Space Photography](#Shiv-Damru-in-Space-Photography)
+8. [Dwarka City Underwater](#Dwarka-City-Underwater)
+9. [Jagganath Temple Flag waving in Opposite Direction](#Jagganath-Temple-Flag-waving-in-Opposite-Direction)
 10. Garuda Bell
 
 ## Mysterious Kailash Parvat
@@ -41,10 +41,10 @@ This is a tricky one. The 1980 excavation by archaeologist S R Rao confirms to 
 
 However the Images which are being circulated online claiming that they're of official underwater dwarka are fake.
 - A [Fact Check](https://youtu.be/I35RLxkJ_RE?si=hAGLT4Zuu4DHfH37) by Boom
-- And [Web Version](https://www.boomlive.in/images-from-mythical-sunken-city-of-dwarka-not-quite#:~:text=A%20set%20of%20images%20showing,city%20in%20Gujarat's%20west%20coast.&text=Click%20here%20to%20view%2C%20and,likes%20while%20writing%20the%20article.&text=We%20searched%20with%20the%20same,shared%20with%20the%20false%20claim.&text=Several%20websites%20and%20blogs%20including,from%20the%20lost%20underwater%20city.&text=Click%20here%20to%20view%20an%20archive.)
+- And [Web Version](https://www.boomlive.in/images-from-mythical-sunken-city-of-dwarka-not-quite#:~:text=A-set-of-images-showing,city-in-Gujarat's-west-coast.&text=Click-here-to-view%2C-and,likes-while-writing-the-article.&text=We-searched-with-the-same,shared-with-the-false-claim.&text=Several-websites-and-blogs-including,from-the-lost-underwater-city.&text=Click-here-to-view-an-archive.)
 - [India Today](http://betamumbaimirror.indiatimes.com/news/fact-check/fact-check-these-photos-arent-proof-of-sri-krishnas-dwarka-in-gujarat/articleshow/71394836.cms)
 - [The Quint](https://www.thequint.com/news/webqoof/photos-shared-as-the-sunken-remnants-of-dwarka-temple-fact-check)
 ## Jagganath Temple Flag waving in Opposite Direction
-This proof scientific theory is based on vortex shedding according to which when wind pockets are created near a flag, due to pressure, an elastic force travels upstream i.e. from the cloth towards the pole. This is substantiated by this Cambridge University Press study you can read online. In the end, stop believing anything that is not signed.
+This proof scientific theory is based on vortex shedding according to which when wind pockets are created near a flag, due to pressure, an elastic force travels upstream i.e. from the cloth towards the pole. This is substantiated by [this](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/vortex-shedding-model-of-a-flapping-flag/36724CF933F0EC0FAE1C12207384D553) Cambridge University Press study you can read online. In the end, stop believing anything that is not signed.
 
 https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/vortex-shedding-model-of-a-flapping-flag/36724CF933F0EC0FAE1C12207384D553

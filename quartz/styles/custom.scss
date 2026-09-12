@@ -58,6 +58,11 @@ padding:0 !important;
 padding:0 1rem !important; 
 }
 
+footer {
+width:100%;
+margin:0 auto 4rem auto;
+}
+
 #quartz-body .sidebar.left {
 padding:1rem !important;
 }
@@ -226,6 +231,10 @@ font-size: 14px !important;
 
 }
 
+.explorer:not(.collapsed) > .explorer-content{
+
+border-right: 1px solid var(--darkgray);
+}
 
 
 .tags {
