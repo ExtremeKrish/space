@@ -190,6 +190,10 @@ font-size: 8px;
   border-radius: 10px;
 }
 
+.explorer-content ul li {
+  margin: 2px 0 4px 0;
+}
+
 /* 1. Import Libre Baskerville from Google Fonts */
 
 /* 2. Your Classic Theme Setup */
@@ -280,13 +284,15 @@ article p, article li {
     border-color: var(--darkgray);
     border-width: 1px;
   }
-//    li:not(.overflow-end) {
-//  border-bottom: 1px solid var(--darkgray);
-//  line-height: 1.15;
-//  font-family: Cutive Mono !important;
-//  padding: 8px 0;
-//}
+    li:not(.overflow-end):not(:last-child) {
+  border-bottom: 1px solid var(--lightgray);
+  line-height: 1.15;
+  font-family: Cutive Mono !important;
+ 
+}
 
-
+.explorer-content ul li a {
+font-family:Cutive Mono !important;
+}
 
 }
