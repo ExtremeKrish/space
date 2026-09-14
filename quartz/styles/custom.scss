@@ -285,7 +285,7 @@ article p, article li {
     border-color: var(--darkgray);
     border-width: 1px;
   }
-    li:not(.overflow-end):not(:last-child) {
+   .explorer-ul li:not(.overflow-end):not(:last-child) {
   border-bottom: 1px solid var(--lightgray);
   line-height: 1.15 !important;
   font-family: Cutive Mono !important;
@@ -294,11 +294,11 @@ padding: 4px 0 !important;
  
 }
 
-.explorer-content ul li a {
+.explorer-ul li a {
 font-family:Cutive Mono !important;
 }
 
-.explorer-content ul li {
+.explorer-ul li {
 margin: 2px 0 4px;
   padding: 4px 0;
 letter-spacing: -1.5px !important;
