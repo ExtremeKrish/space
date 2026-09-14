@@ -1,5 +1,7 @@
-```table-of-contents
-```
+---
+tags:
+  - history/india
+---
 
 ## From 1857 to Divide & Rule
 
