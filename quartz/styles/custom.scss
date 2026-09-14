@@ -192,6 +192,7 @@ font-size: 8px;
 
 .explorer-content ul li {
   margin: 2px 0 4px 0;
+line-height: 1.3rem !important;
 }
 
 /* 1. Import Libre Baskerville from Google Fonts */
@@ -286,13 +287,21 @@ article p, article li {
   }
     li:not(.overflow-end):not(:last-child) {
   border-bottom: 1px solid var(--lightgray);
-  line-height: 1.15;
+  line-height: 1.15 !important;
   font-family: Cutive Mono !important;
+padding: 4px 0 !important;
+
  
 }
 
 .explorer-content ul li a {
 font-family:Cutive Mono !important;
+}
+
+.explorer-content ul li {
+margin: 2px 0 4px;
+  padding: 4px 0;
+letter-spacing: -1.5px !important;
 }
 
 }
