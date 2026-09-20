@@ -47,7 +47,7 @@ The first contradiction comes from a Tibbetan-Buddhist monk Dharmaswamin, accord
 This is confirmed by Tibbetan-Buddhist Monk Dharmaswamin. He came to Nalanda for study & in his records there's no mension of Great-Fire or Destruction, rather he mensions that *Funding of Nalanda was reduced at that time*.
 
 
-#### Sources
+### Sources
 - Sumpa Khan-Po, History of the Rise, Progress and Downfall of Buddhism in India, Part I, 1908  
 - RS Sharma and KM Shrimali, A Comprehensive History of India (Vol. IV, Part 2), 2008  
 - Hartmut Scharfe, Education in Ancient India, 2002  
