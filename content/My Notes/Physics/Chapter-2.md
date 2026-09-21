@@ -2,7 +2,7 @@
 tags:
   - physics
 created: 2026-03-27 00:22
-title: Chapter - 2 Electric Potential & Capacitance
+title: "Chapter - 2 Electric Potential & Capacitance"
 body_class: "classic"
 ---
 
@@ -14,6 +14,7 @@ body_class: "classic"
 - Gravitational Force
 - Spring Force
 - Electric Force
+
 ## Electrostatic Potential Energy (U)
 Workdone in bringing a test charge from $\infty$ to R distance in a Electric Field is stored as Electrostatic Potential Energy
 
@@ -47,6 +48,7 @@ $$
 $$
 \boxed{V_{p} = \frac{kQ}{r}}
 $$
+
 ### Electric Potential Due to a Dipole
 #### 1. At Axial Point
 $$
@@ -108,6 +110,7 @@ Btw this was for Electrostatic Potential which is a scalar qty.
 Let's recall the Net Electric Field due to a system of charges from previous chapter which is the vector sum of the electric fields produced by each charge individually, as determined by the superposition principle. Okey?
 ## Equipotential Surfaces
 Well..., I dont think I have to explain this.
+
 ### Relation between field and potential
 $$
 \begin{align*} W_{c} &= -\Delta U \\ W_{elec} &= -\Delta U \\ dW_{elec} &= -dU \quad \text{(Small change)} \\ \int dU &= -\int dW_{elec} \\ \int dU &= -\int \vec{F}_{elec} \cdot d\vec{x} \\ \int q \, dV &= -\int (q\vec{E}) \cdot d\vec{x} \\ V &= -\int \vec{E} \cdot d\vec{x} \\\\ \vec{E} &= -\frac{dV}{dx} \end{align*}
@@ -134,12 +137,15 @@ U = q_1 V(r_1) + q_2 V(r_2) + \frac{1}{4\pi\varepsilon_0} \frac{q_1 q_2}{r_{12}}
 $$
 
 ### 3. Of a Dipole in an external field ✤
+(draft)
 
-## ---------------------------------
 ---
+
 ## Electrostatics of Conductors
 In Metallic Conductors, the charge carriers are electrons, these are free within the metal but not free to leave the metal.
 In Electrolytic Conductors, charge carriers are both positive and negative ions, but that situation is messy cuz movements is affected by External Electric Field and so called chamical-forces so we don't talk about Electrolytic Conductors here.
+
+
 **Properties of Conductors**
 1. Inside a conductor, electrostatic field is zero. ($\small E = 0$)
 2. At the surface of charged conductor, electrostatic field must be normal to the surface at every point. 
@@ -150,32 +156,42 @@ In Electrolytic Conductors, charge carriers are both positive and negative ions,
 
 ## Dielectric & Polarisation
 Dielectric is a substance which is kinda similar to Insulators but they can be polarised to help store energy. They're used in Capacitors.
+
 There are two types of Dielectrics
 1. Polar - have permanenet dipole moment cuz centers are seprated e.g. $H_{2}$ or $O_{2}$
 2. Non Polar - centers coincide e.g. HCl , $H_{2}0$
 
 ![[Pasted image 20260328005335.png|378x400]]
+
+
 ## Capacitors and Capacitance
 ↪ A capacitor (condenser) is a system of two conductors seprated by an insulator.
 -> A Device used to store charge
+
 $$
 C = \frac{Q}{V}
 $$
 $$
 C = 4\pi \epsilon_{\circ} R
 $$
+
 **C is constant** and depends on:
 1. Nature of Dielectric
 2. & Geometric Configuration
 3. It is **independent of Q or V**
+
+
 **SI Unit :** 1 farad ($= 1 \,\,CV^{-1}$)
 Other units : $\mu F = 10^{-6} F$ ,  $nF = 10^{-9} F$ 
+
+
 ## Parallel Plate Capacitor (Most Imp)
 Q - Charge on any plate
 A - Area of the plate
 d - distance b/w the plates
 V - Potential Diff of Plates
 E - Electric Field b/w plates
+
 $$
 C = \frac{\epsilon_{\circ} A}{d}
 $$
@@ -205,6 +221,7 @@ $$
 	$$
 	C_{net} =C_{1}+C_{2} + \dots+ C_{n}
 	$$
+
 ## Energy stored in a Capacitor
 $$
 \boxed{U = \frac{1}{2} CV^2}
@@ -215,6 +232,7 @@ $$
 $$
 \boxed{U = \frac{1}{2}QV}
 $$
+
 ### Energy Density of a Capacitor (U/Volume)
 $$
 \begin{align*}

@@ -3,6 +3,8 @@ tags:
   - cuet
   - physics
 created: 2026-04-17 02:10
+title: "Chapter - 8"
+
 ---
 
 **Chapter 8 - Electromagnetic Waves**

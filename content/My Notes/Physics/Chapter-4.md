@@ -43,9 +43,11 @@ $$
 $$
 
 ### Magnetic Field on Long Straight Current Carrying Conductor/Wire
+
 #### Finite & Angles Given
 
 ![[Pasted image 20260501154548.png|439x439]] ![[Your paragraph text_20260501_155536_0000.png|438x438]]
+
 $$
 B = \frac{\mu_{0}}{4\pi} \frac{I}{r} (\sin \phi_{1} + \sin \phi_{2})
 $$
@@ -54,6 +56,7 @@ $$
 $$
 B = \frac{\mu_{0}}{2\pi} \frac{I}{r} 
 $$
+
 ### Magnetic Field on the *Center* of Circular Current Loop
 *But in NCERT we first study the* [[#Magnetic Field on the *Axis* of Circular Current Loop]] 
 
@@ -62,9 +65,10 @@ $$
 \int dB &= \int\frac{\mu_{0}}{4\pi} \frac{Id\ell \sin \theta}{r^2} \\
 B &= \frac{\mu_{0}I}{4\pi r^2} \int d\ell \sin 90 \\
 &= \frac{\mu_{0}I}{4\pi r^2} \times 2\pi r \\ \\
-\Aboxed{B &= \frac{\mu_{0}I}{2r}}
+\boxed{B = \frac{\mu_{0}I}{2r}}
 \end{align*}
 $$
+
 **Just multiply ts with n, for n number of turns.**
 
 ### Magnetic Field on the *Axis* of Circular Current Loop
@@ -76,7 +80,7 @@ dB_{x} &= \int dB \sin \phi \\
 &= \frac{\mu_{0}}{4\pi}\int\frac{Id\ell\sin 90}{(\sqrt{ R^2 + x^2})^2} \sin \phi \\
 & =\frac{\mu_{0}}{4\pi} \frac{I}{(\sqrt{ R^2 + x^2})^2} \times \frac{R}{\sqrt{ R^2 + x^2}} \int d\ell \\
 &= \frac{\mu_{0}}{4\pi} \frac{IR}{(R^2 + x^2)^{3/2}} \times 2\pi R \\
-\Aboxed{B_{x} &= \frac{\mu_{0}}{2} \frac{IR^2}{( R^2 + x^2)^{3/2}}} \text{ 👈 🫩}
+\boxed{B_{x} = \frac{\mu_{0}}{2} \frac{IR^2}{( R^2 + x^2)^{3/2}}} \text{ 👈 🫩}
 \end{align*}
 $$
 This is not NCERT Derivation ☝️
@@ -178,7 +182,7 @@ $$
 \begin{align*}
 F_{B} &= F_{c}  \\
 qV\,B\sin{90} &= \frac{mv^2}{r} \\
-\Aboxed{r &= \frac{mv}{qB}}
+\boxed{r = \frac{mv}{qB}}
 \end{align*}
 $$
 **Time Period -**
@@ -186,7 +190,7 @@ $$
 \begin{align*}
 T &= \frac{2\pi r}{v} \\
 &= \frac{2\pi}{\cancel{v}} \frac{m\cancel{v}}{qB} \\
-\Aboxed{T &= \frac{2\pi m}{qB}}
+\boxed{T = \frac{2\pi m}{qB}}
 \end{align*}
 $$
 **Frequency**
@@ -206,7 +210,7 @@ $$
 F_{ba} &= I_{b} L B_{a} \sin 90° \\
 \frac{F_{ba}}{L_{b}} &= I_{b} \left( \frac{\mu_{0}}{2\pi} \frac{I_{a}}{d} \right) \\
 \frac{F_{ba}}{L_{b}} &= \frac{\mu_{0}}{2\pi} \frac{I_{a} I_{b}}{d} \\ \\
-\Aboxed{F_{ba} &= \frac{\mu_{0}}{2\pi} \frac{I_{a} I_{b}}{d} L_{b}}
+\boxed{F_{ba} = \frac{\mu_{0}}{2\pi} \frac{I_{a} I_{b}}{d} L_{b}}
 \end{align*}
 $$
 Also if $f_{ba}$ is $F_{ba}$ per unit length then

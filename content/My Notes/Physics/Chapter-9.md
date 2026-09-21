@@ -3,6 +3,7 @@ tags:
   - cuet
   - physics
 created: 2026-03-28 17:01
+title: "Chapter - 9"
 ---
 ```table-of-contents
 ```
