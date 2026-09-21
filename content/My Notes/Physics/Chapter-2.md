@@ -20,7 +20,7 @@ Workdone in bringing a test charge from $\infty$ to R distance in a Electric Fie
 **Electric Potential Energy (U) = Work done by EXTERNAL force** (Derivation not in NCERT)
 $$
 \begin{align*}
-U_{p} =W_{ext(\infty \to p)} &= \int_{\infty}^{p} f_{ext} \, dr \\
+U_{p} =W_{\text{ext}(\infty \to p)} &= \int_{\infty}^{p} f_{ext} \, dr \\
 &= \int_{\infty}^{p} \frac{kQq}{r^{2}} \, dr \\
 &= KQq \int_{\infty}^{p} \frac{1}{r^{2}} \, dr  \\
 &= KQq \left[ -\frac{1}{r} \right]_{\infty}^{r} \\
@@ -190,7 +190,7 @@ $$
 V &=\frac{\sigma}{\epsilon_{\circ}} \times d\\
 V &= \frac{Q}{A \epsilon_{\circ}} \times d \\
 \frac{\epsilon_{\circ} A}{d} &= \frac{Q}{V} \\
-\Aboxed{C &= \frac{\epsilon_{\circ} A}{d}}
+\boxed{C = \frac{\epsilon_{\circ} A}{d}}
 \end{align*}
 $$
 
