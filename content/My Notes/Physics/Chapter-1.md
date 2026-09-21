@@ -32,16 +32,14 @@ body_class: "classic"
 	- and ts was quantisation of charge
 
 > [!question] How many electrons has to be removed from a body to charge it by 1 coulomb?
-> > $6.25 X 10^{18}$
+> $6.25 \times 10^{18}$
 
 
-```Q
-Q) A neutral body is getting charged negatively. What happens to its mass?
+> [!question] A neutral body is getting charged negatively. What happens to its mass?
+> It increases dawg cuz u added one electron to negative it, ain't no way u can remove proton. 
 
-A) It increases dawg cuz u added one electron to negative it, ain't no way u can remove proton. 
-```
+> [!info] An alpha particle is doubly positive helium ion
 
-**FYI: An alpha particle is doubly positive helium ion**
 ### Specific Charge 
 $$\text{Specific Charge} = \frac{q}{m}$$
 
@@ -105,10 +103,9 @@ $\epsilon$ = **Permittivity of a Medium**
 
 ![[Pasted image 20260308153122.jpg|584x310]]
 
-```Q
-Q) Two point charges having equal charges separated by 1 m distance experience a force of 8 N. What will be the force experienced by them, if they are held in water at the same distance? (Given, K = 80)
-A) 0.1 N
-```
+> [!question] Two point charges having equal charges separated by 1 m distance experience a force of 8 N. What will be the force experienced by them, if they are held in water at the same distance? (Given, K = 80)
+> 0.1 N
+
 
 #### Range of Value of Dielectric Constant
 
@@ -182,11 +179,9 @@ Its N/C cuz $\vec{E} = \frac{\vec{F}}{q} = \frac{N}{C}$
 	$m_{e} = 9.11 \times 10^{-31} kg$
 	$m_{p} = 1.67 \times 10^{-27} kg$
 	
-```Q
-Q) The magnitude of electric field intensity E is such that, an electron placed in it would experience an electrical force equal to its weight, is given by:
+> [!question] The magnitude of electric field intensity E is such that, an electron placed in it would experience an electrical force equal to its weight, is given by:
+> E = mg/e
 
-A) E = mg/e
-```
 ```Q
 Q) An electron and a proton are in a uniform electric field, the ratio of their accelerations will be
 
