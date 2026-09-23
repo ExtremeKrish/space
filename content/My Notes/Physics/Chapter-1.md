@@ -158,7 +158,7 @@ Its N/C cuz $\vec{E} = \frac{\vec{F}}{q} = \frac{N}{C}$
 
 =>$ma = qE$        , and so:
 
-=>$Acceleration (a) = \frac{qE}{m}$
+=>$Acceleration (> = \frac{qE}{m}$
 
 ### Motion of a Charged Particle in a Uniform Electric Field
 1. Charged Particle at rest.
@@ -181,22 +181,19 @@ Its N/C cuz $\vec{E} = \frac{\vec{F}}{q} = \frac{N}{C}$
 > [!question]- The magnitude of electric field intensity E is such that, an electron placed in it would experience an electrical force equal to its weight, is given by:
 > E = mg/e
 
-```Q
-Q) An electron and a proton are in a uniform electric field, the ratio of their accelerations will be
 
-A) Ratio of masses of Proton & Electron
-```
-```Q
-Q) An electron of mass m, charge e falls through a distance h meter in a uniform electric field E vertically upwards. Then, time of fall is:
+> [!question]- An electron and a proton are in a uniform electric field, the ratio of their accelerations will be
+> Ratio of masses of Proton & Electron
 
-A) $T= \sqrt{2hm/eE}$
-```
+
+> [!question]- An electron of mass m, charge e falls through a distance h meter in a uniform electric field E vertically upwards. Then, time of fall is:
+> $T= \sqrt{2hm/eE}$
+
 4. Charged particle projected at some angle to electric field
-```Q
-Q) An electron is moving towards X-axis. An electric field is along Y-direction then path of electron is:
 
-A) Parabolic Trajectory
-```
+> [!question]- An electron is moving towards X-axis. An electric field is along Y-direction then path of electron is:
+> Parabolic Trajectory
+
 ### Field lines for a Point Charge
 ![[Pasted image 20260308165141.jpg]]
 ### Continuous Charge Distribution
@@ -230,11 +227,10 @@ $\phi_{net} = 0$
 $\vec{P} = Charge \times Sepration$
 $\vec{P} = q\,2d$
 
-```Q
-Q) Electric charge Q, Q and -2Q respectively are placed at the three corners of an equilateral triangle of side a. Magnitude of the electric dipole moment of the system
 
-A) $\sqrt{3}qa$
-```
+> [!question]- Electric charge Q, Q and -2Q respectively are placed at the three corners of an equilateral triangle of side a. Magnitude of the electric dipole moment of the system
+> $\sqrt{3}qa$
+
 ### Electric Field due to Dipole on
 ![[Pasted image 20260402015247.png|750x457]]
 #### 1) On Axial Point
@@ -251,9 +247,9 @@ $$
 $$
 $\vec{E_{net}} = \frac{kp}{r^3} \quad|\quad r>>d$
 
-```Q
-Q) If the magnitude of intensity of electric field at a distance x on axial line and at a distance y on equatorial line on a given dipole are equal, then x: y is
-```
+
+> [!question]- If the magnitude of intensity of electric field at a distance x on axial line and at a distance y on equatorial line on a given dipole are equal, then x: y is
+
 #### 3. General Point *Not in NCERT*
 ![[Pasted image 20260309123444.jpg|605x287]]
 
@@ -269,9 +265,9 @@ $$
 $$
 ✓ - (because the dipole is moving from head and tail too so double torque)
 
-```Q
-Q) An electric dipole is placed at an angle 60° with an electric field of strength 4 x 105 N/C. It experiences a torque equal to 8√3 Nm. Calculate the charge on the dipole, if dipole is of length 4 cm
-```
+
+> [!question]- An electric dipole is placed at an angle 60° with an electric field of strength 4 x 105 N/C. It experiences a torque equal to 8√3 Nm. Calculate the charge on the dipole, if dipole is of length 4 cm
+
 ## Gauss Law
 *This is highly important cuz this is your Gauss Law - The First Avenger*
 -> the total [[#Electric Flux|electric flux]] through any closed surface (Gaussian surface) is directly proportional to the total electric charge enclosed within that surface
@@ -296,6 +292,7 @@ $$
 $$
 \boxed{E = \frac{\sigma}{2\epsilon_{\circ}}}
 $$
+
 #### Field due to Uniformly Charged Thin Spherical Shell 😂
 **1. Field outside the shell**
 Suppose u got a sphere, with Radius 'R' but u also take a *Spherical Gaussian Surface* from the center of sphere to some outside length more than R, that new gaussian radius is 'r' (r>R)
