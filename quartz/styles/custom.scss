@@ -54,14 +54,15 @@ padding:0 !important;
 
 }
 
-#quartz-body .center, #quartz-body .sidebar.right, footer {
-padding:0 1rem !important; 
-max-width: 900px !important; 
-min-width:0;
-  margin-left: auto;
-  margin-right: auto;
-}
+    #quartz-body .center, #quartz-body .sidebar.right, footer {
+        padding:0 1rem !important; 
+        max-width: 900px !important; 
+        min-width:0 !important;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
+    
 footer {
 width:100%;
 margin:0 auto 4rem auto !important;
