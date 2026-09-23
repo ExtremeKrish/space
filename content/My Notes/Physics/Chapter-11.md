@@ -3,6 +3,7 @@ tags:
   - cuet
   - physics
 created: 2026-04-20 02:38
+title: "Chapter-11 Dual Nature of Matter & Radiation"
 ---
 **Dual Nature of Matter & Radiation**
 ```table-of-contents

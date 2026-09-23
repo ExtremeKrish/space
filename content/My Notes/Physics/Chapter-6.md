@@ -3,7 +3,7 @@ tags:
   - cuet
   - physics
 created: 2026-04-14 00:10
-title: "Chapter - 6 Electromagnetic Induction"
+title: "Chapter-6 Electromagnetic Induction"
 ---
 
 ```table-of-contents

@@ -3,7 +3,7 @@ tags:
   - cuet
   - physics
 created: 2026-04-07 21:25
-title: "Chapter - 4 Moving Charges & Magnatism"
+title: "Chapter-4 Moving Charges & Magnatism"
 ---
 
 ## Magnetic Field Concept:

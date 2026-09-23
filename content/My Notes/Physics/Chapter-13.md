@@ -2,6 +2,7 @@
 tags:
   - cuet
 created: 2026-05-04 01:55
+title: "Chapter-13 Nuclei"
 ---
 **Nuclei**
 

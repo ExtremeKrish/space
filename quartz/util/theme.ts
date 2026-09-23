@@ -87,11 +87,29 @@ function formatFontSpecification(
 
 export function googleFontHref(theme: Theme) {
   const { header, body, code } = theme.typography
-  const headerFont = formatFontSpecification("header", header)
-  const bodyFont = formatFontSpecification("body", body)
+
+  // Use the full Inter variable axes string (italics, optical sizing, weights)
+  const interVariable = "Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900"
+
+  const headerFont = header.toLowerCase().includes("inter") 
+    ? interVariable 
+    : formatFontSpecification("header", header)
+
+  const bodyFont = (body.toLowerCase().includes("inter") && header.toLowerCase().includes("inter"))
+    ? null 
+    : body.toLowerCase().includes("inter") 
+      ? interVariable 
+      : formatFontSpecification("body", body)
+
   const codeFont = formatFontSpecification("code", code)
 
-  return `https://fonts.googleapis.com/css2?family=${headerFont}&family=${bodyFont}&family=${codeFont}&display=swap`
+  const families = [
+    `family=${headerFont}`,
+    bodyFont ? `family=${bodyFont}` : null,
+    `family=${codeFont}`
+  ].filter(Boolean).join("&")
+
+  return `https://fonts.googleapis.com/css2?${families}&display=swap`
 }
 
 export function googleFontSubsetHref(theme: Theme, text: string) {

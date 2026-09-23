@@ -2,6 +2,7 @@
 tags:
   - cuet
 created: 2026-04-23 00:34
+title: "Chapter-12 Atoms"
 ---
 ```table-of-contents
 ```

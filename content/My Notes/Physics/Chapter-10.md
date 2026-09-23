@@ -3,6 +3,7 @@ tags:
   - cuet
   - physics
 created: 2026-04-19 15:40
+title: "Chapter-10 Wave Optics"
 ---
 ```table-of-contents
 ```
