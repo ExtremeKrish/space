@@ -219,7 +219,7 @@ If charge is outside a closed surface then Flux(in) and Flux (out) are same henc
 $\phi_{net} = 0$
 ## Electric Dipole
 *Jab do equal aur opposite charges bohot hi smalll sepration pr hote hain, to use ham dipole bolte hain*
-![[electric-dipole.excalidraw.svg]]
+![[electric-dipole.excalidraw.svg|center|440]]
 
 ### Electric Dipole Moment
 $\vec{P} = Charge \times Sepration$
