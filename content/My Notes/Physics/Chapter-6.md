@@ -247,5 +247,9 @@ $$
 ### Graph
 ![[Pasted image 20260505190338.jpg|579x387]]
 
+---
+
+![Read this Article on Michael Faraday](https://www.arvindguptatoys.com/arvindgupta/DH-AG-FARADAY.pdf)
+
 
 

@@ -4,13 +4,13 @@ tags:
 title: Chapter-1 Electrostatics
 ---
 
-**Electric Charge:-** we can generally say that electric charge is the inequality (or imbalance) of protons and electrons within an object, so its a property of matter, of experiencing force when there is inequality b/w Protons and Electrons.
+**Electric Charge:-** we can generally say that electric charge is the inequality (or imbalance) of protons and electrons within an object, so *its a property of matter*, of experiencing force when there is inequality b/w Protons and Electrons.
 
 ## Properties of Charge
 1. Like charges repel each other, unlike attract
 2. Charge is additive
 3. Charge of Isolated system is conserved *(Grass is gree is ahh phrase)*
-	- *Charge touch hone ke pehle or baad me same rehat hai dono Miya Biwi ke beech me*
+	- *Overall Charge touch hone ke pehle or baad me same rehat hai do conductors me*
 	- *Vo dono us universe me akele hain, to jo hoga unke bich me hoga*
 	- Q(net) is Constant
 4. Charge is invarient, but its mass is varient (infact everything's mass is varient *Relative Physics type shi & there's a formula given by Einstein* not imp for exam tho :)
@@ -44,18 +44,18 @@ $$\text{Specific Charge} = \frac{q}{m}$$
 
 Not important for exam
 ### Conductors & Insulators
-- Conductors:-
+- **Conductors**:- they're such material which let electricity or charge, pass through it.
 	- Free flow of electrons
 	- Charge reside on surface
-- Semi-Conductors:-
+- **Semi-Conductors**:-
 	- Partial Flow of Electrons
-- Insulators:-
+- **Insulators**:- they're such material which do not let electricity pass through it.
 	- No Flow dude 
-	- Charge can reside inside & on the surface
+	- Charge can reside inside & on the surface but do not move.
 ### Methods of Charging
 1. **By Rubbing** 
-	- When **glass rod** rubbed with **silk**, **electrons transferred from glass to silk**. So **glass rod becomes positively charged** and silk **becomes negatively charged.**
-	- When **ebonite rod** rubbed with **fur**, **electrons transferred from fur to ebonite rod**. So **fur becomes positively charged** and **ebonite rod becomes negatively charged.**
+	- When *glass rod* rubbed with *silk*, *electrons transferred from glass to silk*. So *glass rod becomes positively charged* and silk *becomes negatively charged.*
+	- When *ebonite rod* rubbed with *fur*, *electrons transferred from fur to ebonite rod*. So *fur becomes positively charged* and *ebonite rod becomes negatively charged.*
 2. **By Conduction** (raw)
 	- only for conductors
 	- Either one body or both should be charged
@@ -64,6 +64,7 @@ Not important for exam
 	- No Physical Touch by bodies
 ### Gold Leaf Electroscope
 A simple apparatus to detect charge on a body is the gold-leaf electroscope. It consists of a vertical metal rod housed in a box, with two thin gold leaves attached to its bottom end. When a charged object touches the metal knob at the top of the rod, charge flows on to the leaves and they diverge. The degree of divergance is an indicator of the amount of charge.
+
 ## Coulomb's Law
 ![[coulombs-law.svg|center|540]]
 

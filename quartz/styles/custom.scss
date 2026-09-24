@@ -241,6 +241,10 @@ article ul, article ul ul, article ol ul {
   list-style-type: disc !important;
 }
 
+article li::marker {
+  color: var(--darkgray);
+}
+
 /* 1. Import Libre Baskerville from Google Fonts */
 
 /* 2. Your Classic Theme Setup */
