@@ -68,6 +68,11 @@
   display: inline-block;
 }
 
+.ex-svg-wrapper svg {
+  max-width: 100%;
+  height: auto;
+}
+
 #quartz-body {
 padding:0 !important;
 
