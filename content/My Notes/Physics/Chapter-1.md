@@ -65,7 +65,7 @@ Not important for exam
 ### Gold Leaf Electroscope
 A simple apparatus to detect charge on a body is the gold-leaf electroscope. It consists of a vertical metal rod housed in a box, with two thin gold leaves attached to its bottom end. When a charged object touches the metal knob at the top of the rod, charge flows on to the leaves and they diverge. The degree of divergance is an indicator of the amount of charge.
 ## Coulomb's Law
-![Coulomb's Law Figure](/coulombs-law.svg)
+![[coulombs-law.svg|center|540]]
 
 $$
 F = \frac{k\,q_1\,q_2}{r^2}
@@ -84,7 +84,7 @@ $$
 - Electrostatic Forces are much stronger than Gravitaion force
 
 ### Permittivity of Free Space
-![[Pasted image 20260408140706.png]]
+![[Pasted image 20260408140706.png|center|300]]
 
 $\large \epsilon_\circ$ is **Permittivity of Free Space**
 
@@ -219,10 +219,8 @@ If charge is outside a closed surface then Flux(in) and Flux (out) are same henc
 $\phi_{net} = 0$
 ## Electric Dipole
 *Jab do equal aur opposite charges bohot hi smalll sepration pr hote hain, to use ham dipole bolte hain*
+![[electric-dipole.excalidraw.svg]]
 
-<---------------------
-(+)-------<2d>------(-)
-+Q                               -q
 ### Electric Dipole Moment
 $\vec{P} = Charge \times Sepration$
 $\vec{P} = q\,2d$
@@ -233,7 +231,7 @@ $\vec{P} = q\,2d$
 
 ### Electric Field due to Dipole on
 
-![[ef-on-equitorial-dipole.svg|center|645]]
+![[ef-on-equitorial-dipole.svg|center|445]]
 
 #### 1) On Axial Point
 $$
