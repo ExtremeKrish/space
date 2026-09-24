@@ -100,7 +100,7 @@ $\epsilon$ = **Permittivity of a Medium**
 
 *Water ka $\epsilon_r$ is 81*
 
-![[Pasted image 20260308153122.jpg|584x310]]
+![[Pasted image 20260308153122.jpg]]
 
 > [!question]- Two point charges having equal charges separated by 1 m distance experience a force of 8 N. What will be the force experienced by them, if they are held in water at the same distance? (Given, K = 80)
 > 0.1 N
@@ -233,7 +233,7 @@ $\vec{P} = q\,2d$
 
 ### Electric Field due to Dipole on
 
-
+![[ef-on-equitorial-dipole.svg|center]]
 
 #### 1) On Axial Point
 $$
@@ -253,7 +253,7 @@ $\vec{E_{net}} = \frac{kp}{r^3} \quad|\quad r>>d$
 > [!question]- If the magnitude of intensity of electric field at a distance x on axial line and at a distance y on equatorial line on a given dipole are equal, then x: y is
 
 #### 3. General Point *Not in NCERT*
-![[Pasted image 20260309123444.jpg|605x287]]
+![[Pasted image 20260309123444.jpg]]
 
 ### Torque on Electric Dipole
 $$
