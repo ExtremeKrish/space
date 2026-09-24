@@ -232,7 +232,9 @@ $\vec{P} = q\,2d$
 > $\sqrt{3}qa$
 
 ### Electric Field due to Dipole on
-![[Pasted image 20260402015247.png|750x457]]
+
+![diagram](./static/ef-on-equitorial-dipole.svg){data-ex-svg}
+
 #### 1) On Axial Point
 $$
 \vec{E} = \frac{kq\, 4dr}{(r^2-d^2)^2} =\frac{2kpr}{(r^2-d^2)^2}

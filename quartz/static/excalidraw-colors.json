@@ -1,0 +1,6 @@
+{
+  "#e03131": { "name": "red",   "light": "#e03131", "dark": "#ff8383" },
+  "#ff8383": { "name": "red",   "light": "#e03131", "dark": "#ff8383" },
+  "#1e1e1e": { "name": "black", "light": "#1e1e1e", "dark": "#d3d3d3" },
+  "#d3d3d3": { "name": "black", "light": "#1e1e1e", "dark": "#d3d3d3" }
+}
