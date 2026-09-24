@@ -233,7 +233,7 @@ $\vec{P} = q\,2d$
 
 ### Electric Field due to Dipole on
 
-![diagram](./static/ef-on-equitorial-dipole.svg){data-ex-svg}
+![diagram](./static/ef-on-equitorial-dipole.svg)
 
 #### 1) On Axial Point
 $$

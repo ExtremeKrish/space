@@ -48,6 +48,16 @@
 --tag-color:fff;
 }
 
+// quartz/styles/custom.scss
+:root {
+  --ex-red: #e03131;
+  --ex-black: #1e1e1e;
+}
+
+[saved-theme="dark"] {
+  --ex-red: #ff8383;
+  --ex-black: #d3d3d3;
+}
 
 #quartz-body {
 padding:0 !important;
