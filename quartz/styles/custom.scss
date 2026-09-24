@@ -58,6 +58,15 @@
   --ex-red: #ff8383;
   --ex-black: #d3d3d3;
 }
+.ex-center {
+  display: block;
+  text-align: center;
+}
+
+.ex-center img,
+.ex-center .ex-svg-wrapper {
+  display: inline-block;
+}
 
 #quartz-body {
 padding:0 !important;

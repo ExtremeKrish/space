@@ -1,44 +1,56 @@
 // quartz/components/scripts/svg-theme.inline.ts
 import colorMap from "../../static/excalidraw-colors.json"
 
+function isCentered(img: HTMLImageElement) {
+  return img.alt.trim().toLowerCase() === "center"
+}
+
 async function themeSvgs() {
-  const imgs = document.querySelectorAll<HTMLImageElement>('img[src$=".svg"]')
+  const allImgs = document.querySelectorAll<HTMLImageElement>("img")
 
-  for (const img of imgs) {
+  for (const img of allImgs) {
     const src = img.getAttribute("src")
-    if (!src) continue
+    const centered = isCentered(img)
 
-    const res = await fetch(src)
-    let svgText = await res.text()
+    if (src && src.endsWith(".svg")) {
+      // --- existing SVG inlining + color-swap logic ---
+      const res = await fetch(src)
+      let svgText = await res.text()
 
-    for (const [hex, entry] of Object.entries(colorMap)) {
-      const re = new RegExp(hex, "gi")
-      svgText = svgText.replace(re, `var(--ex-${entry.name})`)
-    }
-
-    // grab any width Obsidian's |number syntax set on the <img>, before we lose it
-    const explicitWidth = img.getAttribute("width")
-
-    const wrapper = document.createElement("span")
-    wrapper.className = "ex-svg-wrapper"
-    wrapper.innerHTML = svgText
-
-    const svgEl = wrapper.querySelector("svg")
-    if (svgEl) {
-      // drop Excalidraw's hardcoded 2x pixel dimensions — the viewBox
-      // alone is enough to keep the aspect ratio correct
-      svgEl.removeAttribute("width")
-      svgEl.removeAttribute("height")
-
-      if (explicitWidth) {
-        svgEl.style.width = `${explicitWidth}px`
-      } else {
-        svgEl.style.width = "100%"
+      for (const [hex, entry] of Object.entries(colorMap)) {
+        const re = new RegExp(hex, "gi")
+        svgText = svgText.replace(re, `var(--ex-${entry.name})`)
       }
-      svgEl.style.height = "auto"
-    }
 
-    img.replaceWith(wrapper)
+      const explicitWidth = img.getAttribute("width")
+
+      const svgWrapper = document.createElement("span")
+      svgWrapper.className = "ex-svg-wrapper"
+      svgWrapper.innerHTML = svgText
+
+      const svgEl = svgWrapper.querySelector("svg")
+      if (svgEl) {
+        svgEl.removeAttribute("width")
+        svgEl.removeAttribute("height")
+        svgEl.style.width = explicitWidth ? `${explicitWidth}px` : "100%"
+        svgEl.style.height = "auto"
+      }
+
+      if (centered) {
+        const center = document.createElement("div")
+        center.className = "ex-center"
+        center.appendChild(svgWrapper)
+        img.replaceWith(center)
+      } else {
+        img.replaceWith(svgWrapper)
+      }
+    } else if (centered) {
+      // --- plain jpg/png etc, just needs wrapping ---
+      const center = document.createElement("div")
+      center.className = "ex-center"
+      img.replaceWith(center)
+      center.appendChild(img)
+    }
   }
 }
 
