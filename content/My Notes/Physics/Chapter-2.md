@@ -160,7 +160,7 @@ There are two types of Dielectrics
 1. Polar - have permanenet dipole moment cuz centers are seprated e.g. $H_{2}$ or $O_{2}$
 2. Non Polar - centers coincide e.g. HCl , $H_{2}0$
 
-![[Pasted image 20260328005335.png|378x400]]
+![[Pasted image 20260328005335.png|center|378]]
 
 
 ## Capacitors and Capacitance

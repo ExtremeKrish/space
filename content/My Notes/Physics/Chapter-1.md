@@ -251,7 +251,7 @@ $\vec{E_{net}} = \frac{kp}{r^3} \quad|\quad r>>d$
 > [!question]- If the magnitude of intensity of electric field at a distance x on axial line and at a distance y on equatorial line on a given dipole are equal, then x: y is
 
 #### 3. General Point *Not in NCERT*
-![[Pasted image 20260309123444.jpg]]
+![[ef-due-to-dipole-on-general-point.excalidraw.svg|center|445]]
 
 ### Torque on Electric Dipole
 $$
