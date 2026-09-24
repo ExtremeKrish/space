@@ -2,9 +2,10 @@
 tags:
   - chemistry
 created: 2026-03-17T22:20:00
-title: Chapter-1 - Solutions
+title: "Chapter-1 Solutions"
 ---
-[**NCERT**](https://ncert.nic.in/textbook/pdf/lech101.pdf) |   [[Chem_Chapter_1_CUET.pdf]]
+
+[**NCERT**](https://ncert.nic.in/textbook/pdf/lech101.pdf)
 
 ## Solutions
 Solutions have 2+ Components, one is 

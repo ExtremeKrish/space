@@ -58,10 +58,10 @@ Where $\rho$ is **resistivity**
 - Insulators have resistivities 10^18 times greater than metals or more. 
 
 
-```Q
-Q) The resistance of a wire is 'R' ohm. If it is melted and stretched to 'n' times its original length, its new resistance will be:
-A) R' = $n^2$ R
-```
+
+> [!question]- The resistance of a wire is 'R' ohm. If it is melted and stretched to 'n' times its original length, its new resistance will be:
+> R' = $n^2$ R
+
 
 ### Graph
 → The Graph is a Straight Line as we all know (from Class X).
@@ -80,11 +80,12 @@ V = I \times \frac{\rho \ell}{A}
 $$
 - We know that $E = V/\ell$ from Chapter 2 : [[CUET/Physics/Chapter - 2#Relation between field and potential| Relation between field and potential]]
 - And J = I/A, so:
+
 $$
 \begin{align*}
 V &= j \rho \ell \\
 E &= j \rho \\
-\text{And 1/p = } \sigma &\text{ i.e. conductivity} \\
+\text{And } \frac{1}{\rho} &= \sigma \quad \text{(conductivity)} \\
 \Aboxed{j &= E \,\sigma} \tag{ncert 3.13}
 \end{align*}
 $$
@@ -149,10 +150,11 @@ We know that$\vec{J} = I/A$
 
 $$
 \begin{align*}
-\Aboxed{j &= neV_{d}} \\
+\Aboxed{j &\mathrel{=} neV_{d}} \\
 &= ne \times \left( \frac{eE}{m}\tau \right) \\
 j &= \frac{ne^{2}E}{m}\tau
 \end{align*}
+
 $$
 
 
@@ -270,3 +272,5 @@ $$
 ---
 **Chapter Revision Keywords**
 Current → Ohm's Law → Resistance & Resistivity → Current Density → Equivalent form of Ohm's Law → Drift Velocity → Relation b/w Current and Drift Velocity → Mobility → Temprature Dependence → Cell & EMF & Internal Resistance → Cells in Series/Parallel → Kirchoff's 1st Law (In Total = Out Total) & 2nd law (Loop Law) → Wheatstone Bridge
+
+> Try to recall everything you've understood in each topic.
