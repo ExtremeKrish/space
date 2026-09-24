@@ -121,9 +121,9 @@ This explains that Potential gets reduced in the direction of Electric Field
 - **Bring $q_1$:** Work = 0.
 - **Bring $q_2$:** Work = Work against $q_1$ (which is $\frac{1}{4\pi\varepsilon_0} \frac{q_1 q_2}{r_{12}}$).
 - **Bring $q_{3}$:** Work = Work against $q_{1}$ and $q_{2}$ which is :- 
-    $$
-	\frac{1}{4\pi\varepsilon_0} \frac{q_1 q_2}{r_{12}}\frac{q_1 q_3}{r_{13}}\frac{q_2 q_3}{r_{23}}
-	$$
+$$
+\frac{1}{4\pi\varepsilon_0} \frac{q_1 q_2}{r_{12}}\frac{q_1 q_3}{r_{13}}\frac{q_2 q_3}{r_{23}}
+$$
 	
 ## Potential Energy in an External Field
 ### 1. Of a Single Charge

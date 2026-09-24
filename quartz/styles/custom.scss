@@ -242,10 +242,18 @@ article ul, article ul ul, article ol ul {
 }
 
 article li::marker {
-  color: var(--darkgray);
+  color: var(--darkgray) !important;
 }
 
-/* 1. Import Libre Baskerville from Google Fonts */
+
+/* =============KATEX============= */
+.katex {
+  font: normal 1.1em KaTeX_Main,Times New Roman,serif;
+}
+
+.katex-display > .katex {
+font: normal 1.6em KaTeX_Main,Times New Roman,serif;
+}
 
 /* 2. Your Classic Theme Setup */
 body.classic {
