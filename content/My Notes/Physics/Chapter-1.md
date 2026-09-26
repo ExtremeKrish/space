@@ -54,7 +54,7 @@ Not important for exam
 	- Charge can reside inside & on the surface but do not move.
 
 > [!info] Do you know?
-> We discovered the difference between Conductors & Insulators in 1729 through the pioneering experiments of British scientist Stephen Gray. The same in which British East India company was just a commercial joint-stock corporation & Mughal Empire was in decline. In this year Maratha Ruler Peshwa Bajirao I married Mastani, a muslim princess of Bundelkhand.
+> We discovered the difference between Conductors & Insulators in 1729 through the pioneering experiments of British scientist Stephen Gray, ![Read More](https://extremekrish.github.io/space/History/Science/electricity#2-conductors-and-non-conductors). The same in which British East India company was just a commercial joint-stock corporation & Mughal Empire was in decline. In this year Maratha Ruler Peshwa Bajirao I married Mastani, a muslim princess of Bundelkhand.
 
 ### Methods of Charging
 1. **By Rubbing** 
@@ -145,7 +145,7 @@ $$\vec{E} = \frac{\vec{F}}{q}$$
 
 
 ### Graph
-![[electric-field-graph.excalidraw.svg|cener|440]]
+![[electric-field-graph.excalidraw.svg|center|440]]
 
 ### Units of Electric Field
 Its N/C cuz $\vec{E} = \frac{\vec{F}}{q} = \frac{N}{C}$

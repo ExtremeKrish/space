@@ -153,6 +153,12 @@ font-weight:400;
 text-decoration: underline;
 }
 
+article a.internal {
+  text-decoration: underline !important;
+  text-decoration-thickness: 1px; /* Make it very thin */
+}
+
+
 .callout{
 border-radius:0 !important;
 //border:0;
