@@ -52,6 +52,10 @@ Not important for exam
 - **Insulators**:- they're such material which do not let electricity pass through it.
 	- No Flow dude 
 	- Charge can reside inside & on the surface but do not move.
+
+> [!info] Do you know?
+> We discovered the difference between Conductors & Insulators in 1729 through the pioneering experiments of British scientist Stephen Gray. The same in which British East India company was just a commercial joint-stock corporation & Mughal Empire was in decline. In this year Maratha Ruler Peshwa Bajirao I married Mastani, a muslim princess of Bundelkhand.
+
 ### Methods of Charging
 1. **By Rubbing** 
 	- When *glass rod* rubbed with *silk*, *electrons transferred from glass to silk*. So *glass rod becomes positively charged* and silk *becomes negatively charged.*
@@ -141,7 +145,7 @@ $$\vec{E} = \frac{\vec{F}}{q}$$
 
 
 ### Graph
-![[Pasted image 20260308164503.png]]
+![[electric-field-graph.excalidraw.svg|cener|440]]
 
 ### Units of Electric Field
 Its N/C cuz $\vec{E} = \frac{\vec{F}}{q} = \frac{N}{C}$

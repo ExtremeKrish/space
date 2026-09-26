@@ -248,11 +248,11 @@ article li::marker {
 
 /* =============KATEX============= */
 .katex {
-  font: normal 1.1em KaTeX_Main,Times New Roman,serif;
+  font: normal 1.1rem KaTeX_Main,Times New Roman,serif !important;
 }
 
 .katex-display > .katex {
-font: normal 1.6em KaTeX_Main,Times New Roman,serif;
+font: normal 1.6rem KaTeX_Main,Times New Roman,serif !important;
 }
 
 /* 2. Your Classic Theme Setup */
