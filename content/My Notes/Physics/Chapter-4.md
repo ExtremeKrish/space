@@ -31,13 +31,13 @@ Where $\mu_{0}$ is the **Permeability of Free Space**
 Value of $\mu_{0}/4\pi$ is $10^{-7} \,TmA^{-1}$
 And thus $\mu_{0} = 4\pi \times 10^{-7}$  👈 Imp ASF.
 
-**Similarities Between Biot-Savart Law & [[CUET/Physics/Chapter - 1#Coulomb's Law|Coulomb's Law]]:**
+**Similarities Between Biot-Savart Law & [[My-Notes/Physics/Chapter-1#coulombs-law|Coulomb's Law]]:**
 1. Both are long range.
 2. Superposition Principle applies to both fields.
 3. Idk but some more,
 4. Whoever tf is prep'in for board, google it dawg.
 
-**Relation b/w Permeability & [[CUET/Physics/Chapter - 1#Permittivity of Free Space|Permittivity of Free Space]]**
+**Relation b/w Permeability & [[My-Notes/Physics/Chapter-1#permittivity-of-free-space|Permittivity of Free Space]]**
 $$
 \mathcal{E}_{\circ}\mu_{\circ} = \frac{1}{c^2}
 $$
@@ -46,7 +46,7 @@ $$
 
 #### Finite & Angles Given
 
-![[Pasted image 20260501154548.png|439x439]] ![[Your paragraph text_20260501_155536_0000.png|438x438]]
+![[magnetic-field-on-finite-wire.excalidraw.svg|center|400]]
 
 $$
 B = \frac{\mu_{0}}{4\pi} \frac{I}{r} (\sin \phi_{1} + \sin \phi_{2})
@@ -58,7 +58,7 @@ B = \frac{\mu_{0}}{2\pi} \frac{I}{r}
 $$
 
 ### Magnetic Field on the *Center* of Circular Current Loop
-*But in NCERT we first study the* [[#Magnetic Field on the *Axis* of Circular Current Loop]] 
+*But in NCERT we first study the* [[#magnetic-field-on-the-axis-of-circular-current-loop|Magnetic Field on the Axis of Circular Current Loop]] 
 
 $$
 \begin{align*}
@@ -72,7 +72,7 @@ $$
 **Just multiply ts with n, for n number of turns.**
 
 ### Magnetic Field on the *Axis* of Circular Current Loop
-![[Pasted image 20260411200930.png|820x429]]
+![[magnetic-field-on-axis-of-loop.excalidraw.svg]]
 $$
 \begin{align*}
 dB_{x} &= \int dB \sin \phi \\

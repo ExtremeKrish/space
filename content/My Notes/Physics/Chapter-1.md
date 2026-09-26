@@ -54,7 +54,7 @@ Not important for exam
 	- Charge can reside inside & on the surface but do not move.
 
 > [!info] Do you know?
-> We discovered the difference between Conductors & Insulators in 1729 through the pioneering experiments of British scientist Stephen Gray, ![Read More](https://extremekrish.github.io/space/History/Science/electricity#2-conductors-and-non-conductors). The same in which British East India company was just a commercial joint-stock corporation & Mughal Empire was in decline. In this year Maratha Ruler Peshwa Bajirao I married Mastani, a muslim princess of Bundelkhand.
+> We discovered the difference between Conductors & Insulators in 1729 through the pioneering experiments of British scientist Stephen Gray, [Read More](https://extremekrish.github.io/space/History/Science/electricity#2-conductors-and-non-conductors) . The same in which British East India company was just a commercial joint-stock corporation & Mughal Empire was in decline. In this year Maratha Ruler Peshwa Bajirao I married Mastani, a muslim princess of Bundelkhand.
 
 ### Methods of Charging
 1. **By Rubbing** 
@@ -80,7 +80,7 @@ $$
 - $k = 9 \times 10^9 Nm^2/C^2$ *(In Free Space / Vaccum)*
 - $\large k = \Large\frac{1}{4\pi \epsilon_\circ}$   
    
-### Properties of Coulomb's Law
+### Properties of Coulomb's Law (Theory)
 - Valid only for point charges
 - Follows Newton's 3rd law
 - Both Laws of Gravitation & Coulomb's Law follow Inverse Square Law
@@ -91,9 +91,9 @@ $$
 ### Permittivity of Free Space
 ![[Pasted image 20260408140706.png|center|300]]
 
-$\large \epsilon_\circ$ is **Permittivity of Free Space**
+$\large \epsilon_\circ$ is called **Permittivity of Free Space**
 
-$\epsilon_\circ = 8.85 * 10^{-12} N^{-1}m^{-2}C^2$
+And its value is $\epsilon_\circ = 8.85 * 10^{-12} N^{-1}m^{-2}C^2$.
 
 ### Permittivity of a Medium
 $$
@@ -136,7 +136,10 @@ $$
 &= \frac{kq_{1}q_{2}}{r^{3}} \vec{r}
 \end{align*}
 $$
+
 ## Electric Field
+A charge produces something called an *electric field* in the space around it and this electric field exerts a force on any charge (except the source charge itself) placed in it. 
+The electric field has its own existence and is present even if there is no additional charge to experience the force.
 
 $$|\vec{E}| = \frac{kQ}{r^2}$$
 And
@@ -151,7 +154,7 @@ $$\vec{E} = \frac{\vec{F}}{q}$$
 Its N/C cuz $\vec{E} = \frac{\vec{F}}{q} = \frac{N}{C}$
 
 & Dimention = $[MLT^{-3}A^{-1}]$
-### Properties of Electric Field Lines
+### Properties of Electric Field Lines (Theory)
 1. They start from positive and terminate at negative, 
 2. They do not form closed loops
 3. Tangent to the field gives us the direction of electric field at that point.
