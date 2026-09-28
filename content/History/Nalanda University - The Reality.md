@@ -4,7 +4,7 @@ tags:
   - nalanda
   - history
 created: 2026-03-13 23:25
-title: Nalanda University - The Reality
+title: "Nalanda University - The Reality"
 ---
 When we talk about History, there are some conspiracy theorists who have their own type of history to be presented, slighly or wholly different than the one which is academically & globally accepted.
 

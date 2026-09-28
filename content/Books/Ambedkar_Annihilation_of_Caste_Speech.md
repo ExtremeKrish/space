@@ -1,5 +1,8 @@
 ---
 title: "Annihilation of Caste"
+body_class: "book"
+tags:
+  - ambedkar
 ---
 
 ## Speech prepared by Dr. B. R. Ambedkar
