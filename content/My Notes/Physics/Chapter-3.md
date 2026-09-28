@@ -26,6 +26,7 @@ $$
 ### Graph
 - Slope of Charge-Time graph gives us Current
 - Area under Current-Time graph gives us Charge
+
 ### Current in Different Materials
 - **Conductors** - Free Flow of Electrons
 - **Electrolytes** - Charge flows thru fluid, via Ions

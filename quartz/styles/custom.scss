@@ -372,4 +372,13 @@ letter-spacing: -1.5px !important;
 
 body.test {
 font-family: 'KaTeX_Main', 'Times New Roman', serif !important;
+
+.katex {
+  font: normal 1.4rem KaTeX_Main,Times New Roman,serif !important;
+}
+
+.katex-display > .katex {
+font: normal 1.6rem KaTeX_Main,Times New Roman,serif !important;
+}
+
 }
