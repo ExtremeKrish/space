@@ -266,12 +266,11 @@ export function renderPage(
       <Head {...componentData} />         
       <body data-slug={slug} class={frontmatterBodyClass}>
         <div id="quartz-root" class={`page ${frontmatterBodyClass}`}>
-            {/* ADD THIS BLOCK: Dynamically injects the font import straight into the rendered DOM */}
-          {frontmatterBodyClass.includes("classic") && (
-            <style dangerouslySetInnerHTML={{ __html: `
-              @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Cutive+Mono&family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
-            `}} />
-          )}
+           {/* Dynamically injects the font import straight into the rendered DOM by default */}
+<style dangerouslySetInnerHTML={{ __html: `
+  @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Cutive+Mono&family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+`}} />
+
           <Body {...componentData}>
             {LeftComponent}
             <div class="center">
