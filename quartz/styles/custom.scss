@@ -391,6 +391,15 @@ h1, h2, h3, h4, h5, h6 {
  font-family: "EB Garamond", serif;
 }
 
---italic-color: var(--dark) !important;
+blockquote {
+border:none !important;
+padding-right:1rem;
+}
 
+--italic-color: var(--dark) !important;
+--bold-color: var(--dark) !important;
+
+  [saved-theme="dark"] & {
+    --light: #181818 !important;
+    }
 }
