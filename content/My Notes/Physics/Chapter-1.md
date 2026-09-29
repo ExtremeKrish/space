@@ -4,6 +4,9 @@ tags:
 title: Chapter-1 Electrostatics
 ---
 
+```table of contents
+```
+
 **Electric Charge:-** we can generally say that electric charge is the inequality (or imbalance) of protons and electrons within an object, so *its a property of matter*, of experiencing force when there is inequality b/w Protons and Electrons.
 
 ## Properties of Charge
