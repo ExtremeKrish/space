@@ -4,29 +4,43 @@ import { visit } from "unist-util-visit"
 import { toString } from "mdast-util-to-string"
 import Slugger from "github-slugger"
 
+type Style = "bullet" | "numbered" | "outline"
+
 interface Options {
   minDepth: number
   maxDepth: number
   title: string
+  defaultStyle: Style
+  stripNumbers: boolean
 }
 
 const defaultOptions: Options = {
   minDepth: 1,
   maxDepth: 4,
   title: "Table of Contents",
+  defaultStyle: "bullet",
+  stripNumbers: true,
 }
 
 interface Entry {
   depth: number
-  text: string
-  slug: string
+  text: string // shown in the TOC (number removed)
+  slug: string // always made from the ORIGINAL heading
 }
 interface TreeNode {
   entry?: Entry
   children: TreeNode[]
 }
 
-// turn flat headings into a nested tree (handles skipped levels like h2 -> h4)
+// removes "1. ", "1) ", "1.2 ", "1.2.3. " from the start of a heading
+const leadingNumber = /^\s*(?:\d+(?:\.\d+)+\.?|\d+[.)])\s+/
+
+function cleanText(text: string, strip: boolean): string {
+  if (!strip) return text
+  const cleaned = text.replace(leadingNumber, "").trim()
+  return cleaned.length > 0 ? cleaned : text
+}
+
 function buildTree(entries: Entry[]): TreeNode {
   const root: TreeNode = { children: [] }
   const stack: { depth: number; node: TreeNode }[] = [{ depth: 0, node: root }]
@@ -39,11 +53,10 @@ function buildTree(entries: Entry[]): TreeNode {
   return root
 }
 
-// nested tree -> hast (HTML tree)
-function toHast(nodes: TreeNode[]): any {
+function toHast(nodes: TreeNode[], tag: "ul" | "ol"): any {
   return {
     type: "element",
-    tagName: "ul",
+    tagName: tag,
     properties: {},
     children: nodes.map((n) => ({
       type: "element",
@@ -56,11 +69,14 @@ function toHast(nodes: TreeNode[]): any {
           properties: { href: `#${n.entry!.slug}` },
           children: [{ type: "text", value: n.entry!.text }],
         },
-        ...(n.children.length > 0 ? [toHast(n.children)] : []),
+        ...(n.children.length > 0 ? [toHast(n.children, tag)] : []),
       ],
     })),
   }
 }
+
+// matches: toc | table of contents, optionally followed by bullet | numbered | outline
+const markerRegex = /^(?:table of contents|toc)(?:\s+(bullet|numbered|outline))?$/
 
 export const InlineTOC: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
@@ -70,29 +86,34 @@ export const InlineTOC: QuartzTransformerPlugin<Partial<Options>> = (userOpts) =
       return [
         () => {
           return (tree: Root) => {
-            // pass 1: collect all headings (slugger must see every heading
-            // so duplicate names get the same -1, -2 suffixes as the page)
             const slugger = new Slugger()
             const entries: Entry[] = []
             visit(tree, "heading", (node) => {
-              const text = toString(node)
-              const slug = slugger.slug(text)
+              const original = toString(node)
+              const slug = slugger.slug(original)
               if (node.depth >= opts.minDepth && node.depth <= opts.maxDepth) {
-                entries.push({ depth: node.depth, text, slug })
+                entries.push({
+                  depth: node.depth,
+                  text: cleanText(original, opts.stripNumbers),
+                  slug,
+                })
               }
             })
 
-            // pass 2: replace the marker code block
             visit(tree, "code", (node: any, index, parent) => {
-              const marker = `${node.lang ?? ""} ${node.meta ?? ""}`.trim().toLowerCase()
-              if (marker !== "table of contents" && marker !== "toc") return
+              const raw = `${node.lang ?? ""} ${node.meta ?? ""}`.trim().toLowerCase()
+              const match = raw.match(markerRegex)
+              if (!match) return
               if (!parent || index === undefined || entries.length === 0) return
 
-              const replacement: any = {
+              const style: Style = (match[1] as Style) ?? opts.defaultStyle
+              const listTag = style === "bullet" ? "ul" : "ol"
+
+              parent.children[index] = {
                 type: "inlineToc",
                 data: {
                   hName: "nav",
-                  hProperties: { className: ["inline-toc"] },
+                  hProperties: { className: ["inline-toc", `inline-toc-${style}`] },
                   hChildren: [
                     {
                       type: "element",
@@ -100,11 +121,10 @@ export const InlineTOC: QuartzTransformerPlugin<Partial<Options>> = (userOpts) =
                       properties: { className: ["inline-toc-title"] },
                       children: [{ type: "text", value: opts.title }],
                     },
-                    toHast(buildTree(entries).children),
+                    toHast(buildTree(entries).children, listTag),
                   ],
                 },
-              }
-              parent.children[index] = replacement
+              } as any
             })
           }
         },

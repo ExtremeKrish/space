@@ -9,7 +9,7 @@ tags:
 
 > Owing to the cancellation of the Conference by the Reception Committee on the ground that the views expressed in the Speech would be unbearable to the Conference.
 
-```table of contents
+```toc numbered
 ```
 
 ## 1 [Introduction—why I am an unlikely President for this Conference]
