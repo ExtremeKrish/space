@@ -12,7 +12,7 @@ tags:
 ```toc numbered
 ```
 
-## 1 [Introduction—why I am an unlikely President for this Conference]
+## 1. [Introduction—why I am an unlikely President for this Conference]
 
 [1:] Friends,
 
@@ -24,7 +24,7 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [4:] I have no desire to ascend the platform of the **Hindus**, to do within their sight what I have been doing within their hearing. If I am here it is because of your choice and not because of my wish. Yours is a cause of social reform. That cause has always made an appeal to me, and it is because of this that I felt I ought not to refuse an opportunity of helping the cause—especially when you think that I can help it. Whether what I am going to say today will help you in any way to solve the problem you are grappling with, is for you to judge. All I hope to do is to place before you my views on the problem.
 
-## 2 [Why social reform is necessary for political reform]
+## 2. [Why social reform is necessary for political reform]
 
 [1:] The path of social reform, like the path to heaven (at any rate, in India), is strewn with many difficulties. Social reform in India has few friends and many critics. The critics fall into two distinct classes. One class consists of political reformers, and the other of the Socialists.
 
@@ -83,7 +83,7 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [22:] The same is true of the **Muslim Empire**. Before the Arabs became a political power, they had undergone a thorough religious revolution started by the **Prophet Mohammad**. Even Indian History supports the same conclusion. The political revolution led by **Chandragupta** was preceded by the religious and social revolution of **Buddha**. The political revolution led by **Shivaji** was preceded by the religious and social reform brought about by the **saints of** **Maharashtra**. The political revolution of the **Sikhs** was preceded by the religious and social revolution led by **Guru** **Nanak**. It is unnecessary to add more illustrations. These will suffice to show that the emancipation of the mind and the soul is a necessary preliminary for the political expansion of the people.
 
-## 3 [Why social reform is necessary for economic reform]
+## 3. [Why social reform is necessary for economic reform]
 
 [1:] Let me now turn to the Socialists. Can the Socialists ignore the problem arising out of the social order? The Socialists of India, following their fellows in Europe, are seeking to apply the economic interpretation of history to the facts of India. They propound that man is an economic creature, that his activities and aspirations are bound by economic facts, that property is the only source of power. They therefore preach that political and social reforms are but gigantic illusions, and that economic reform by equalization of property must have precedence over every other kind of reform. One may take issue with every one of these premises—on which rests the Socialists' case for economic reform as having priority over issue with every one of these premises—on which rests the Socialists' case for economic reform as having priority over every other kind of reform. One may contend that the economic motive is not the only motive by which man is actuated [=motivated]. That economic power is the only kind of power, no student of human society can accept.
 
@@ -111,7 +111,7 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [13:] That the social order prevalent in India is a matter which a Socialist must deal with; that unless he does so he cannot achieve his revolution; and that if he does achieve it as a result of good fortune, he will have to grapple with the social order if he wishes to realize his ideal—is a proposition which in my opinion is incontrovertible. He will be compelled to take account of Caste after the revolution, if he does not take account of it before the revolution. This is only another way of saying that, turn in any direction you like, Caste is the monster that crosses your path. You cannot have political reform, you cannot have economic reform, unless you kill this monster.
 
-## 4 [Caste is not just a division of labour, it is a division of labourers]
+## 4. [Caste is not just a division of labour, it is a division of labourers]
 
 [1:] It is a pity that Caste even today has its defenders. The defences are many. It is defended on the ground that the **Caste** **System** is but another name for division of labour; and if division of labour is a necessary feature of every civilized society, then it is argued that there is nothing wrong in the Caste System. Now the first thing that is to be urged against this view is that the Caste System is not merely a division of labour. ***It is also a division of labourers***. Civilized society undoubtedly needs division of labour. But in no civilized society is division of labour accompanied by this unnatural undoubtedly needs division of labour. But in no civilized society is division of labour accompanied by this unnatural division of labourers into watertight compartments. The Caste System is not merely a division of labourers which is quite different from division of labour—it is a hierarchy in which the divisions of labourers are graded one above the other. In no other country is the division of labour accompanied by this gradation of labourers.
 
@@ -123,7 +123,7 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [5:] There are many occupations in India which, on account of the fact that they are regarded as degraded by the Hindus, provoke those who are engaged in them to aversion. There is a constant desire to evade and escape from such occupations, which arises solely because of the blighting effect which they produce upon those who follow them, owing to the slight and stigma cast upon them by the **Hindu** religion. What efficiency can there be in a system under which neither men's hearts nor their minds are in their work? As an economic organization Caste is therefore a harmful institution, inasmuch as it involves the subordination of man's natural powers and inclinations to the exigencies of social rules.
 
-## 5 [Caste cannot preserve a nonexistent "racial purity"]
+## 5. [Caste cannot preserve a nonexistent "racial purity"]
 
 [1:] Some have dug a biological trench in defence of the **Caste System**. It is said that the object of Caste was to preserve purity of race and purity of blood. Now ethnologists are of the opinion that men of pure race exist nowhere and that there has been a mixture of all races in all parts of the world. Especially is this the case with the people of India. **Mr. D. R.** **Bhandarkar** in his paper on "Foreign Elements in the **Hindu** Population" has stated that "There is hardly a class or Caste in India which has not a foreign strain in it. There is an admixture of alien blood not only among the warrior classes —the **Rajputs** and the Marathas—but also among the **Brahmins** who are under the happy delusion that they are free from all foreign elements." The Caste system cannot be said to have grown as a means of preventing the admixture of races, or as a means of maintaining purity of blood.
 
@@ -141,7 +141,7 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [8:] A tree should be judged by the fruits it yields. If Caste is eugenic, what sort of a race of men should it have produced? Physically speaking the **Hindus** are a C<sup>3</sup> people. They are a race of Pygmies and dwarfs, stunted in stature and wanting in stamina. It is a nation 9/10ths of which is declared to be unfit for military service. This shows that the **Caste System** does not embody the **eugenics** of modern scientists. It is a social system which embodies the arrogance and selfishness of a perverse section of the **Hindus** who were superior enough in social status to set it in fashion, and who had the authority to force it on their inferiors.
 
-## 6 [Caste prevents Hindus from forming a real society or nation]
+## 6. [Caste prevents Hindus from forming a real society or nation]
 
 [1:] Caste does not result in economic efficiency. Caste cannot improve, and has not improved, the race. Caste has however done one thing. It has completely disorganized and demoralized the Hindus.
 
@@ -157,7 +157,7 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [7:] This is proved by the fact that the festivals observed by the different castes amongst the **Hindus** are the same. Yet these parallel performances of similar festivals by the different castes have not bound them into one integral whole. For that purpose what is necessary is for a man to share and participate in a common activity, so that the same emotions are aroused in him that animate the others. Making the individual a sharer or partner in the associated activity, so that he feels its success as his success, its failure as his failure, is the real thing that binds men and makes a society of them. <mark>The Caste System prevents common activity; and by preventing common activity, it has prevented the Hindus from becoming a society with a unified life and a consciousness of its own being.</mark>
 
-## 7 [The worst feature of the Caste System is an anti-social spirit]
+## 7. [The worst feature of the Caste System is an anti-social spirit]
 
 [1:] The **Hindus** often complain of the isolation and exclusiveness of a gang or a clique and blame them for anti-social spirit. But they conveniently forget that this anti-social spirit is the worst feature of their own **Caste System**. One caste enjoys singing a hymn of hate against another caste as much as the Germans enjoyed singing their hymn of hate against the English during the last war [=World War I]. The literature of the Hindus is full of caste genealogies in which an attempt is made to give a noble origin to one caste and an ignoble origin to other castes. The **Sahyadrikhand** is a attempt is made to give a noble origin to one caste and an ignoble origin to other castes. The **Sahyadrikhand** is a notorious instance of this class of literature.
 
@@ -167,7 +167,7 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [4:] There is another feature of caste which is deplorable. The ancestors of the present-day English fought on one side or the other in the Wars of the Roses and the Cromwellian War. But the descendants of those who fought on the one side do not bear any animosity—any grudge—against the descendents of those who fought on the other side. The feud is forgotten. But the present-day non-Brahmins cannot forgive the present-day **Brahmins** for the **insult their ancestors gave** to **Shivaji**. The present-day **Kayasthas** will not forgive the present-day Brahmins for the **infamy cast upon their** **forefathers** by the forefathers of the latter. To what is this difference due? Obviously to the **Caste System**. The existence of Caste and Caste Consciousness has served to keep the memory of past feuds between castes green, and has prevented solidarity.
 
-## 8 [Caste prevents the uplift and incorporation of the aboriginal tribes]
+## 8. [Caste prevents the uplift and incorporation of the aboriginal tribes]
 
 [1:] The recent [**constitutional**] discussion about the excluded and partially included areas has served to draw attention to the position of what are called the **aboriginal tribes** in India. They number about 13 millions, if not more. Apart from the question of whether their exclusion from the new Constitution is proper or improper, the fact still remains that these aborigines have remained in their primitive uncivilized state in a land which boasts of a civilization thousands of years old. Not only are they not civilized, but some of them follow pursuits which have led to their being **classified as criminals**.
 
@@ -177,7 +177,7 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [4:] Not that a **Hindu** could not be taught the sense of duty to fallen humanity, but the trouble is that no amount of sense of duty can enable him to overcome his duty to preserve his caste. Caste is, therefore, the real explanation as to why the Hindu has let the savage remain a savage in the midst of his civilization without blushing, or without feeling any sense of remorse or repentance. The Hindu has not realized that these aborigines are a source of potential danger. If these savages remorse or repentance. <mark>The Hindu has not realized that these aborigines are a source of potential danger. If these savages remain savages, they may not do any harm to the Hindus. But if they are reclaimed by non-Hindus and converted to their faiths, they will swell the ranks of the enemies of the Hindus. If this happens, the Hindu will have to thank himself and his **Caste System**.</mark>
 
-## 9 [The higher castes have conspired to keep the lower castes down]
+## 9. [The higher castes have conspired to keep the lower castes down]
 
 [1:] Not only has the **Hindu** made no effort for the humanitarian cause of civilizing the savages, but the higher-caste Hindus have deliberately prevented the lower castes who are within the pale of Hinduism from rising to the cultural level of the higher castes. I will give two instances, one of the **Sonars** and the other of the **Pathare Prabhus**. Both are communities quite well-known in **Maharashtra**. Like the rest of the communities desiring to raise their status, these two communities were at one time endeavouring to adopt some of the ways and habits of the **Brahmins**.
 
@@ -187,7 +187,7 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [4:] <mark>The **Hindus** criticise the **Mohammedans** for having spread their religion by the use of the sword. They also ridicule Christianity on the score of the Inquisition. But really speaking, who is better and more worthy of our respect—the Mohammedans and Christians who attempted to thrust down the throats of unwilling persons what they regarded as necessary for their salvation, or the **Hindu** who would not spread the light, who would endeavour to keep others in darkness, who would not consent to share his intellectual and social inheritance with those who are ready and willing to make it a part of their own make-up? I have no hesitation in saying that if the Mohammedan has been cruel, the Hindu has been mean; and meanness is worse than cruelty.</mark>
 
-## 10 [Caste prevents Hinduism from being a missionary religion]
+## 10. [Caste prevents Hinduism from being a missionary religion]
 
 [1:] Whether the **Hindu** religion was or was not a missionary religion has been a controversial issue. Some hold the view that it was never a missionary religion. Others hold that it was. That the Hindu religion was once a missionary religion must be admitted. It could not have spread over the face of India, if it was not a missionary religion. That today it is not a missionary religion is also a fact which must be accepted. The question therefore is not whether or not the Hindu religion was a missionary religion. The real question is, why did the Hindu religion cease to be a missionary religion?
 
@@ -195,7 +195,7 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [3:] Unlike a club, the membership of a caste is not open to all and sundry. The law of Caste confines its membership to persons born in the caste. Castes are autonomous, and there is no authority anywhere to compel a caste to admit a new-comer to its social life. **Hindu** Society being a collection of castes, and each caste being a closed corporation, there is no place for a convert. Thus it is the caste which has prevented the **Hindus** from expanding and from absorbing other religious communities. So long as Caste remains, Hindu religion cannot be made a missionary religion, and **Shudhi** will be both a folly and a futility.
 
-## 11 [Caste deprives Hindus of mutual help, trust, and fellow-feeling]
+## 11. [Caste deprives Hindus of mutual help, trust, and fellow-feeling]
 
 [1:] The reasons which have made **Shudhi** impossible for **Hindus** are also responsible for making **Sanghatan** impossible. The idea underlying Sanghatan is to remove from the mind of the **Hindu** that timidity and cowardice which so painfully mark him off from the Mohammedan and the Sikh, and which have led him to adopt the low ways of treachery and cunning for protecting himself. The question naturally arises: From where does the Sikh or the Mohammedan derive his strength, which makes him brave and fearless? I am sure it is not due to relative superiority of physical strength, diet, or drill. It is due to the strength arising out of the feeling that all **Sikhs** will come to the rescue of a Sikh when he is in danger, and that all **Mohammedans** will rush to save a Muslim if he is attacked.
 
@@ -205,7 +205,7 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [4:] The **Hindus** claim to be a very tolerant people. In my opinion this is a mistake. On many occasions they can be intolerant, and if on some occasions they are tolerant, that is because they are too weak to oppose or too indifferent to oppose. This indifference of the Hindus has become so much a part of their nature that a Hindu will quite meekly tolerate an insult as well as a wrong. You see amongst them, to use the words of **Morris**, "The great treading down the little, the strong beating down the weak, cruel men fearing not, kind men daring not and wise men caring not." With the Hindu Gods all-forbearing, it is not difficult to imagine the pitiable condition of the wronged and the oppressed among the Hindus. Indifferentism is the worst kind of disease that can infect a people. Why is the Hindu so indifferent? In my opinion this indifferentism is the result of the **Caste System**, which has made **Sanghatan** and co-operation even for a good cause impossible.
 
-## 12 [Caste is a powerful weapon for preventing all reform]
+## 12. [Caste is a powerful weapon for preventing all reform]
 
 [1:] The assertion by the individual of his own opinions and beliefs, his own independence and interest—as over against group standards, group authority, and group interests—is the beginning of all reform. But whether the reform will continue depends upon what scope the group affords for such individual assertion. If the group is tolerant and fair-minded in dealing with such individuals, they will continue to assert [their beliefs], and in the end will succeed in converting their fellows. On the other hand if the group is intolerant, and does not bother about the means it adopts to stifle such individuals, they will perish and the reform will die out.
 
@@ -215,13 +215,13 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [4:] A caste can easily organize itself into a conspiracy to make the life of a reformer a hell; and if a conspiracy is a crime, I do not understand why such a nefarious act as an attempt to excommunicate a person for daring to act contrary to the rules of caste should not be made an offence punishable in law. But as it is, even law gives each caste an autonomy to regulate its membership and punish dissenters with excommunication. Caste in the hands of the orthodox has been a powerful weapon for persecuting the reformers and for killing all reform.
 
-## 13 [Caste destroys public spirit, public opinion, and public charity]
+## 13. [Caste destroys public spirit, public opinion, and public charity]
 
 [1:] The effect of caste on the ethics of the **Hindus** is simply deplorable. Caste has killed public spirit. Caste has destroyed the sense of public charity. Caste has made public opinion impossible. A **Hindu**'s public is his caste. His responsibility is only to his caste. His loyalty is restricted only to his caste. Virtue has become caste-ridden, and morality has become caste-bound. There is no sympathy for the deserving. There is no appreciation of the meritorious. There is no charity to the needy. Suffering as such calls for no response. There is charity, but it begins with the caste and ends with the caste. There is sympathy, but not for men of other castes.
 
 [2:] Would a **Hindu** acknowledge and follow the leadership of a great and good man? The case of a **Mahatma** apart, the answer must be that he will follow a leader if he is a man of his caste. A **Brahmin** will follow a leader only if he is a Brahmin, a **Kayastha** if he is a Kayastha, and so on. The capacity to appreciate merits in a man, apart from his caste, does not exist in a Hindu. There is appreciation of virtue, but only when the man is a fellow caste-man. The whole morality is as bad as tribal morality. My caste-man, right or wrong; my caste-man, good or bad. It is not a case of standing by virtue or not standing by vice. It is a case of standing by, or not standing by, the caste. Have not Hindus committed treason against their country in the interests of their caste?
 
-## 14 [My ideal: a society based on Liberty, Equality, and Fraternity]
+## 14. [My ideal: a society based on Liberty, Equality, and Fraternity]
 
 [1:] I would not be surprized if some of you have grown weary listening to this tiresome tale of the sad effects which caste has produced. There is nothing new in it. I will therefore turn to the constructive side of the problem. What is your ideal society if you do not want caste, is a question that is bound to be asked of you. If you ask me, my ideal would be a society based on *Liberty, Equality, and Fraternity*. And why not?
 
@@ -237,7 +237,7 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [7:] On the other hand, it can be urged that if it is good for the social body to get the most out of its members, it can get the most out of them only by making them equal as far as possible at the very start of the race. That is one reason why we cannot escape equality. But there is another reason why we must accept equality. A statesman is concerned with vast numbers of people. He has neither the time nor the knowledge to draw fine distinctions and to treat each one equitably, i.e. according to need or according to capacity. However desirable or reasonable an equitable treatment of men may be, humanity is not capable of assortment and classification. The statesman, therefore, must follow some rough and ready rule, and that rough and ready rule is to treat all men alike, not because they are alike but because classification and assortment is impossible. The doctrine of equality is glaringly fallacious but, taking all in all, it is the only way a statesman can proceed in politics—which is a severely practical affair and which demands a severely practical test.
 
-## 15 [The Arya Samajists' "Chaturvarnya" retains the old bad caste labels]
+## 15. [The Arya Samajists' "Chaturvarnya" retains the old bad caste labels]
 
 [1:] But there is a set of reformers who hold out a different ideal. They go by the name of the **Arya Samajists**, and their ideal of social organization is what is called **Chaturvarnya**, or the division of society into four classes instead of the four thousand castes that we have in India. To make it more attractive and to disarm opposition, the protagonists of thousand castes that we have in India. To make it more attractive and to disarm opposition, the protagonists of **Chaturvarnya** take great care to point out that their Chaturvarnya is based not on birth but on guna (worth). At the outset, I must confess that notwithstanding the worth-basis of this Chaturvarnya, it is an ideal to which I cannot reconcile myself.
 
@@ -247,7 +247,7 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [4:] So long as these names continue, **Hindus** will continue to think of the **Brahmin**, **Kshatriya**, **Vaishya**, and **Shudra** as hierarchical divisions of high and low, based on birth, and to act accordingly. The **Hindu** must be made to unlearn all this. But how can this happen, if the old labels remain, and continue to recall to his mind old notions? If new notions are to be inculcated in the minds of people, it is necessary to give them new names. To continue the old names is to make the reform futile. To allow this **Chaturvarnya** based on worth to be designated by such stinking labels as Brahmin, Kshatriya, Vaishya, Shudra, indicative of social divisions based on birth, is a snare.
 
-## 16 ["Chaturvarnya" would face impossible difficulties in practice]
+## 16. ["Chaturvarnya" would face impossible difficulties in practice]
 
 [1:] To me this **Chaturvarnya** with its old labels is utterly repellent, and my whole being rebels against it. But I do not wish to rest my objection to Chaturvarnya on mere grounds of sentiments. There are more solid grounds on which I rely for my opposition to it. A close examination of this ideal has convinced me that as a system of social organization, Chaturvarnya is impracticable, is harmful, and has turned out to be a miserable failure. From a practical point of view, the system of Chaturvarnya raises several difficulties which its protagonists [=advocates] do not seem to have taken into account. The principle underlying Caste is fundamentally different from the principle underlying **Chaturvarnya**. Not only are they fundamentally different, but they are also fundamentally opposed.
 
@@ -267,7 +267,7 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [9:] If it is to be nominal, then it is useless; and then the protagonists of **Chaturvarnya** must admit that their system does not apply to women. If it is real, are the protagonists of Chaturvarnya prepared to follow the logical consequences of applying it to women? They must be prepared to have women priests and women soldiers. **Hindu** society has grown accustomed to women teachers and women barristers. It may grow accustomed to women brewers and women butchers. But he would be a bold person who would say that it will allow women priests and women soldiers. But that will be the logical outcome of applying Chaturvarnya to women. Given these difficulties, I think no one except a congenital idiot could hope for and believe in a successful regeneration of the Chaturvarnya.
 
-## 17 ["Chaturvarnya" would be the most vicious system for the Shudras]
+## 17. ["Chaturvarnya" would be the most vicious system for the Shudras]
 
 [1:] Assuming that **Chaturvarnya** is practicable, I contend that it is the most vicious system. That the **Brahmins** should cultivate knowledge, that the **Kshatriya** should bear arms, that the **Vaishya** should trade, and that the **Shudra** should serve, sounds as though it was a system of division of labour. Whether the theory was intended to state that the Shudra need not, or whether it was intended to lay down that he must not, is an interesting question. The defenders of Chaturvarnya give it the first meaning. They say, why need the Shudra trouble to acquire wealth, when the three [higher] Varnas are there to support him? Why need the Shudra bother to take to education, when there is the Brahmin to whom he can go when the occasion for reading or writing arises? Why need the Shudra worry to arm himself, when there is the Kshatriya to protect him? The theory of Chaturvarnya, understood in this sense, may be said to look upon the Shudra as the ward and the three [higher] Varnas as his guardians. Thus interpreted, it is a simple, elevating, and alluring theory.
 
@@ -283,13 +283,13 @@ I am really sorry for the members of the **Jat-Pat-Todak Mandal** who have so ve
 
 [7:] There cannot be a more degrading system of social organization than the **Caste System**. It is the system which deadens, paralyses, and cripples the people, [keeping them] from helpful activity. This is no exaggeration. History bears ample evidence. There is only one period in Indian history which is a period of freedom, greatness, and glory. That is the period of the **Mourya Empire**. At all other times the country suffered from defeat and darkness. But the Mourya period was a period when the **Caste System** was completely annihilated—when the Shudras, who constituted the mass of the people, came into their own and became the rulers of the country. The period of defeat and darkness is the period when the **Caste System** flourished, to the damnation of the greater part of the people of the country.
 
-## 18 ["Chaturvarnya" is nothing new; it is as old as the Vedas]
+## 18. ["Chaturvarnya" is nothing new; it is as old as the Vedas]
 
 [1:] **Chaturvarnya** is not new. It is as old as the **Vedas**. That is one of the reasons why we are asked by the **Arya** **Samajists** to consider its claims. Judging from the past, as a system of social organization it has been tried and it has failed. How many times have the **Brahmins** annihilated the seed of the **Kshatriyas**! How many times have the Kshatriyas annihilated the Brahmins! The **Mahabharata** and the **Puranas** are full of incidents of the strife between the Brahmins and the Kshatriyas. They even quarreled over such petty questions as to who should salute first, as to who should give way first, the Brahmins or the Kshatriyas, when the two met in the street.
 
 [2:] Not only was the **Brahmin** an eyesore to the **Kshatriya** and the Kshatriya an eyesore to the Brahmin, it seems that the Kshatriyas had become tyrannical, and the masses, disarmed as they were under the system of **Chaturvarnya**, were praying to Almighty God for relief from their tyranny. The **Bhagwat** tells us very definitely that **Krishna** had taken **avatar** for one sacred purpose: and that was, to annihilate the Kshatriyas. With these instances of rivalry and enmity between the different Varnas before us, I do not understand how anyone can hold out Chaturvarnya as an ideal to be aimed at, or as a pattern on which the **Hindu** Society should be remodelled.
 
-## 19 [Caste among Hindus is not the same as "caste" among non-Hindus]
+## 19. [Caste among Hindus is not the same as "caste" among non-Hindus]
 
 [1:] I have dealt with those, those who are outside your group [=the **Mandal**] and whose hostility to your ideal [= the destruction of Caste] is quite open. There appear to be others who are neither without you nor with you. I was hesitating whether I should deal with their point of view. But on further consideration I have come to the conclusion that I must, and that for two reasons. Firstly, their attitude to the problem of caste is not merely an attitude of neutrality, but is an attitude of armed neutrality. Secondly, they probably represent a considerable body of people. Of these, there is one set which finds nothing peculiar nor odious in the **Caste System** of the Hindus. Such **Hindus** cite the case of **Muslims**, **Sikhs**, and Christians, and find comfort in the fact that they too have castes amongst them.
 
@@ -315,7 +315,7 @@ The name of Prof. Radhakrishnan is big enough to invest with profundity whatever
 
 [9:] It seems to me that the question is not whether a community lives or dies; the question is on what plane does it live. There are different modes of survival. But not all are equally honourable. For an individual as well as for a society, there is a gulf between merely living, and living worthily. To fight in a battle and to live in glory is one mode. To beat a retreat, to surrender, and to live the life of a captive is also a mode of survival. It is useless for a **Hindu** to take comfort in the fact that he and his people have survived. What he must consider is, what is the quality of their survival. If he does that, I am sure he will cease to take pride in the mere fact of survival. A Hindu's life has been a life of continuous defeat, and what appears to him to be life everlasting is not living everlastingly, but is really a life which is perishing everlastingly. It is a mode of survival of which every right-minded Hindu who is not afraid to own up to the truth will feel ashamed.
 
-## 20 [The real key to destroying Caste is rejection of the Shastras]
+## 20. [The real key to destroying Caste is rejection of the Shastras]
 
 [1:] There is no doubt, in my opinion, that unless you change your social order you can achieve little by way of progress. You cannot mobilize the community either for defence or for offence. You cannot build anything on the foundations of caste. You cannot build up a nation, you cannot build up a morality. Anything that you will build on the foundations of caste will crack, and will never be a whole.
 
@@ -341,7 +341,7 @@ The name of Prof. Radhakrishnan is big enough to invest with profundity whatever
 
 [12:] It is no use seeking refuge in quibbles. It is no use telling people that the **Shastras** do not say what they are believed to say, if they are grammatically read or logically interpreted. What matters is how the **Shastras** have been understood by the people. You must take the stand that **Buddha** took. You must take the stand which **Guru Nanak** took. You must not only discard the **Shastras**, you must deny their authority, as did Buddha and Nanak. You must have courage to tell the **Hindus** that what is wrong with them is their religion—the religion which has produced in them this notion of the sacredness of Caste. Will you show that courage?
 
-## 21 [Internal reform of the Caste System is virtually impossible]
+## 21. [Internal reform of the Caste System is virtually impossible]
 
 [1:] What are your chances of success? Social reforms fall into different species. There is a species of reform which does not relate to the religious notions of a people, but is purely secular in character. There is also a species of reform which relates to the religious notions of a people. Of such a species of reform, there are two varieties. In one, the reform accords with the principles of the religion, and merely invites people who have departed from it, to revert to them and to follow them.
 
@@ -383,7 +383,7 @@ The name of Prof. Radhakrishnan is big enough to invest with profundity whatever
 
 [18:] To excite the proletariat to bring about an economic revolution, **Karl Marx** told them: "You have nothing to lose except your chains." But the artful way in which the social and religious rights are distributed among the different castes, whereby some have more and some have less, makes the slogan of Karl Marx quite useless to excite the **Hindus** against the **Caste System**. Castes form a graded system of sovereignties, high and low, which are jealous of their status and which know that if a general dissolution came, some of them stand to lose more of their prestige and power than others do. You cannot, therefore, have a general mobilization of the **Hindus** (to use a military expression) for an attack on the Caste System.
 
-## 22 [No reformers, and no appeals to reason, have so far succeeded]
+## 22. [No reformers, and no appeals to reason, have so far succeeded]
 
 [1:] Can you appeal to reason, and ask the **Hindus** to discard Caste as being contrary to reason? That raises the question: Is a Hindu free to follow his reason? Manu has laid down three sanctions to which every Hindu must conform in the matter of his behaviour:
 
@@ -437,7 +437,7 @@ The name of Prof. Radhakrishnan is big enough to invest with profundity whatever
 
 [26:] But whether the doing of the deed takes time or whether it can be done quickly, you must not forget that if you wish to bring about a breach in the system, then you have got to apply the dynamite to the **Vedas** and the **Shastras**, which deny any part to reason; to the **Vedas** and **Shastras**, which deny any part to morality. You must destroy the religion of the **Shrutis** and the **Smritis**. Nothing else will avail. This is my considered view of the matter.
 
-## 23 [Destroying Caste would not destroy the true principles of Religion]
+## 23. [Destroying Caste would not destroy the true principles of Religion]
 
 [1:] Some may not understand what I mean by destruction of Religion; some may find the idea revolting to them, and some may find it revolutionary. Let me therefore explain my position. I do not know whether you draw a distinction between principles and rules. But I do. Not only do I make a distinction, but I say that this distinction is real and important. Rules are practical; they are habitual ways of doing things according to prescription. But principles are intellectual; they are useful methods of judging things. Rules seek to tell an agent just what course of action to pursue. Principles do not prescribe a specific course of action. Rules, like cooking recipes, do tell just what to do and how to do it. A principle, such as that of justice, supplies a main heading by reference to which he is to consider the bearings of his desires and purposes; it guides him in his thinking by suggesting to him the important consideration which he should bear in mind.
 
@@ -453,7 +453,7 @@ The name of Prof. Radhakrishnan is big enough to invest with profundity whatever
 
 [7:] So long as people look upon it as Religion they will not be ready for a change, because the idea of Religion is generally speaking not associated with the idea of change. But the idea of law is associated with the idea of change, and when people come to know that what is called Religion is really Law, old and archaic, they will be ready for a change, for people know and accept that law can be changed.
 
-## 24 [A true priesthood should be based on qualification, not heredity]
+## 24. [A true priesthood should be based on qualification, not heredity]
 
 [1:] While I condemn a Religion of Rules, I must not be understood to hold the opinion that there is no necessity for a religion. On the contrary, I agree with **Burke** when he says that "True religion is the foundation of society, the basis on which all true Civil Government rests, and both their sanction." Consequently, when I urge that these ancient rules of life be annulled, I am anxious that their place shall be taken by a Religion of Principles, which alone can lay claim to being a true Religion. Indeed, I am so convinced of the necessity of Religion that I feel I ought to tell you in outline what I regard as necessary items in this religious reform. The following, in my opinion, should be the cardinal items in this reform:
 
@@ -477,7 +477,7 @@ The name of Prof. Radhakrishnan is big enough to invest with profundity whatever
 
 [6:] It means conversion—but if you do not like the word, I will say it means new life. But a new life cannot enter a body that is dead. New life can enter only into a new body. The old body must die before a new body can come into existence and a new life can enter into it. To put it simply: the old must cease to be operative before the new can begin to enliven [=to live] and to pulsate. This is what I meant when I said you must discard the authority of the **Shastras**, and destroy the religion of the **Shastras**.
 
-## 25 [If Hindu Society is to progress, its traditions must be able to evolve]
+## 25. [If Hindu Society is to progress, its traditions must be able to evolve]
 
 [1:] I have kept you too long. It is time I brought this address to a close. This would have been a convenient point for me to have stopped. But this would probably be my last address to a **Hindu** audience, on a subject vitally concerning the Hindus. I would therefore like, before I close, to place before the Hindus, if they will allow me, some questions which I regard as vital, and invite them seriously to consider the same.
 
@@ -499,7 +499,7 @@ The name of Prof. Radhakrishnan is big enough to invest with profundity whatever
 
 [7:] *Fourthly*, the **Hindus** must consider whether the time has not come for them to recognize that there is nothing fixed, nothing eternal, nothing ***sanatan***; that everything is changing, that change is the law of life for individuals as well as for society. In a changing society, there must be a constant revolution of old values; and the Hindus must realize that if there must be standards to measure the acts of men, there must also be a readiness to revise those standards.
 
-## 26 [The struggle is yours; I have now decided to leave the Hindu fold]
+## 26. [The struggle is yours; I have now decided to leave the Hindu fold]
 
 [1:] I have to confess that this address has become too lengthy. Whether this fault is compensated to any extent by breadth or depth is a matter for you to judge. All I claim is to have told you candidly my views. I have little to recommend them but some study and a deep concern in your destiny. If you will allow me to say it, these views are the views of a man who has been no tool of power, no flatterer of greatness. They come from one, almost the whole of whose public exertion has been one continuous struggle for liberty for the poor and for the oppressed, and whose only reward has been a continuous shower of calumny and abuse from national journals and national leaders, for no other reason except that I refuse to join with them in performing the miracle—I will not say trick—of liberating the oppressed with the gold of the tyrant, and raising the poor with the cash of the rich.
 

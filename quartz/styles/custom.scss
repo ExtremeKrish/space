@@ -261,6 +261,19 @@ article li::marker {
 font: normal 1.6rem KaTeX_Main,Times New Roman,serif !important;
 }
 
+.inline-toc {
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
+
+  .inline-toc-title {
+    font-weight: 600;
+    margin: 0 0 0.25rem;
+  }
+  
+}
+
 /* 2. Your Classic Theme Setup */
 body.classic {
 

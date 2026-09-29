@@ -4,6 +4,8 @@ body_class: "book"
 tags:
   - ambedkar
 ---
+```toc
+```
 
 *Edited for classroom use by Prof. Frances W. Pritchett, Columbia University.*
 
