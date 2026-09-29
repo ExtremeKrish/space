@@ -1,5 +1,5 @@
 ---
-title: "Annihilation of Caste"
+title: "Annihilation of Caste - by Dr. B. R. Ambedkar"
 body_class: "book"
 tags:
   - ambedkar

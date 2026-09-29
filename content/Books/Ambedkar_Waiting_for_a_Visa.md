@@ -7,23 +7,11 @@ tags:
 ```toc
 ```
 
-*Edited for classroom use by Prof. Frances W. Pritchett, Columbia University.*
-
-Source: https://franpritchett.com/00ambedkar/txt_ambedkar_waiting.html
-
-Published in: **Dr. Babasaheb Ambedkar: Writings and Speeches, Vol. 12**, edited by Vasant Moon (Bombay: Education Department, Government of Maharashtra, 1993), Part I, pp. 661-691.
-
-"Here are some of the reminiscences drawn by Dr. Ambedkar in his own handwriting. The MSS traced in the collection of the People's Education Society were published by the society as a booklet on 19th March 1990." (p. 661)
-
-It seems from internal evidence that this piece was written about eighteen years after Dr. Ambedkar's return from America and Europe, which would put it in 1935 or 1936.
-
-This text has been edited for classroom use by Prof. Frances W. Pritchett, Columbia University. Original spellings of proper names have been retained, with inconsistencies standardized according to the author's most frequent usage. Editing has consisted chiefly of slightly adjusting punctuation and breaking up long paragraphs. Bracketed descriptive titles have been added by the editor.
-
 Foreigners of course know of the existence of untouchability. But not being next door to it, so to say, they are unable to realise how oppressive it is in its actuality. It is difficult for them to understand how it is possible for a few untouchables to live on the edge of a village consisting of a large number of Hindus; go through the village daily to free it from the most disagreeable of its filth and to carry the errands of all and sundry; collect food at the doors of the Hindus; buy spices and oil at the shops of the Hindu Bania from a distance; regard the village in every way as their home--and yet never touch or be touched by any one belonging to the village.
 
 The problem is how best to give an idea of the way the untouchables are treated by the caste Hindus. A general description or a record of cases and of the treatment accorded to them are the two methods by which this purpose could be achieved. I have felt that the latter would be more effective than the former. In choosing these illustrations I have drawn partly upon my experience and partly upon the experience of others. I begin with events that have happened to me in my own life.
 
-## ONE [A childhood journey to Koregaon becomes a nightmare]
+## ONE
 
 Our family came originally from Dapoli Taluka of the Ratnagiri District of the Bombay Presidency. From the very commencement of the rule of the East India Company, my fore-fathers had left their hereditary occupation for service in the Army of the Company. My father also followed the family tradition and sought service in the Army. He rose to the rank of an officer, and was a Subhedar when he retired. On his retirement my father took the family to Dapoli with a view to settling down there. But for some reason my father changed his mind. The family left Dapoli for Satara, where we lived till 1904.
 
@@ -81,7 +69,7 @@ At home I knew that the work of washing clothes was done by my sisters. Not that
 
 All this I knew. But this incident gave me a shock such as I had never received before, and it made me think about untouchability--which, before this incident happened, was with me a matter of course, as it is with many touchables as well as the untouchables.
 
-## TWO [Back from the west--and unable to find lodging in Baroda]
+## TWO
 
 In 1916 I returned to India. I had been sent to America by His Highness the Maharaja of Baroda for higher education. I studied at Columbia University in New York from 1913 to 1917. In 1917 I came to London and joined the post-graduate department of the School of Economics of the University of London. ln l918 I was obliged to return to India without completing my studies. Since I had been educated by the Baroda State, I was bound to serve the State. [Note: the dates here appear to be a bit confused.]
 
@@ -129,7 +117,7 @@ I had gone to Baroda with high hope[s]. I had given up many offers. It was warti
 
 This scene of a dozen Parsis armed with sticks lined [up] before me in a menacing mood, and myself standing before them with a terrified look imploring for mercy, is a scene which so long a period as eighteen years has not succeeded in fading [=causing to fade] away. I can even now vividly recall it--and [I] never recall it without tears in my eyes. It was then for the first time that I learnt that a person who is an untouchable to a Hindu is also an untouchable to a Parsi.
 
-## THREE [Pride, awkwardness, and a dangerous accident in Chalisgaon]
+## THREE
 
 The year was 1929. The Bombay Government had appointed a Committee to investigate the grievances of the untouchables. I was appointed a member of the Committee. The Committee had to tour all over the province to investigate the allegations of injustice, oppression and tyranny. The Committee split up. I and another member were assigned the two districts of Khandesh. My colleague and myself, after finishing our work, parted company. He went to see some Hindu saint. I left by train to go to Bombay. At Chalisgaon I got down to go to a village on the Dhulia line, to investigate a case of social boycott which had been declared by the caste Hindus against the untouchables of that village.
 
@@ -149,7 +137,7 @@ The Mahars thought this to be a happy solution. But they evidently forgot that t
 
 To save my dignity, the Mahars of Chalisgaon had put my very life in jeopardy. It is [=was] then I learnt that a Hindu *tongawalla*, no better than a menial, has a dignity by which he can look upon himself as a person who is superior to any untouchable, even though he may be a Barrister-at-law.
 
-## FOUR [Polluting the water in the fort of Daulatabad]
+## FOUR
 
 In the year 1934, some of my co-workers in the movement of the depressed classes expressed a desire to go on a sight-seeing tour, if I agreed to join them. I agreed. It was decided that our plan should at all events include a visit to the Buddhist caves at Verul. It was arranged that I should go to Nasik, and the party should join me at Nasik. To go to Verul we had to go to Aurangabad. Aurangabad is a town in the Mohammedan State of Hyderabad, and is included in the dominion of His Exalted Highness, the Nizam.
 
@@ -173,7 +161,7 @@ Turning to the guard I said, again in an angry tone, "Can we get into the fort o
 
 I gave one instance to show that a person who is an untouchable to a Hindu is also an untouchable to a Parsi. This will show that a person who is an untouchable to a Hindu is also an untouchable to a Mohammedan.
 
-## FIVE [A doctor refuses to give proper care, and a young woman dies]
+## FIVE
 
 The next case is equally illuminating. It is a case of an Untouchable school teacher in a village in Kathiawar, and is reported in the following letter which appeared in the **Young India**, a journal published by Mr. Gandhi, in its issue of 12th December 1929. It expresses the difficulties he [=the writer] had experienced in persuading a Hindu doctor to attend to his wife, who had just delivered, and how the wife and child died for want of medical attention. The letter says:
 
@@ -185,7 +173,7 @@ The name of the Untouchable school teacher is not given. So also the name of the
 
 No explanation is necessary. The doctor, in spite of being educated, refused to apply the thermometer and treat an ailing woman in a critical condition. As a result of his refusal to treat her, the woman died. He felt no qualms of conscience in setting aside the code of conduct which is binding on his profession. The Hindu would prefer to be inhuman rather than touch an Untouchable.
 
-## SIX [A young clerk is abused and threatened until he gives up his job]
+## SIX
 
 There is one other incident more telling than this. On the 6th of March 1938, a meeting of the Bhangis was held at Kasarwadi (behind Woollen Mills), Dadar, Bombay, under the Chairmanship of Mr. Indulal Yadnik. In this meeting, one Bhangi boy narrated his experience in the following terms:
 
@@ -215,3 +203,18 @@ There is one other incident more telling than this. On the 6th of March 1938, a 
 > > Be pleased to accept the humble salutations of Parmar Kalidas Shivram. This is to humbly inform you that the hand of death is falling upon me today. It would not have been so if I had listened to the words of my parents. Be so good as to inform my parents of my death."
 
 > The Librarian read what I wrote and at once asked me to tear it off, which I did. They showered upon me innumerable insults. "You want us to address you as our Talati? You are a Bhangi and you want to enter the office and sit on the chair?" I begged for mercy and promised not to repeat this, and also promised to give up the job. I was kept there till seven in the evening, when the crowd left. By then the Talati and the Mukhiya had still not come. Thereafter I took fifteen days' leave and returned to my parents in Bombay."
+
+
+---
+
+*Edited for classroom use by Prof. Frances W. Pritchett, Columbia University.*
+
+Source: https://franpritchett.com/00ambedkar/txt_ambedkar_waiting.html
+
+Published in: **Dr. Babasaheb Ambedkar: Writings and Speeches, Vol. 12**, edited by Vasant Moon (Bombay: Education Department, Government of Maharashtra, 1993), Part I, pp. 661-691.
+
+> "Here are some of the reminiscences drawn by Dr. Ambedkar in his own handwriting. The MSS traced in the collection of the People's Education Society were published by the society as a booklet on 19th March 1990." (p. 661)
+
+It seems from internal evidence that this piece was written about eighteen years after Dr. Ambedkar's return from America and Europe, which would put it in 1935 or 1936.
+
+This text has been edited for classroom use by Prof. Frances W. Pritchett, Columbia University. Original spellings of proper names have been retained, with inconsistencies standardized according to the author's most frequent usage. Editing has consisted chiefly of slightly adjusting punctuation and breaking up long paragraphs. Bracketed descriptive titles have been added by the editor.
