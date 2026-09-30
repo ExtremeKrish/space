@@ -5,7 +5,8 @@ created: 2026-03-17T22:20:00
 title: "Chapter-1 Solutions"
 ---
 
-[**NCERT**](https://ncert.nic.in/textbook/pdf/lech101.pdf)
+```toc numbered
+```
 
 ## Solutions
 Solutions have 2+ Components, one is 

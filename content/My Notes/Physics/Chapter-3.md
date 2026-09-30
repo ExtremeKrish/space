@@ -6,6 +6,9 @@ title: "Chapter-3 Current Electricity"
 body_class: "test"
 ---
 
+```toc numbered
+```
+
 ## Electric Current
 **Electric Current:** Rate of Flow of Charge per unit Time.
 **Unit:** Ampere or C/S

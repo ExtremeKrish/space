@@ -6,6 +6,9 @@ created: 2026-04-07 21:25
 title: "Chapter-4 Moving Charges & Magnatism"
 ---
 
+```toc numbered
+```
+
 ## Magnetic Field Concept:
  → When charge is at rest it produces Electric Field.
 → When charge is in uniform motion it produces electric field $\vec{E}$ and magnetic field too i.e. $\vec{B}$ 

@@ -6,8 +6,10 @@ created: 2026-04-20 02:38
 title: "Chapter-11 Dual Nature of Matter & Radiation"
 ---
 **Dual Nature of Matter & Radiation**
-```table-of-contents
+
+```toc numbered
 ```
+
 ## Work Function
 ↪ A *certain minimum amount of energy (E) is required to be given to an electron to pull it out from the surface of the metal*, & this minimum energy is called the **work function of the metal**. ($\phi_{\circ}$)
 $$

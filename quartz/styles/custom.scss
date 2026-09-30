@@ -134,7 +134,7 @@ blockquote {
 
 blockquote.callout{
 border-radius:0 !important;
-font-style:none !important;
+font-style:normal !important;
 }
 .callout-icon {
 margin-top: 2px;
@@ -275,7 +275,7 @@ background-color: var(--textHighlight);
     padding: 0 .1rem;
 color:var(--dark);
 }
-/* 2. Your Classic Theme Setup */
+/* 2. Classic Theme Setup */
 body.classic {
 
  --dark: #000 !important;
@@ -298,52 +298,45 @@ body.classic {
 
   --font-header: 'EB Garamond', serif;
   --font-body: 'EB Garamond', serif;
-      --h1-size: 3rem !important;
---bold-color: var(--dark) !important;     /* Deep Crimson Red for **bold** */
+  --h1-size: 3rem !important;
+  --bold-color: var(--dark) !important;     /* Deep Crimson Red for **bold** */
   --italic-color: var(--dark) !important;
 
     .page-title{
-text-align:center !important;
-font-style: italic !important;
-font-size: 21px !important;
-}
+        text-align:center !important;
+        font-style: italic !important;
+        font-size: 21px !important;
+    }
 
-.breadcrumb-container {
-  font-family: Cutive Mono !important;
-font-size: 14px !important;
+    .breadcrumb-container {
+        font-family: Cutive Mono !important;
+        font-size: 14px !important;
+    }
 
-}
+    .tags {
+        display:none !important;
+    }
+    
+    // NAVBAR
+    #quartz-body .sidebar.left {
+        border-bottom: 1px solid var(--darkgray) !important;
+        padding: 0 1rem !important;
+        height: 56px !important;
+    }
 
-.explorer:not(.collapsed) > .explorer-content{
-
-border-right: 1px solid var(--darkgray);
-}
-
-
-.tags {
-display:none !important;
-}
-
-#quartz-body .sidebar.left {
-border-bottom: 1px solid var(--darkgray) !important;
-padding: 0 1rem !important;
-  height: 56px !important;
-}
-
-#quartz-body .center, footer {
-max-width: 750px !important; 
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-min-width:0 !important;
-
-}
-article p, article li {
-    font-size: 1.4rem !important;
-    line-height: 1.5;
-    margin-top: 8px;
-}
+    #quartz-body .center, footer {
+        max-width: 750px !important; 
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+        min-width:0 !important;
+    }
+    article p, article li {
+        font-size: 1.4rem !important;
+        line-height: 1.5;
+        margin-top: 8px;
+    }
 
   /* Apply the body font to the main text */
   p, li, span, body.classic {
@@ -359,47 +352,51 @@ article p, article li {
   }
 
   /* 1px clean borders for containers or dividers */
-  hr, .toc, .sidebar {
-    border-color: var(--darkgray);
-    border-width: 1px;
-  }
-   .explorer-ul li:not(.overflow-end):not(:last-child) {
-  border-bottom: 1px solid var(--lightgray);
-  line-height: 1.15 !important;
-  font-family: Cutive Mono !important;
-padding: 4px 0 !important;
+    hr, .toc, .sidebar {
+        border-color: var(--darkgray);
+        border-width: 1px;
+    }
 
- 
+    .explorer:not(.collapsed) > .explorer-content{
+        border-right: 1px solid var(--darkgray);
+    }
+
+    .explorer-ul li:not(.overflow-end):not(:last-child) {
+        border-bottom: 1px solid var(--lightgray);
+        line-height: 1.15 !important;
+        font-family: Cutive Mono !important;
+        padding: 4px 0 !important;
+    }
+
+    .explorer-ul li a {
+        font-family:Cutive Mono !important;
+    }
+
+    .explorer-ul li {
+        margin: 0;
+        padding: 4px 0;
+        letter-spacing: -1.5px !important;
+    }
+
 }
 
-.explorer-ul li a {
-font-family:Cutive Mono !important;
-}
-
-.explorer-ul li {
-margin: 0;
-  padding: 4px 0;
-letter-spacing: -1.5px !important;
-}
-
-}
-
+//=======TEST THEME IN WHICH KATEX MAIN IS FONT FOR WHOLE
 body.test {
-font-family: 'KaTeX_Main', 'Times New Roman', serif !important;
+    font-family: 'KaTeX_Main', 'Times New Roman', serif !important;
 
-.katex {
-  font: normal 1.4rem KaTeX_Main,Times New Roman,serif !important;
+    .katex {
+      font: normal 1.4rem KaTeX_Main,Times New Roman,serif !important;
+    }
+
+    .katex-display > .katex {
+        font: normal 1.6rem KaTeX_Main,Times New Roman,serif !important;
+    }
 }
 
-.katex-display > .katex {
-font: normal 1.6rem KaTeX_Main,Times New Roman,serif !important;
-}
-
-}
-
+//======BOOK-THEME===========
 body.book {
 
- font-family: "EB Garamond", serif;
+font-family: "EB Garamond", serif;
 
 h1, h2, h3, h4, h5, h6 {
  font-family: "EB Garamond", serif;
@@ -415,5 +412,8 @@ padding-right:1rem;
 
   [saved-theme="dark"] & {
     --light: #181818 !important;
+    }
+    .explorer-ul li a {
+        font-family:var(--bodyFont) !important;
     }
 }

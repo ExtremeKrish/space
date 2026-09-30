@@ -4,8 +4,10 @@ tags:
 created: 2026-04-23 00:34
 title: "Chapter-12 Atoms"
 ---
-```table-of-contents
+
+```toc numbered
 ```
+
 **Atoms**
 ## JJ Thomson's Plum Pudding Model
 JJ Thomson revealed that:

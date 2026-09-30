@@ -3,8 +3,10 @@ tags:
   - cuet
 created: 2026-04-27 23:27
 ---
+
 ```table-of-contents
 ```
+
 > Never wanted to write this but this chapter was most frustating after D & F block, maybe cuz I've skipped most of the 11th chemistry, but in these notes I'll try my best to breakdown everything in the most simplest way.
 
 **Coordination Chemistry/Compunds**

@@ -5,4 +5,7 @@ created: 2026-04-21 02:39
 title: "Chapter-14 Semiconductors"
 ---
 
+```toc numbered
+```
+
 **Semiconductors**

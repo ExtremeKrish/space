@@ -5,6 +5,9 @@ created: 2026-04-11 16:27
 title: "Chapter-5 Magnatism & Matter"
 ---
 
+```toc numbered
+```
+
 ## Introduction
 [[How we found about ELECTRICITY - Isaac Asimov.pdf#page=2&selection=4,13,18,77|How we found about ELECTRICITY - Isaac Asimov, page 2]]:
 > 600 BCE Greece, there was a city called Magnesia where the people spoke Greek. Near the city a shepherd boy watched his sheep. The story is that he used a stick with an iron tip to climb over stony places. One day, he touched the top to a stone and it happened to stick a little. Could the stone have something sticky on it? He touched it with his finger. It wasn’t sticky at all. Nothing- stuck to it except for the iron tip of his stick. The shepherd boy told others about this odd rock. A wise man named Thales lived in that area. Today he would be called a scientist. He heard about this stone from Magnesia and had such a stone brought to him. It attracted iron objects and nothing else—just iron objects. Thales called it the “magnetic stone” after the name of the city. We call it magnet.

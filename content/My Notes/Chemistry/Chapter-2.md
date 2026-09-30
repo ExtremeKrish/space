@@ -4,11 +4,10 @@ tags:
 created: 2026-03-21 17:17
 title: Chapter-2 Electrochemistry
 ---
-**Topics not Understood**: - 
-- Kholrauch's Law
-- Limiting Conductivity & graphs
-- H20 Electrolysis
----
+
+```toc numbered
+```
+
 **Electrochemistry:-** Studty of Proeduction of Electrical Energy from the energy released during a spontaneous chemical reaction,
 
 ## Electrochemical Cell

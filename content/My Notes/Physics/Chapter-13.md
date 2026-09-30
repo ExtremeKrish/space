@@ -4,6 +4,10 @@ tags:
 created: 2026-05-04 01:55
 title: "Chapter-13 Nuclei"
 ---
+
+```toc numbered
+```
+
 **Nuclei**
 
 - Atomic Number is represented by Z (which is number of Protons $n_{P}$)

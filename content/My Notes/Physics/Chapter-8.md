@@ -7,6 +7,9 @@ title: "Chapter-8 Electromagnetic Waves"
 
 ---
 
+```toc numbered
+```
+
 **Chapter 8 - Electromagnetic Waves**
 - EMW are Light waves
 - they are non mechanical waves

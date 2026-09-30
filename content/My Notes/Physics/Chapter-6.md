@@ -6,7 +6,7 @@ created: 2026-04-14 00:10
 title: "Chapter-6 Electromagnetic Induction"
 ---
 
-```table-of-contents
+```toc numbered
 ```
 
 **Chapter 6 — Electromagnetic Induction**

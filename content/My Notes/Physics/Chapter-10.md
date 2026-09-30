@@ -5,8 +5,10 @@ tags:
 created: 2026-04-19 15:40
 title: "Chapter-10 Wave Optics"
 ---
-```table-of-contents
+
+```toc numbered
 ```
+
 ## Huygen's Wave Theory
 Huygens' principle is the basis of wave theory of light. It tells how a wavefront propagates through a medium. According to Huygens' principle, **each point on wavefront is a source of secondary waves**, which add up to give a wavefront at any later time.
 
