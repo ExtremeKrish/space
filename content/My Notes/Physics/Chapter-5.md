@@ -9,8 +9,8 @@ title: "Chapter-5 Magnatism & Matter"
 ```
 
 ## Introduction
-[[How we found about ELECTRICITY - Isaac Asimov.pdf#page=2&selection=4,13,18,77|How we found about ELECTRICITY - Isaac Asimov, page 2]]:
-> 600 BCE Greece, there was a city called Magnesia where the people spoke Greek. Near the city a shepherd boy watched his sheep. The story is that he used a stick with an iron tip to climb over stony places. One day, he touched the top to a stone and it happened to stick a little. Could the stone have something sticky on it? He touched it with his finger. It wasn’t sticky at all. Nothing- stuck to it except for the iron tip of his stick. The shepherd boy told others about this odd rock. A wise man named Thales lived in that area. Today he would be called a scientist. He heard about this stone from Magnesia and had such a stone brought to him. It attracted iron objects and nothing else—just iron objects. Thales called it the “magnetic stone” after the name of the city. We call it magnet.
+
+> 600 BCE Greece, there was a city called Magnesia where the people spoke Greek. Near the city a shepherd boy watched his sheep. The story is that he used a stick with an iron tip to climb over stony places. One day, he touched the top to a stone and it happened to stick a little. Could the stone have something sticky on it? He touched it with his finger. It wasn’t sticky at all. Nothing- stuck to it except for the iron tip of his stick. The shepherd boy told others about this odd rock. A wise man named Thales lived in that area. Today he would be called a scientist. He heard about this stone from Magnesia and had such a stone brought to him. It attracted iron objects and nothing else—just iron objects. Thales called it the “magnetic stone” after the name of the city. We call it magnet. ~ [[History/Science/electricity#1-rubbing-and-attracting|How we found about ELECTRICITY - Isaac Asimov, page 2]]
 
 ## Bar Magnet
 $\vec{M}$ = Magnetic Dipole Moment
@@ -78,11 +78,10 @@ B &= \frac{\mu_{0}}{2} \frac{NIR^2}{(R^2 + x^2)^{3/2}} \\
 \end{align*}
 $$
 ### Bar Magnet in External Field
-```Q
-Q) A steel wire of length I has a magnetic moment M. It is then bent into a semi circular arc. The new magnetic moment is
-```
+> [!question]- A steel wire of length I has a magnetic moment M. It is then bent into a semi circular arc. The new magnetic moment is
+
 ## Magnetism & Gauss Law
-*This is also important and this is your second avenger after* [[CUET/Physics/Chapter - 1#Gauss Law|Gauss Law from Chapter 1]]
+*This is also important and this is your second avenger after* [[My-Notes/Physics/Chapter-1#gauss-law|Gauss Law fron Chapter 1]]
 $$
 \oint B\cdot ds = 0
 $$

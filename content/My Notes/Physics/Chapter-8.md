@@ -19,9 +19,10 @@ title: "Chapter-8 Electromagnetic Waves"
 2. Since nature is symmetric, changing electric flux must produce magnetic field.
 
 ## Displacement Current
-Lets start with our [[CUET/Physics/Chapter - 4#Ampere's Circuital Law (hugely important)|Ampere's Circuital Law]] from Chapter 4, Ampere simply said $\oint B\cdot dl = \epsilon_{0} I$ but later Urban Maxwell Came and said that there should also be Displacement Current.
+Lets start with our [[My-Notes/Physics/Chapter-4#amperes-circuital-law-hugely-important|Ampere's Circuital Law]] from Chapter 4, Ampere simply said $\oint B\cdot dl = \epsilon_{0} I$ but later Urban Maxwell Came and said that there should also be Displacement Current.
 
 **1st Derivation**
+
 We know that 
 $$
 \begin{align*}
@@ -35,25 +36,24 @@ $$
 \begin{align*}
 \frac{d\phi_{E}}{dt} &= \frac{d}{dt} \left( \frac{Q}{\epsilon_{0}} \right) \\
 \frac{d\phi_{E}}{dt} &= \frac{1}{\epsilon_{0}} \frac{dQ}{dt} \\
-\epsilon_{0} \times \frac{d\phi_{E}}{dt} &= I  \\
+\epsilon_{0} \frac{d\phi_{E}}{dt} &= I \\
 \Aboxed{I_{d} &= \epsilon_{0}\frac{d\phi_{E}}{dt}}
 \end{align*}
 $$
 **2nd Way of Derivation**
 $$
 \begin{align*}
-\oint E \cdot ds &= \phi = \frac{q_{enc}}{\epsilon_{0}} \\
-\therefore q_{enc} &= \phi \epsilon_{0} \\
-\text{We know that:} \\
+\oint E \cdot ds &= \phi = \frac{q_{\text{enc}}}{\epsilon_{0}} \\
+\therefore q_{\text{enc}} &= \phi \epsilon_{0} \\
+\intertext{We know that:}
 I &= \frac{dq}{dt} \\
 I &= \frac{d(\phi \epsilon_{0})}{dt} \\
 \Aboxed{I_{d} &= \epsilon_{0} \frac{d\phi_{E}}{dt}}
 \end{align*}
 $$
 
-```Q
-Q) In order to establish an instantaneous displacement current of 1 mA in the space between the plates of 2µF parallel plate capacitor, the potential difference need to apply is
-```
+> [!question]- In order to establish an instantaneous displacement current of 1 mA in the space between the plates of 2µF parallel plate capacitor, the potential difference need to apply is
+
 ## Ampere-Maxwell's Law
 $$
 \oint B\cdot dl = \mu_{0} \left( I_{c} + \epsilon_{0} \frac{d\phi_{E}}{dt} \right)
@@ -81,7 +81,7 @@ $$
 - Electric field vector of an electromagnetic wave produces optical effect hence it is also known as light/optical vector.
 
 ![[Pasted image 20260506055350.png]]
-By SuperManu - Self, Own work based on: Onde electromagnetique.png, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2107870
+
 $$
 c = \lambda \nu
 $$

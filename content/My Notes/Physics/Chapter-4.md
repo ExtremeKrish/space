@@ -17,8 +17,8 @@ title: "Chapter-4 Moving Charges & Magnatism"
 $\vec{B}$ is called Magnetic Field Intensity (MFI)
 **SI Unit:-** T (tesla) **CGS Unit:-** Gauss ; 
 
-**Oersted's Experiement**
-> So one ngga named Hans Cristian Oersted who was a professor at the University of Copenhagen, was giving a lecture on electricity, During the course of the lecture, Oersted happened to bring a wire carrying an electric current near a magnetic needle... To his surprise (and he was a very surprised man indeed) the needle deflected.
+> [!info] Oersted's Experiement
+> On April 21, 1820, a Danish scientist, Hans Christian Oersted who was a professor at the University of Copenhagen, was giving a lecture on electricity, During the course of the lecture, Oersted happened to bring a wire carrying an electric current near a magnetic needle... To his surprise (and he was a very surprised man indeed) the needle deflected.
 
 ## Biot Savart Law
 *No Derivation in NCERT* 
@@ -90,18 +90,14 @@ This is not NCERT Derivation ☝️
 
 And by NCERT, if x=0 , we'll get the same expression of MF at the *Center* of Circular Current Loop i.e. $B = \Large\frac{\mu_{0}I}{2r}$
 
-```Q
-Q) A circular coil of wire consisting of 100 turns, each of radius 8.0 cm carries a current of 0.40 A. What is the magnitude of the magnetic field B at the centre of the coil? [Ncert 4.1]
-A) $3.14 \times 10^{-4} \, T$
-```
-```Q
-Q)The magnetic field of given length of wire for single turn coil at its centre is B then its value for two turns coil for the same wire is:
+> [!question]- A circular coil of wire consisting of 100 turns, each of radius 8.0 cm carries a current of 0.40 A. What is the magnitude of the magnetic field B at the centre of the coil? [Ncert 4.1]
+> $3.14 \times 10^{-4} \, T$
 
-```
-```Q
-Q) Two concentric circular coils of ten turns each are situated in the same plane. Their radii are 20 and 40 cm and they carry respectively 0.2 and 0.3 ampere current in opposite direction. The magnetic field inweber/m²at the centre is:
-A) $5/4 \, \mu_\circ$
-```
+> [!question]- The magnetic field of given length of wire for single turn coil at its centre is B then its value for two turns coil for the same wire is:
+
+> [!question]- Two concentric circular coils of ten turns each are situated in the same plane. Their radii are 20 and 40 cm and they carry respectively 0.2 and 0.3 ampere current in opposite direction. The magnetic field inweber/m²at the centre is:
+> A) $5/4 \, \mu_\circ$
+
 ## Ampere's Circuital Law (hugely important)
 The sum of the magnetic field along any closed path equals μ₀ times the current enclosed by that path.
 $$
@@ -120,7 +116,7 @@ B &= \frac{\mu_{0}I}{2\pi r}
 $$
 
 ### Application: Solenoid
-![[Pasted image 20260410163306.jpg|775x301]]
+![[Pasted image 20260410163306.jpg]]
 
 Applying Ampere's law in loop abcd
 $$
@@ -169,16 +165,18 @@ F_{total} &= F_{e} \times nAl \\
 &= B I \;l \sin \theta
 \end{align*}
 $$
-Why this happened? Cuz we knew from [[CUET/Physics/Chapter - 3#Relation b/w Current and Drift Velocity|Chapter - 3 : Relation b/w Current and Drift Velocity]] that $I = neAV_{d}$
+Why this happened? Cuz we knew from [[CUET/Physics/Chapter - 3#Relation b/w Current and Drift Velocity|Chapter - 3 : Relation b\/w Current and Drift Velocity]] that $I = neAV_{d}$
 
 ### Workdone by Magnetic Force 
 *Turns out this force is nalla* cuz $\vec{F} \perp \vec{V}$ thus $W = \vec{F} \cdot \vec{d} = \cos 90 = 0$
 **So workdone is ZERO**
 ### Motion of a Charged Particle in Uniform Magnetic Field
 **1) In the Same Direction**
+
 If a charge is moving in the direction of magnetic Field, then $\theta = 0$ and thus $F = qVB\sin \theta  = 0$ and so acceleration = 0 and hence it'll move in a straight line with CONSTANT VELOCITY
 
 **2) Movin' Perpendicular**
+
 It'll move Perpendicular like $\vec{V}\perp \vec{F}$ so it'll move in circular motion,
 So $F_{B} = F_{C} \implies qVB\sin 90 = \frac{mv^2}{r}$
 $$

@@ -35,7 +35,8 @@ $$
 - **Electrolytes** - Charge flows thru fluid, via Ions
 - **Semiconductors** - Not much free electrons , charge flows thru Electrons & Holes (leads so Chapter - Semiconductors)
 
-![[Pasted image 20260403162420.jpg]]
+> [!question]- An electron is revolving in a circle of radius r with angular speed $\omega$. Find current & its direction.
+> $I = \frac{e\omega}{2\pi}$  
 
 ## Ohm's Law
 The current in a *conductor* (not sayin' bout semiconductor) is directly proportional to the potential difference applied across it, provided external conditions like temperature etc. remain constant.
@@ -155,15 +156,14 @@ We know that$\vec{J} = I/A$
 
 $$
 \begin{align*}
-\Aboxed{j &\mathrel{=} neV_{d}} \\
+\Aboxed{j &= neV_{d}} \\
 &= ne \times \left( \frac{eE}{m}\tau \right) \\
 j &= \frac{ne^{2}E}{m}\tau
 \end{align*}
-
 $$
 
 
-Comparing it with [[#Equivalent form of Ohm's Law]] we get:
+Comparing it with [[My-Notes/Physics/Chapter-3#equivalent-form-of-ohms-law]] we get:
 
 $$
 \sigma = \frac{ne^{2}}{m}\tau \tag{Eqn 1}

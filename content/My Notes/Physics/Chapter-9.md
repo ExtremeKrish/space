@@ -5,7 +5,8 @@ tags:
 created: 2026-03-28 17:01
 title: "Chapter-9 Ray Optics"
 ---
-```table-of-contents
+
+```toc numbered
 ```
 
 # Ray Optics
@@ -93,7 +94,10 @@ Here,
 - $i_{1} = \delta_{1} + r_{1} \implies \delta_{1} = i_{1} - r_{1}$
 - $e = r_{2}+ \delta_{2} \implies \delta_{2} = e - r_{2}$
 - so $\delta = (i-r_{1}) + (e-r_{2}) \implies r_{1} + r_{2} = i +e - \delta \, \text{-------(1)}$
+
+
 In Quadrilateral APNQ, two angles are 90°, so $\angle A + \angle PNQ = 180°$ 
+
 & In triangle PNQ, $r_{1}+r_{2} + \angle PNQ = 180°$
 So $r_{1} + r_{2} = A$ , and putting eq.1 in ts we get,
 $$

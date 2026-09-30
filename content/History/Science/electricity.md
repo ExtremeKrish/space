@@ -2,13 +2,15 @@
 title: "How We Found About Electricity"
 ---
 
-**Isaac Asimov**
+```toc numbered
+```
 
-(Isaac Asimov is a master storyteller, one of the world’s greatest writers of science fiction. He is also a noted expert on the history of scientific development, with a gift for explaining the wonders of science to non-experts, both young and old.
-
-These stories are science-facts, but just as readable as science fiction.
-
-When we press the switch the light goes on. Electricity flows through the wire. Today we use electricity for so many things at home and at work, but it took hundreds of years to find out about this form of energy. Isaac Asimov tells the history of electricity in a clear and conclusive style. He describes the experiments conducted by scientists in their efforts to find out about electricity and its uses.
+> [!info] **Isaac Asimov**
+> (Isaac Asimov is a master storyteller, one of the world’s greatest writers of science fiction. He is also a noted expert on the history of scientific development, with a gift for explaining the wonders of science to non-experts, both young and old.
+> 
+> These stories are science-facts, but just as readable as science fiction.
+> 
+> When we press the switch the light goes on. Electricity flows through the wire. Today we use electricity for so many things at home and at work, but it took hundreds of years to find out about this form of energy. Isaac Asimov tells the history of electricity in a clear and conclusive style. He describes the experiments conducted by scientists in their efforts to find out about electricity and its uses.
 
 ## 1. Rubbing and Attracting
 

@@ -51,7 +51,7 @@ $$
 \Delta \phi = \frac{2\pi}{\lambda} \Delta p
 $$
 
-![[Pasted image 20260419230109.jpg|600x364]]
+![[Pasted image 20260419230109.jpg|364]]
 
 ### Principle of Superposition of Waves
 If there are two waves i.e. with phase difference $\phi$
@@ -62,17 +62,21 @@ $$
 y = A \sin (\omega t + \theta)
 $$
 Where A is
+
 $$
 A = \sqrt{ a_{1}^2 + a_{2}^2 + 2a_{1}a_{2}\cos \phi }
 $$
-And $$
+And
+$$
 \tan \theta = \frac{a_{2}\sin \phi}{a_{1}+a_{2}\cos \phi}
 $$
+
 **Intensity:** Amount of energy incident per unit area per unit time. $I \propto A^2$
 
 ### Constructive & Deconstructive Interference
 ![[Pasted image 20260419235036.jpg]]
 ![[Pasted image 20260419230831.png]]
+
 ## Young's Double Slit Experiment
 Everyone knows about this & it's so famous.
 ![[Pasted image 20260420014114.jpg|611x318]]
@@ -95,6 +99,7 @@ For Deconstructive Interference (this will produce dark fringes)
 x = \frac{D\lambda}{2d}, \frac{3D\lambda}{2d}, \frac{5D\lambda}{2d}, \dots
 	$$
 Tryna find Fringe Width by yourself (Deleted in NCERT btw)
+
 ## Diffraction
 > The phenomenon of bending of light around the corners of small obstacles or apertures and its consequent spreading into the regions of geometrical shadow is called diffraction of light.
 
