@@ -2,7 +2,7 @@
 tags:
   - chemistry
 created: 2026-03-23T15:43:00
-title: ""Chapter-3 Chemical Kinetics"
+title: "Chapter-3 Chemical Kinetics"
 body_class: "notes"
 ---
 
@@ -89,6 +89,7 @@ $= \large\frac{concentration}{time}\times\frac{1}{(concentration)^n}$
 | Zero Order Reaction   | 0     | $\frac{mol\,L^{-1}}{s}\times\frac{1}{(mol\,L^{-1})^0}$ | $mol/L\,s$          |
 | First Order Reaction  | 1     | $\frac{mol\,L^{-1}}{s}\times\frac{1}{(mol\,L^{-1})^1}$ | $s^{-1}$            |
 | Second Order Reaction | 1     | $\frac{mol\,L^{-1}}{s}\times\frac{1}{(mol\,L^{-1})^2}$ | $mol^{-1}L\,s^{-1}$ |
+
 ### Molecularity
 Molecularity is ==the total number of reactant species (atoms, ions, or molecules) that collide simultaneously in an elementary (single-step) chemical reaction to form products==.
 
