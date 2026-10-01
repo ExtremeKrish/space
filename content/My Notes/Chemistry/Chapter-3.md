@@ -187,6 +187,9 @@ $$
 - It is assumed that the Arrhenius parameters (E_a, A) are independent of temperature.
 
 ### Activation Energy
+
+The rate of a reaction depends on a value called the activation energy, which is essentially the amount of energy required to reach a transition state that will lead to the formation of product.
+
 ![Graph|354x325](https://www.chemistrylearner.com/wp-content/uploads/2022/05/Activation-Energy.jpg)
 
 ![[Screenshot_20260323_221605_YouTube.jpg]]
