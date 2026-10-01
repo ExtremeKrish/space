@@ -277,6 +277,13 @@ background-color: var(--textHighlight);
     padding: 0 .1rem;
 color:var(--dark);
 }
+
+table {
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+}
+
 /* 2. Classic Theme Setup */
 body.classic {
 
