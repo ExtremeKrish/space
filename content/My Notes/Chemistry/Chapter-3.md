@@ -13,20 +13,26 @@ body_class: "notes"
 
 ## Rate of Reaction
 Change in Concentration of Reactants (or Products) in unit time.
--> **Unit of Rate** $mol\, L^{-1} s^{-1}$ ; or $atm/s$
+-> **Unit of Rate:-** $mol\, L^{-1} s^{-1}$ ; or $atm/s$
 
 If,   $\ce{A + B -> C + D}$
 
 $$
 \text{Rate} = \frac{-d[A]}{dt} = \frac{-d[B]}{dt} = \frac{d[C]}{dt} = \frac{d[D]}{dt} 
 $$
+
 ### Average Rate
 $$
 \text{Average Rate} = \frac{\Delta x}{\Delta t}
 $$
 ### Rate of Reaction if Stoichiometric Coefficient isn't same
 If the eq. Is $\ce{aA + bB -> cC + dD}$ , then
-
+$$
+\begin{aligned}
+\text{Rate} &= -\frac{1}{a}\frac{\Delta A}{\Delta t} = -\frac{1}{b}\frac{\Delta B}{\Delta t} \\
+&= \frac{1}{c}\frac{\Delta C}{\Delta t} = \frac{1}{d}\frac{\Delta D}{\Delta t}
+\end{aligned}
+$$
 
  **Ways to Define rate**
 1. Average
@@ -44,12 +50,15 @@ If the eq. Is $\ce{aA + bB -> cC + dD}$ , then
 	1. Diamond to Graphite
 	2. Reaction between H2 and O2 at room temprature
 	3. Coke in Air 
+
 ---
+
 #### Factors Influencing Rate of Reaction
 1. Concentration -> We'll study Rate Law for ts
 2. Temprature -> We'll study Arrhenius Equation for ts
 3. Nature of Reactants (bonds needs to be broken more)
 4. Catalyst (Changes mechanism & not gets consumed)
+
 ## Rate Law
 It is the expression which relates the rate of reaction with concentration of the reactants.
 The constant of proportionallity `k` is known as rate constant
@@ -60,6 +69,7 @@ Where a,b,c, and d are stoichiometric coefficients
 $$
 \text{Rate Expression} : Rate \propto [A]^x [B]^b
 $$
+
 **Rate Law becomes:-**
 $$
 Rate = k\,[A]^x [B]^b
@@ -193,5 +203,4 @@ The rate of a reaction depends on a value called the activation energy, which is
 
 ![Graph|354x325](https://www.chemistrylearner.com/wp-content/uploads/2022/05/Activation-Energy.jpg)
 
-![[Screenshot_20260323_221605_YouTube.jpg]]
 
