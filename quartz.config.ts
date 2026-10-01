@@ -72,7 +72,12 @@ const config: QuartzConfig = {
       Plugin.InlineTOC({ minDepth: 2, maxDepth: 4 }),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.Latex({ 
+  renderEngine: "katex",
+  macros: {
+    "\\ce": "\\require{mhchem}\\ce"
+  }
+}),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
