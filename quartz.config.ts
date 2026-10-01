@@ -74,9 +74,6 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ 
           renderEngine: "katex",
-        customMacros: {
-            "\\ce": "\\require{mhchem}\\ce"
-          }
         }),
     ],
     filters: [Plugin.RemoveDrafts()],
