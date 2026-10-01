@@ -186,7 +186,9 @@ qV\,B\sin{90} &= \frac{mv^2}{r} \\
 \boxed{r = \frac{mv}{qB}}
 \end{align*}
 $$
+
 **Time Period -**
+
 $$
 \begin{align*}
 T &= \frac{2\pi r}{v} \\
@@ -199,6 +201,7 @@ $$
 f = \frac{1}{T} = \frac{qB}{2\pi m}
 $$
 ## Force b/w Two Parallel Currents & Ampere's Definition
+
 ![[image (1).png|449x346]]
 
 So we know from [[#Force on a Current carrying Wire due to External Magnetic FIeld]] that it is 
