@@ -9,22 +9,23 @@ body_class: "notes"
 ```toc numbered
 ```
 
-**Chemical Kinetics: -** branch of Chemistry that deals with Study of Reaction Rates and their mechanism
+**Chemical Kinetics: -**
+branch of Chemistry that deals with Study of Reaction Rates and their mechanism
 
 ## Rate of Reaction
 Change in Concentration of Reactants (or Products) in unit time.
+
 -> **Unit of Rate:-** $mol\, L^{-1} s^{-1}$ ; or $atm/s$
 
 If,   $\ce{A + B -> C + D}$
 
-$$
-\text{Rate} = \frac{-d[A]}{dt} = \frac{-d[B]}{dt} = \frac{d[C]}{dt} = \frac{d[D]}{dt} 
-$$
+
 
 ### Average Rate
 $$
 \text{Average Rate} = \frac{\Delta x}{\Delta t}
 $$
+
 ### Rate of Reaction if Stoichiometric Coefficient isn't same
 If the eq. Is $\ce{aA + bB -> cC + dD}$ , then
 $$
@@ -61,6 +62,7 @@ $$
 
 ## Rate Law
 It is the expression which relates the rate of reaction with concentration of the reactants.
+
 The constant of proportionallity `k` is known as rate constant
 
 Consider : $\ce{aA + bB -> cC + dD}$
@@ -82,9 +84,10 @@ Also $\large\frac{-d[R]}{dt} = k\,[A]^x [B]^b$
 
 $Rate = k\,[A]^x [B]^b$ so 
 $$x+y = \text{Order of Reaction}$$
--> It can be 0,1,2,3 or even a fraction
--> But it *cannot* be negative 
--> this order need not to be same stoichiometric coefficients of the reactants
+
+- It can be 0,1,2,3 or even a fraction
+- But it *cannot* be negative 
+- this order need not to be same stoichiometric coefficients of the reactants
 
 #### Units of Rate Constant
 => $Rate = k\,[A]^x [B]^b$
@@ -93,12 +96,24 @@ $k = \large\frac{Rate}{[A]^X[B]^Y}$
 
 $= \large\frac{concentration}{time}\times\frac{1}{(concentration)^n}$
 
+| Reaction              | Order | Formula                                                | Units               |
+| --------------------- | ----- | ------------------------------------------------------ | ------------------- |
+| Zero Order Reaction   | 0     | $\frac{mol\,L^{-1}}{s}\times\frac{1}{(mol\,L^{-1})^0}$ | $mol/L\,s$          |
+| First Order Reaction  | 1     | $\frac{mol\,L^{-1}}{s}\times\frac{1}{(mol\,L^{-1})^1}$ | $s^{-1}$            |
+| Second Order Reaction | 1     | $\frac{mol\,L^{-1}}{s}\times\frac{1}{(mol\,L^{-1})^2}$ | $mol^{-1}L\,s^{-1}$ |
+
 ### Molecularity
 Molecularity is ==the total number of reactant species (atoms, ions, or molecules) that collide simultaneously in an elementary (single-step) chemical reaction to form products==.
 
 -> Its value can be 1,2 or 3 max.
 -> It cannot be a fraction
 
+| Molecularity                                                                         | Order                                                                                                        |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| 1) It is defined as the no. of molecules of reactants taking part in a reaction.     | 1) It is defined as the sum of the power of concentration terms that appear in the rate law.                 |
+| 2) Example:  <br>$NH_4NO_2 \xrightarrow{\Delta} N_2 + 2H_2O$  <br>molecularity = $1$ | 2) Example:  <br>$NH_4NO_2 \xrightarrow{\Delta} N_2 + 2H_2O$  <br>$\text{Rate} = k[NH_4NO_2]^1$, order = $1$ |
+| 3) It is a theoretical value.                                                        | 3) It is an experimental value.                                                                              |
+| 4) It is always a whole no.; it can neither be zero nor fractional.                  | 4) It may be zero, fractional, or integral.                                                                  |
 
 ## Types of Reaction
 1. Elementry Reaction - Takes place in one step
@@ -189,6 +204,6 @@ $$
 
 The rate of a reaction depends on a value called the activation energy, which is essentially the amount of energy required to reach a transition state that will lead to the formation of product.
 
-![Graph](https://www.chemistrylearner.com/wp-content/uploads/2022/05/Activation-Energy.jpg)
+![[activation-energy.excalidraw.svg|center|450]]
 
 

@@ -283,6 +283,11 @@ color:var(--dark);
   max-width: 100% !important;
 }
 
+    .katex {
+
+font-weight: inherit !important;
+  color: inherit;
+    }
 
 /* 2. Classic Theme Setup */
 body.classic {
