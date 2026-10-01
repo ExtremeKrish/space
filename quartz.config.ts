@@ -73,8 +73,11 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ 
-  renderEngine: "mathjax"
-}),
+          renderEngine: "katex",
+        customMacros: {
+            "\\ce": "\\require{mhchem}\\ce"
+          }
+        }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

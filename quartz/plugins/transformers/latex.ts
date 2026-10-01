@@ -63,6 +63,11 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
             css: [{ content: "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" }],
             js: [
               {
+                src: "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/mhchem.min.js",
+                loadTime: "afterDOMReady",
+                contentType: "external",
+              },
+              {
                 // fix copy behaviour: https://github.com/KaTeX/KaTeX/blob/main/contrib/copy-tex/README.md
                 src: "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js",
                 loadTime: "afterDOMReady",
