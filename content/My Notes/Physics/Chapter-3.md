@@ -3,7 +3,7 @@ tags:
   - physics
 created: 2026-04-03 13:10
 title: "Chapter-3 Current Electricity"
-body_class: "test"
+body_class: "notes"
 ---
 
 ```toc numbered

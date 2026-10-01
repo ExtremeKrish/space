@@ -3,6 +3,7 @@ tags:
   - chemistry
 created: 2026-03-21 17:17
 title: Chapter-2 Electrochemistry
+body_class: "notes"
 ---
 
 ```toc numbered

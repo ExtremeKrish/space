@@ -2,6 +2,7 @@
 tags:
   - cuet
 created: 2026-04-27 23:27
+body_class: "notes"
 ---
 
 ```table-of-contents

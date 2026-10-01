@@ -3,6 +3,7 @@ tags:
   - chemistry
 created: 2026-03-17T22:20:00
 title: "Chapter-1 Solutions"
+body_class: "notes"
 ---
 
 ```toc numbered

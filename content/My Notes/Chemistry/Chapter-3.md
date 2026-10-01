@@ -2,7 +2,8 @@
 tags:
   - chemistry
 created: 2026-03-23T15:43:00
-title: Chapter-3 Chemical Kinetics
+title: ""Chapter-3 Chemical Kinetics"
+body_class: "notes"
 ---
 
 ```toc numbered
@@ -94,12 +95,6 @@ Molecularity is ==the total number of reactant species (atoms, ions, or molecul
 -> Its value can be 1,2 or 3 max.
 -> It cannot be a fraction
 
-| Molecularity                                                                         | Order                                                                                                        |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| 1) It is defined as the no. of molecules of reactants taking part in a reaction.     | 1) It is defined as the sum of the power of concentration terms that appear in the rate law.                 |
-| 2) Example:  <br>$NH_4NO_2 \xrightarrow{\Delta} N_2 + 2H_2O$  <br>molecularity = $1$ | 2) Example:  <br>$NH_4NO_2 \xrightarrow{\Delta} N_2 + 2H_2O$  <br>$\text{Rate} = k[NH_4NO_2]^1$, order = $1$ |
-| 3) It is a theoretical value.                                                        | 3) It is an experimental value.                                                                              |
-| 4) It is always a whole no.; it can neither be zero nor fractional.                  | 4) It may be zero, fractional, or integral.                                                                  |
 
 ## Types of Reaction
 1. Elementry Reaction - Takes place in one step
