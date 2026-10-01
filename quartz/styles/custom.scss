@@ -278,11 +278,11 @@ background-color: var(--textHighlight);
 color:var(--dark);
 }
 
-table {
-  display: block;
+.table-container {
   overflow-x: auto;
-  max-width: 100%;
+  max-width: 100% !important;
 }
+
 
 /* 2. Classic Theme Setup */
 body.classic {
@@ -395,6 +395,8 @@ body.notes {
 
     .katex {
       font: normal 1.4rem KaTeX_Main,Times New Roman,serif !important;
+font-weight: inherit !important;
+  color: inherit;
     }
 
     .katex-display > .katex {
