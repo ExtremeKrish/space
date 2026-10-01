@@ -19,14 +19,16 @@ Change in Concentration of Reactants (or Products) in unit time.
 
 If,   $\ce{A + B -> C + D}$
 
-
+$$
+\text{Rate} = \frac{-d[A]}{dt} = \frac{-d[B]}{dt} = \frac{d[C]}{dt} = \frac{d[D]}{dt} 
+$$
 
 ### Average Rate
 $$
 \text{Average Rate} = \frac{\Delta x}{\Delta t}
 $$
 
-### Rate of Reaction if Stoichiometric Coefficient isn't same
+**Rate of Reaction if Stoichiometric Coefficient isn't same**
 If the eq. Is $\ce{aA + bB -> cC + dD}$ , then
 $$
 \begin{aligned}
