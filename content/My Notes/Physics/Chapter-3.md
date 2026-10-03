@@ -84,7 +84,7 @@ $$
 $$
 V = I \times \frac{\rho \ell}{A}
 $$
-- We know that $E = V/\ell$ from Chapter 2 : [[CUET/Physics/Chapter - 2#Relation between field and potential| Relation between field and potential]]
+- We know that $E = V/\ell$ from Chapter 2 : [[My-Notes/Physics/Chapter-2#relation-between-field-and-potential| Relation between field and potential]]
 - And J = I/A, so:
 
 $$
@@ -92,7 +92,7 @@ $$
 V &= j \rho \ell \\
 E &= j \rho \\
 \text{And } \frac{1}{\rho} &= \sigma \quad \text{(conductivity)} \\
-\Aboxed{j &= E \,\sigma} \tag{ncert 3.13}
+&\boxed{j = E \,\sigma \vphantom{\frac{1}{\rho}}} \tag{ncert 3.13}
 \end{align*}
 $$
 
@@ -156,9 +156,9 @@ We know that$\vec{J} = I/A$
 
 $$
 \begin{align*}
-\Aboxed{j &= neV_{d}} \\
-&= ne \times \left( \frac{eE}{m}\tau \right) \\
-j &= \frac{ne^{2}E}{m}\tau
+&\boxed{j = neV_{d}} \\
+&\phantom{j} = ne \times \left( \frac{eE}{m}\tau \right) \\
+&j = \frac{ne^{2}E}{m}\tau
 \end{align*}
 $$
 

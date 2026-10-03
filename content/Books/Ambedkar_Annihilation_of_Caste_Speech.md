@@ -371,9 +371,9 @@ The name of Prof. Radhakrishnan is big enough to invest with profundity whatever
 
 [12:] You may think it a pity that the intellectual class in India is simply another name for the **Brahmin** caste. You may regret that the two are one; that the existence of the intellectual class should be bound up with one single caste; that this intellectual class should share the interest and the aspirations of that Brahmin caste, and should be a class which has regarded itself as the custodian of the interest of that caste, rather than of the interests of the country. All this may be very regrettable. But the fact remains that the Brahmins form the intellectual class of the Hindus. It is not only an intellectual class, but it is a class which is held in great reverence by the rest of the Hindus.
 
-[13:] The **Hindus** are taught that the **Brahmins** are Bhudevas (Gods on earth) *वर्णानां ब्राह्मणो गुरुः।*. The Hindus are taught that Brahmins alone can be their teachers. Manu says, "If it be asked how it should be with respect to points of the **Dharma** which have not been specially mentioned, the answer is, that which Brahmins who are **Shishthas** propound shall doubtless have legal force": *अनाम्नातेषु धर्मेषु कथं स्यादिति चेद्भवेत्। यं शिष्टा ब्राह्मणा ब्रूयुः स धर्मः स्यादशङ्कितः॥*
+[13:] The **Hindus** are taught that the **Brahmins** are Bhudevas (Gods on earth) *वर्णानां ब्राह्मणो गुरुः।*. The Hindus are taught that Brahmins alone can be their teachers. Manu says, "If it be asked how it should be with respect to points of the **Dharma** which have not been specially mentioned, the answer is, that which Brahmins who are **Shishthas** propound shall doubtless have legal force": 
 
-[14:]
+[14:] *अनाम्नातेषु धर्मेषु कथं स्यादिति चेद्भवेत्। यं शिष्टा ब्राह्मणा ब्रूयुः स धर्मः स्यादशङ्कितः॥*
 
 [15:] When such an intellectual class, which holds the rest of the community in its grip, is opposed to the reform of Caste, the chances of success in a movement for the break-up of the **Caste system** appear to me very, very remote.
 
@@ -391,9 +391,9 @@ The name of Prof. Radhakrishnan is big enough to invest with profundity whatever
 
 [3:] Here there is no place for reason to play its part. A **Hindu** must follow either **Veda**, **Smriti** or ***sadachar***. He cannot follow anything else.
 
-[4:] In the first place, how are the texts of the **Vedas** and **Smritis** to be interpreted whenever any doubt arises regarding their meaning? On this important question the view of Manu is quite definite. He says: *योऽवमन्येत ते मूले हेतुशास्त्राश्रयाद् द्विजः। स साधुभिर्बहिष्कार्यो नास्तिको वेदनिन्दकः॥*
+[4:] In the first place, how are the texts of the **Vedas** and **Smritis** to be interpreted whenever any doubt arises regarding their meaning? On this important question the view of Manu is quite definite. He says:
 
-[5:]
+[5:] *योऽवमन्येत ते मूले हेतुशास्त्राश्रयाद् द्विजः। स साधुभिर्बहिष्कार्यो नास्तिको वेदनिन्दकः॥*
 
 [6:] According to this rule, rationalism as a canon of interpreting the **Vedas** and **Smritis** is absolutely condemned. It is regarded to be as wicked as atheism, and the punishment provided for it is excommunication. Thus, where a matter is covered by the **Veda** or the **Smriti**, a **Hindu** cannot resort to rational thinking.
 
@@ -401,17 +401,17 @@ The name of Prof. Radhakrishnan is big enough to invest with profundity whatever
 
 [8:] *श्रुतिस्तु वेदो विज्ञेयो धर्मशास्त्रं तु वै स्मृतिः।*
 
-[9:] "When there is a conflict between **Shruti** and **Smriti**, the **Shruti** must prevail." But here too, no attempt must be made to find out which of the two accords with reason. This is laid down by Manu in the following ***shloka***: *या वेदबाह्याः स्मृतयो याश्च काश्च कुदृष्टयः। सर्वास्ता निष्फलाः प्रेत्य तमोनिष्ठा हि ताः स्मृताः॥*
+[9:] "When there is a conflict between **Shruti** and **Smriti**, the **Shruti** must prevail." But here too, no attempt must be made to find out which of the two accords with reason. This is laid down by Manu in the following ***shloka***:
 
-[10:]
+[10:] *या वेदबाह्याः स्मृतयो याश्च काश्च कुदृष्टयः। सर्वास्ता निष्फलाः प्रेत्य तमोनिष्ठा हि ताः स्मृताः॥*
 
-[11:] Again, when there is a conflict between two **Smritis**, the **Manu Smriti** must prevail, but no attempt is to be made to find out which of the two accords with reason. This is the ruling given by **Brihaspati**: *वेदार्थोपनिबन्धृत्वात् प्रामाण्यं हि मनोः स्मृतम्। मन्वर्थविपरीता तु या स्मृतिः सा न शस्यते॥*
+[11:] Again, when there is a conflict between two **Smritis**, the **Manu Smriti** must prevail, but no attempt is to be made to find out which of the two accords with reason. This is the ruling given by **Brihaspati**: 
 
-[12:]
+[12:] *वेदार्थोपनिबन्धृत्वात् प्रामाण्यं हि मनोः स्मृतम्। मन्वर्थविपरीता तु या स्मृतिः सा न शस्यते॥*
 
-[13:] It is, therefore, clear that in any matter on which the **Shrutis** and **Smritis** have given a positive direction, a **Hindu** is not free to use his reasoning faculty. The same rule is laid down in the **Mahabharat**: *पुराणं मानवो धर्मः साङ्गो वेदश्चिकित्सितम्। आज्ञासिद्धानि चत्वारि न हन्तव्यानि हेतुभिः॥*
+[13:] It is, therefore, clear that in any matter on which the **Shrutis** and **Smritis** have given a positive direction, a **Hindu** is not free to use his reasoning faculty. The same rule is laid down in the **Mahabharat**: 
 
-[14:]
+[14:] *पुराणं मानवो धर्मः साङ्गो वेदश्चिकित्सितम्। आज्ञासिद्धानि चत्वारि न हन्तव्यानि हेतुभिः॥*
 
 [15:] He must abide by their directions. Caste and **Varna** are matters which are dealt with by the **Vedas** and the **Smritis**, and consequently, appeal to reason can have no effect on a **Hindu**.
 
@@ -423,15 +423,15 @@ The name of Prof. Radhakrishnan is big enough to invest with profundity whatever
 
 [19:] There have been many who have worked in the cause of the abolition of Caste and Untouchability. Of those who can be mentioned, **Ramanuja**, **Kabir**, and others stand out prominently. Can you appeal to the acts of these reformers and exhort the **Hindus** to follow them?
 
-[20:] It is true that Manu has included ***sadachar*** as one of the sanctions along with **Shruti** and **Smriti**. Indeed, *sadachar* (*सदाचार।*) has been given a higher place than **Shastras**: *यथाऽऽचर्यन्ते येन धर्मं वाऽधर्ममेव वा। देशस्याचरणं नित्यं चरित्रं तद्धि कीर्तितम्॥*
+[20:] It is true that Manu has included ***sadachar*** as one of the sanctions along with **Shruti** and **Smriti**. Indeed, *sadachar* (*सदाचार।*) has been given a higher place than **Shastras**: 
 
-[21:]
+[21:] *यथाऽऽचर्यन्ते येन धर्मं वाऽधर्ममेव वा। देशस्याचरणं नित्यं चरित्रं तद्धि कीर्तितम्॥*
 
-[22:] According to this, ***sadachar***, whether it is ***dharmya*** or **adharmya**, in accordance with **Shastras** or contrary to **Shastras**, must be followed. But what is the meaning of *sadachar*? If anyone were to suppose that *sadachar* means right or good acts—i.e., acts of good and righteous men—he would find himself greatly mistaken. *Sadachar* does not means good acts or acts of good men. It means ancient custom, *good* or *bad*. The following verse makes this clear: *यथाऽऽचर्यन्ते येन धर्मं वाऽधर्ममेव वा। देशस्याचरणं नित्यं चरित्रं तद्धि कीर्तितम्॥*
+[22:] According to this, ***sadachar***, whether it is ***dharmya*** or **adharmya**, in accordance with **Shastras** or contrary to **Shastras**, must be followed. But what is the meaning of *sadachar*? If anyone were to suppose that *sadachar* means right or good acts—i.e., acts of good and righteous men—he would find himself greatly mistaken. *Sadachar* does not means good acts or acts of good men. It means ancient custom, *good* or *bad*. The following verse makes this clear: 
 
-[23:]
+[23:] *यथाऽऽचर्यन्ते येन धर्मं वाऽधर्ममेव वा। देशस्याचरणं नित्यं चरित्रं तद्धि कीर्तितम्॥*
 
-[24:] As though to warn people against the view that ***sadachar*** means good acts or acts of good men, and fearing that people might understand it that way and follow the acts of good men, the **Smritis** have commanded the **Hindus** in people might understand it that way and follow the acts of good men, the **Smritis** have commanded the **Hindus** in unmistakable terms not to follow even Gods in their good deeds, if they are contrary to **Shruti**, **Smriti**, and *sadachar*. This may sound to be most extraordinary, most perverse, but the fact remains that *न देवचरितं चरेत्।* is an injunction issued to the **Hindus** by their **Shastras**.
+[24:] As though to warn people against the view that ***sadachar*** means good acts or acts of good men, and fearing that people might understand it that way and follow the acts of good men, the **Smritis** have commanded the **Hindus** in unmistakable terms not to follow even Gods in their good deeds, if they are contrary to **Shruti**, **Smriti**, and *sadachar*. This may sound to be most extraordinary, most perverse, but the fact remains that *न देवचरितं चरेत्।* is an injunction issued to the **Hindus** by their **Shastras**.
 
 [25:] Reason and morality are the two most powerful weapons in the armoury of a reformer. To deprive him of the use of these weapons is to disable him for action. How are you going to break up Caste, if people are not free to consider whether it accords with reason? How are you going to break up Caste, if people are not free to consider whether it accords with morality? The wall built around Caste is impregnable, and the material of which it is built contains none of the combustible stuff of reason and morality. Add to this the fact that inside this wall stands the army of **Brahmins** who form the intellectual class, Brahmins who are the natural leaders of the **Hindus**, Brahmins who are there not as mere mercenary soldiers but as an army fighting for its homeland, and you will get an idea why I think that the breaking up of Caste among the Hindus is well-nigh impossible. At any rate, it would take ages before a breach is made.
 
@@ -445,7 +445,7 @@ The name of Prof. Radhakrishnan is big enough to invest with profundity whatever
 
 [3:] What is this **Hindu** Religion? Is it a set of principles, or is it a code of rules? Now the Hindu Religion, as contained in the **Vedas** and the **Smritis**, is nothing but a mass of sacrificial, social, political, and sanitary rules and regulations, all mixed up. What is called Religion by the Hindus is nothing but a multitude of commands and prohibitions. Religion, in the sense of spiritual principles, truly universal, applicable to all races, to all countries, to all times, is not to be found in them; and if it is, it does not form the governing part of a Hindu's life. That for a Hindu, **Dharma** means commands and prohibitions, is clear from the way the word Dharma is used in the **Vedas** and the **Smritis** and understood by the commentators. The word Dharma as used in the **Vedas** in most cases means religious ordinances or rites. Even **Jaimini** in his **Purva-Mimamsa** defines Dharma as "a desirable goal or result that is indicated by injunctive (Vedic) passages."
 
-[4:] To put it in plain language, what the **Hindus** call Religion is really Law, or at best legalized class-ethics. Frankly, I refuse to call this code of ordinances as Religion. The first evil of such a code of ordinances, misrepresented to the people refuse to call this code of ordinances as Religion. The first evil of such a code of ordinances, misrepresented to the people as Religion, is that it tends to deprive moral life of freedom and spontaneity, and to reduce it (for the conscientious, at any rate) to a more or less anxious and servile conformity to externally imposed rules. Under it, there is no loyalty to ideals; there is only conformity to commands.
+[4:] To put it in plain language, what the **Hindus** call Religion is really Law, or at best legalized class-ethics. Frankly, I refuse to call this code of ordinances as Religion. The first evil of such a code of ordinances, misrepresented to the people as Religion, is that it tends to deprive moral life of freedom and spontaneity, and to reduce it (for the conscientious, at any rate) to a more or less anxious and servile conformity to externally imposed rules. Under it, there is no loyalty to ideals; there is only conformity to commands.
 
 [5:] But the worst evil of this code of ordinances is that the laws it contains must be the same yesterday, today, and forever. They are iniquitous in that they are not the same for one class as for another. But this iniquity is made perpetual in that they are prescribed to be the same for all generations. The objectionable part of such a scheme is not that they are made by certain persons called Prophets or Law-givers. The objectionable part is that this code has been invested with the character of finality and fixity. Happiness notoriously varies with the conditions and circumstances of a person, as well as with the conditions of different people and epochs. That being the case, how can humanity endure this code of eternal laws, without being cramped and without being crippled?
 
@@ -457,17 +457,17 @@ The name of Prof. Radhakrishnan is big enough to invest with profundity whatever
 
 [1:] While I condemn a Religion of Rules, I must not be understood to hold the opinion that there is no necessity for a religion. On the contrary, I agree with **Burke** when he says that "True religion is the foundation of society, the basis on which all true Civil Government rests, and both their sanction." Consequently, when I urge that these ancient rules of life be annulled, I am anxious that their place shall be taken by a Religion of Principles, which alone can lay claim to being a true Religion. Indeed, I am so convinced of the necessity of Religion that I feel I ought to tell you in outline what I regard as necessary items in this religious reform. The following, in my opinion, should be the cardinal items in this reform:
 
-1 There should be one and only one standard book of. **Hindu** Religion, acceptable to all **Hindus** and recognized by all Hindus. This of course means that all other books of Hindu religion such as **Vedas**, **Shastras**, and **Puranas**, which are treated as sacred and authoritative, must by law cease to be so, and the preaching of any doctrine, religious or social, contained in these books should be penalized.
+1. There should be one and only one standard book of. **Hindu** Religion, acceptable to all **Hindus** and recognized by all Hindus. This of course means that all other books of Hindu religion such as **Vedas**, **Shastras**, and **Puranas**, which are treated as sacred and authoritative, must by law cease to be so, and the preaching of any doctrine, religious or social, contained in these books should be penalized.
 
-2 It would be better if priesthood among. **Hindus** were abolished. But as this seems to be impossible, the priesthood must at least cease to be hereditary. Every person who professes to be a **Hindu** must be eligible for being a priest. It should be provided by law that no Hindu shall be entitled to be a priest unless he has passed an examination prescribed by the State, and holds a ***sanad*** from the State permitting him to practise.
+2. It would be better if priesthood among. **Hindus** were abolished. But as this seems to be impossible, the priesthood must at least cease to be hereditary. Every person who professes to be a **Hindu** must be eligible for being a priest. It should be provided by law that no Hindu shall be entitled to be a priest unless he has passed an examination prescribed by the State, and holds a ***sanad*** from the State permitting him to practise.
 
-3 No ceremony performed by a priest who does not hold a. *sanad* shall be deemed to be valid in law, and it should be made penal [=punishable] for a person who has no *sanad* to officiate as a priest.
+3. No ceremony performed by a priest who does not hold a. *sanad* shall be deemed to be valid in law, and it should be made penal [=punishable] for a person who has no *sanad* to officiate as a priest.
 
-4 A priest should be the servant of the State, and should be subject to the disciplinary action of the State in the. matter of his morals, beliefs, and worship, in addition to his being subject along with other citizens to the ordinary law of the land.
+4. A priest should be the servant of the State, and should be subject to the disciplinary action of the State in the. matter of his morals, beliefs, and worship, in addition to his being subject along with other citizens to the ordinary law of the land.
 
-5 The number of priests should be limited by law according to the requirements of the State, as is done in the case of. the **I.C.S.**
+5. The number of priests should be limited by law according to the requirements of the State, as is done in the case of. the **I.C.S.**
 
-[2:] To some, this may sound radical. But to my mind there is nothing revolutionary in this. Every profession in India is regulated. Engineers must show proficiency, doctors must show proficiency, lawyers must show proficiency, before they regulated. Engineers must show proficiency, doctors must show proficiency, lawyers must show proficiency, before they are allowed to practise their professions. During the whole of their career, they must not only obey the law of the land, civil as well as criminal, but they must also obey the special code of morals prescribed by their respective professions. The priest's is the only profession where proficiency is not required. The profession of a **Hindu** priest is the only profession which is not subject to any code.
+[2:] To some, this may sound radical. But to my mind there is nothing revolutionary in this. Every profession in India is regulated. Engineers must show proficiency, doctors must show proficiency, lawyers must show proficiency, before they are allowed to practise their professions. During the whole of their career, they must not only obey the law of the land, civil as well as criminal, but they must also obey the special code of morals prescribed by their respective professions. The priest's is the only profession where proficiency is not required. The profession of a **Hindu** priest is the only profession which is not subject to any code.
 
 [3:] Mentally a priest may be an idiot, physically a priest may be suffering from a foul disease such as syphilis or gonorrhea, morally he may be a wreck. But he is fit to officiate at solemn ceremonies, to enter the *sanctum sanctorum* [=holiest part] of a **Hindu** temple, and to worship the Hindu God. All this becomes possible among the **Hindus** because for a priest it is enough to be born in a priestly caste. The whole thing is abominable, and is due to the fact that the priestly class among Hindus is subject neither to law nor to morality. It recognizes no duties. It knows only of rights and privileges. It is a pest which divinity seems to have let loose on the masses for their mental and moral degradation.
 
@@ -483,9 +483,7 @@ The name of Prof. Radhakrishnan is big enough to invest with profundity whatever
 
 [2:] In the first place, the **Hindus** must consider whether it is sufficient to take the placid view of the anthropologist that there is nothing to be said about the beliefs, habits, morals, and outlooks on life which obtain among the different peoples of the world, except that they often differ; or whether it is not necessary to make an attempt to find out what kind of morality, beliefs, habits, and outlook have worked best and have enabled those who possessed them to flourish, to grow strong, to people the earth and to have dominion over it. As is observed by **Prof. Carver,**
 
-> "Morality and religion, as the organised expression of moral approval and disapproval, must be regarded as factors in the struggle for
-
-> and disapproval, must be regarded as factors in the struggle for existence as truly as are weapons for offence and defence, teeth and claws, horns and hoofs, furs and feathers. The social group, community, tribe, or nation, which develops an unworkable scheme of morality or within which those social acts which weaken it and unfit it for survival, habitually create the sentiment of approval, while those which would strengthen and enable it to be expanded habitually create the sentiment of disapproval, will eventually be eliminated. It is its habits of approval or disapproval (these are the results of religion and morality) that handicap it, as really as the possession of two wings on one side with none on the other will handicap the colony of flies. It would be as futile in the one case as in the other to argue, that one system is just as good as another."
+> "Morality and religion, as the organised expression of moral approval and disapproval, must be regarded as factors in the struggle for existence as truly as are weapons for offence and defence, teeth and claws, horns and hoofs, furs and feathers. The social group, community, tribe, or nation, which develops an unworkable scheme of morality or within which those social acts which weaken it and unfit it for survival, habitually create the sentiment of approval, while those which would strengthen and enable it to be expanded habitually create the sentiment of disapproval, will eventually be eliminated. It is its habits of approval or disapproval (these are the results of religion and morality) that handicap it, as really as the possession of two wings on one side with none on the other will handicap the colony of flies. It would be as futile in the one case as in the other to argue, that one system is just as good as another."
 
 [3:] Morality and religion, therefore, are not mere matters of likes and dislikes. You may dislike exceedingly a scheme of morality which, if universally practised within a nation, would make that nation the strongest nation on the face of the earth. Yet in spite of your dislike, such a nation will become strong. You may like exceedingly a scheme of morality and an ideal of justice which, if universally practised within a nation, would make it unable to hold its own in the struggle with other nations. Yet in spite of your admiration, this nation will eventually disappear. The **Hindus** must, therefore, examine their religion and their morality in terms of their survival value.
 
