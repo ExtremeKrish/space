@@ -268,8 +268,10 @@ $$
 2 laws
 
 ![[Pasted image 20260407141510.jpg|802x697]]
+
 ## Wheatstone Bridge
-![[Pasted image 20260407211527.png]]
+![[wheatstone-bridge.drawio.svg|center|450]]
+
 $$
 \frac{R_{P}}{R_{R}} = \frac{R_{Q}}{R_{S}}
 $$

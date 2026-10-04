@@ -52,11 +52,13 @@
 :root {
   --ex-red: #e03131;
   --ex-black: #1e1e1e;
+ --ex-white:#000000
 }
 
 [saved-theme="dark"] {
   --ex-red: #ff8383;
   --ex-black: #d3d3d3;
+    --ex-white: #ffffff;
 }
 .ex-center {
   display: block;
