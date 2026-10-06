@@ -263,9 +263,21 @@ $$
 $$
 ---
 ## Kirchhoff's Law
-1. Kirchhoff's Current Law (KCL) states that the total current entering a junction in a circuit must be equal to the total current leaving the junction
+1. Kirchhoff's Current Law (KCL) states that the total current entering a junction in a circuit must be equal to the total current leaving the junction.
 
-2 laws
+$$
+\sum I_{\text{in}} = \sum I_{\text{out}}
+$$
+and
+$$
+I_1 + I_2 + I_3 = I_4 + I_5
+$$
+
+2. Kirchoff's Voltage Law states that the *total voltage around any closed loop in a circuit* must be *equal to* the *sum of the voltage drops in that loop.*
+$$
+V_{AB} + V_{BC} + V_{CD} + V_{DA} = 0
+$$
+
 
 ![[Pasted image 20260407141510.jpg|802x697]]
 

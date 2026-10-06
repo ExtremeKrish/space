@@ -151,6 +151,7 @@ article p, article li {
     font-size: 1.4rem;
     line-height: 1.5;
     margin-top: 8px;
+
 }
 article li {
 margin-bottom:8px;
@@ -190,7 +191,8 @@ color:inherit
 --secondary:#f0eee6 !important;
 }
 
-p, ul, text, a, tr, td, li, ol, ul, .katex, .math, .typst-doc, g[class~="typst-text"] { color: var(--dark);
+p, ul, text, a, tr, td, li, ol, ul, .katex, .math, .typst-doc, g[class~="typst-text"] { 
+color: var(--dark);
 fill: var(--dark);
 }
 
@@ -254,12 +256,16 @@ article li::marker {
 /* =============KATEX============= */
 .katex {
   font: normal 1.5rem KaTeX_Main,Times New Roman,serif !important;
+
 }
 
 .katex-display > .katex {
 font: normal 1.6rem KaTeX_Main,Times New Roman,serif !important;
-}
 
+}
+.katex-display{
+color:var(--dark) !important;
+}
 .inline-toc {
   border: 1px solid var(--lightgray);
   border-radius: 6px;
@@ -292,6 +298,11 @@ table{
 font-weight: inherit !important;
   color: inherit;
     }
+
+body {
+color:var(--dark) !important;
+}
+
 
 /* 2. Classic Theme Setup */
 body.classic {
@@ -410,7 +421,12 @@ font-weight: inherit !important;
 
     .katex-display > .katex {
         font: normal 1.6rem KaTeX_Main,Times New Roman,serif !important;
+color:var(--dark) !important;
     }
+
+.callout[data-callout="question"] {
+  --color: var(--bold-color);
+}
 }
 
 //======BOOK-THEME===========

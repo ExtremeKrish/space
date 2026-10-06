@@ -4,6 +4,7 @@ tags:
   - physics
 created: 2026-04-07 21:25
 title: "Chapter-4 Moving Charges & Magnatism"
+body_class: "notes"
 ---
 
 ```toc numbered
@@ -165,10 +166,11 @@ F_{total} &= F_{e} \times nAl \\
 &= B I \;l \sin \theta
 \end{align*}
 $$
-Why this happened? Cuz we knew from [[CUET/Physics/Chapter - 3#Relation b/w Current and Drift Velocity|Chapter - 3 : Relation b\/w Current and Drift Velocity]] that $I = neAV_{d}$
+Why this happened? Cuz we knew from [[My-Notes/Physics/Chapter-3#relation-bw-current-and-drift-velocity|Chapter - 3, Relation between Current and Drift Velocity]] that $I = neAV_{d}$
 
 ### Workdone by Magnetic Force 
 *Turns out this force is nalla* cuz $\vec{F} \perp \vec{V}$ thus $W = \vec{F} \cdot \vec{d} = \cos 90 = 0$
+
 **So workdone is ZERO**
 ### Motion of a Charged Particle in Uniform Magnetic Field
 **1) In the Same Direction**
@@ -178,6 +180,7 @@ If a charge is moving in the direction of magnetic Field, then $\theta = 0$ and 
 **2) Movin' Perpendicular**
 
 It'll move Perpendicular like $\vec{V}\perp \vec{F}$ so it'll move in circular motion,
+
 So $F_{B} = F_{C} \implies qVB\sin 90 = \frac{mv^2}{r}$
 $$
 \begin{align*}
@@ -225,7 +228,7 @@ $$
 Then I = 1 Ampere
 ## Torque on Current Loop, Magnetic Dipole
 ### Torque on Rectangle Current Loop in Uniform Magnetic Field
-![[Pasted image 20260502144134.jpg|439x334]]
+![[Pasted image 20260502144134.jpg|center|439]]
 $$
 \begin{align*}
 \tau &= F \times r \\
@@ -236,17 +239,18 @@ $$
 $$
 IA or NIA (for-N-turns)is also called **Magnetic Moment of Coil** $\vec{m}$
 
-**So Vector Form:**
+**So in Vector Form:**
 $$
 \tau = \vec{m} \times \vec{B}
 $$
-**For n Turns**
+**& For n Turns**
 $$
 \tau = NIA\;B\sin \theta
 $$
 
 ### Circular Current Loop as a Magnetic Dipole
-Let's revise the [[#Magnetic Field on the *Axis* of Circular Current Loop]]
+Let's revise the [[#magnetic-field-on-the-axis-of-circular-current-loop]]
+
 It was :
 $$
 B_{x} = \frac{\mu_{0}}{2} \frac{IR^2}{( R^2 + x^2)^{3/2}}
@@ -261,11 +265,12 @@ B &= \frac{\mu_{0}}{2} \frac{IA}{\pi \;x^3}  \\
 B &= \frac{\mu_{0}}{4\pi} \frac{2m}{x^3}
 \end{align*}
 $$
-Now compare it with [[CUET/Physics/Chapter - 1#Electric Dipole|Electric dipole field (on axis)]] from Chapter 1 which was
+Now compare it with [[My-Notes/Physics/Chapter-1#1-on-axial-point|Electric dipole field (on axis)]] from Chapter 1 which was
 $$
 E = \frac{1}{4\pi \epsilon_{0}} \frac{2p}{x^3}
 $$
 SO U SEE THE PATTERN? If we just put $\mu_{0}$ as $1/\epsilon_{0}$ we can get expressions for dipoles by electric field.
+
 And so we can also find for *Perpendicular bisector of dipole* which was
 $$
 E = \frac{1}{4\pi \epsilon_{0}}\frac{p}{x^3}

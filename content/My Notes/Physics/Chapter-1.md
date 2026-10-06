@@ -2,6 +2,7 @@
 tags:
   - physics
 title: Chapter-1 Electrostatics
+body_class: "notes"
 ---
 
 ```toc numbered
@@ -16,16 +17,17 @@ title: Chapter-1 Electrostatics
 	- *Overall Charge touch hone ke pehle or baad me same rehat hai do conductors me*
 	- *Vo dono us universe me akele hain, to jo hoga unke bich me hoga*
 	- Q(net) is Constant
-4. Charge is invarient, but its mass is varient (infact everything's mass is varient *Relative Physics type shi & there's a formula given by Einstein* not imp for exam tho :)
-    $$
-    m = \frac{m_{\circ}}{\sqrt{1-\frac{V^2}{C^2}}}
-    $$
-
-    Here,
-	- $M_{\circ}$ → Rest mass of the Body
-	- V → Velocity of body
-	- C → Speed of Light (in Vaccum)
-	
+4. Charge is invarient, but its mass is varient (infact everything's mass is varient) 
+	> [!info] Here's a formula given by Einstein*
+	> not imp for exam tho :)
+	>
+	> $$
+	> m = \frac{m_{0}}{\sqrt{1-\frac{v^2}{c^2}}}
+	> $$
+	> Here,
+	> - $m_{0}$ → Rest mass of the body
+	> - $v$ → Velocity of body
+	> - $v$ → Speed of Light (in Vacuum)
 5. Charge is quantized: The charge on any body is **integral multiple** of an electronic charge
 	- $e = 1.6 \times 10^{-19} C$
 	- $e^{-} = -1.6 \times 10^{-19} C$
@@ -57,7 +59,7 @@ Not important for exam
 	- Charge can reside inside & on the surface but do not move.
 
 > [!info] Do you know?
-> We discovered the difference between Conductors & Insulators in 1729 through the pioneering experiments of British scientist Stephen Gray, [Read More](https://extremekrish.github.io/space/History/Science/electricity#2-conductors-and-non-conductors) . The same in which British East India company was just a commercial joint-stock corporation & Mughal Empire was in decline. In this year Maratha Ruler Peshwa Bajirao I married Mastani, a muslim princess of Bundelkhand.
+> We discovered the difference between Conductors & Insulators in 1729 through the pioneering experiments of British scientist Stephen Gray, [Read More](https://extremekrish.github.io/space/History/Science/electricity#2-conductors-and-non-conductors) . The time in which British East India company was just a commercial joint-stock corporation & Mughal Empire was in decline. In this year Maratha Ruler Peshwa Bajirao I married Mastani, a muslim princess of Bundelkhand.
 
 ### Methods of Charging
 1. **By Rubbing** 
@@ -104,11 +106,12 @@ F = \frac{1}{4\pi \epsilon}\cdot\frac{ q_1 q_2}{r^2}
 $$
 
 **Where:** $\epsilon = \epsilon_r * \epsilon_\circ$
+
 $\epsilon$ = **Permittivity of a Medium**
 
 *Water ka $\epsilon_r$ is 81*
 
-![[Pasted image 20260308153122.jpg]]
+> [!question]- Two charges have electrostatic force between them is F. If they are taken in a medium where dielectric constant K = 5, then net force on them is?
 
 > [!question]- Two point charges having equal charges separated by 1 m distance experience a force of 8 N. What will be the force experienced by them, if they are held in water at the same distance? (Given, K = 80)
 > 0.1 N

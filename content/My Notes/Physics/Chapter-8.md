@@ -4,7 +4,7 @@ tags:
   - physics
 created: 2026-04-17 02:10
 title: "Chapter-8 Electromagnetic Waves"
-
+body_class: "notes"
 ---
 
 ```toc numbered
@@ -37,7 +37,7 @@ $$
 \frac{d\phi_{E}}{dt} &= \frac{d}{dt} \left( \frac{Q}{\epsilon_{0}} \right) \\
 \frac{d\phi_{E}}{dt} &= \frac{1}{\epsilon_{0}} \frac{dQ}{dt} \\
 \epsilon_{0} \frac{d\phi_{E}}{dt} &= I \\
-\Aboxed{I_{d} &= \epsilon_{0}\frac{d\phi_{E}}{dt}}
+\boxed{I_{d} = \epsilon_{0}\frac{d\phi_{E}}{dt}}
 \end{align*}
 $$
 **2nd Way of Derivation**
@@ -48,7 +48,7 @@ $$
 \intertext{We know that:}
 I &= \frac{dq}{dt} \\
 I &= \frac{d(\phi \epsilon_{0})}{dt} \\
-\Aboxed{I_{d} &= \epsilon_{0} \frac{d\phi_{E}}{dt}}
+\boxed{I_{d} = \epsilon_{0} \frac{d\phi_{E}}{dt}}
 \end{align*}
 $$
 

@@ -3,6 +3,7 @@ tags:
   - physics
 created: 2026-03-27 00:22
 title: "Chapter-2 Electric Potential & Capacitance"
+body_class: "notes"
 ---
 
 ```toc numbered

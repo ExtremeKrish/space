@@ -4,6 +4,7 @@ tags:
   - physics
 created: 2026-03-28 17:01
 title: "Chapter-9 Ray Optics"
+body_class: "notes"
 ---
 
 ```toc numbered
@@ -52,7 +53,7 @@ $$
 $$
 ### Real/Apparent Depth
 ## Refraction at Spherical Surfaces & by Lenses
-![[Pasted image 20260329012644.jpg|520x294]]
+![[Pasted image 20260329012644.jpg|center|520]]
 
 $$
 \frac{\mu_{2}}{v} - \frac{\mu_{1}}{u} = \frac{\mu_{2}-\mu_{1}}{R}
@@ -87,9 +88,9 @@ When r = 90°, $i = i_{c}$
 1. Diamond
 2. Optical fibre
 3. Mirage
-	![[image_search_1774731245522.jpg|556x443]]
+![[image_search_1774731245522.jpg|center|556]]
 ## Refraction through Prism
-![[image_search_1774772666584.jpg|657x352]]
+![[image_search_1774772666584.jpg|center|656]]
 Here,
 - $i_{1} = \delta_{1} + r_{1} \implies \delta_{1} = i_{1} - r_{1}$
 - $e = r_{2}+ \delta_{2} \implies \delta_{2} = e - r_{2}$

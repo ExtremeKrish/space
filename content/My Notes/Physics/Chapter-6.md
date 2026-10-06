@@ -4,6 +4,7 @@ tags:
   - physics
 created: 2026-04-14 00:10
 title: "Chapter-6 Electromagnetic Induction"
+body_class: "notes"
 ---
 
 ```toc numbered
@@ -22,28 +23,29 @@ $$
 
 ## Faraday & Henry's Experiments
 **Experiement 1**
-![[Pasted image 20260416145509.jpg|441x433]]
+![[Pasted image 20260416145509.jpg|center|441]]
 They found out that if there is no motion then there is not deflection cuz no current. 
 Basically relative motion between magnet and coil generates current
 
 **Experiment 2**
-![[Pasted image 20260416145928.jpg|740x354]]
+![[Pasted image 20260416145928.jpg|center|354]]
 
 They found out that the deflection is only there when current is changing.
 Basically if magnetic field is constant than there is no current induced, so if magnetic field is changing because of motion then there IS current.
+
 **Experiment 3**
-![[Pasted image 20260416145626.jpg|375x417]]
+![[Pasted image 20260416145626.jpg|center|417]]
 
 In the third experiment they found out that there is no need to always move the coils even actually change the magnetic field and that so you can induce the current.
 
 So after these experiments , Faraday came to one conclusion & have his laws of EMI:
 
 ## Faraday's Laws of EMI
-↪ Whenever my brother, there is change in Magnetic Flux $\phi_{B}$, EMF or current is induced in the coil 🙌
+↪ <mark>Whenever my brother, there is change in Magnetic Flux $\phi_{B}$, EMF or current is induced in the coil 🙌</mark>
 $$
 \mathcal{E} \propto \frac{d\phi_{B}}{dt} \implies \mathcal{E} = \frac{-d\phi_{B}}{dt}
 $$
-This is for single turn, abnd btw we know that $\mathcal{E} = iR$ (*offtopic: here R is combination of External Resistances & internet resistance*)so
+This is for single turn, abnd btw we know that $\mathcal{E} = iR$ (*offtopic: here R is combination of External Resistances & internet resistance*) so
 $$
 i = \frac{1}{R} \frac{d\phi}{dt}
 $$
@@ -55,13 +57,13 @@ $$
 
 **Sign Convensions**
 
-![[image_search_1777968290509.png]]
+![[image_search_1777968290509.png|center]]
 
 ## Lenz Law (🥀)
-> Lenz law is like your kaleshi ex, pas aane nahi deti, dur jane nahi deti,,, *if u start loving her, she would become annoying but if you try to distance yourself, she would start ovulating*
+> Lenz law is like your kaleshi ex, pas aane nahi deti, dur jane nahi deti,,, *if u start loving her, she would become annoying but if you try to distance yourself, she would start ovulating*, just like she gets mood swings:-
 - *Jo current induce hoga coil me, uski jo direction hogi, vo kch ayesi hogi, jo rate of change of flux ko oppose kare*
 
-![[image_search_1777968647970.jpg|350x290]]
+![[image_search_1777968647970.jpg|center|290]]
 
 **Lenz law and Energy Conservation**
 Current cannot be produced without any effort because this still voilate law conservation of energy. 
@@ -69,7 +71,7 @@ Current cannot be produced without any effort because this still voilate law con
 ## Motional EMF
 Motional EMF (electromotive force) is ==the voltage induced across a conductor (such as a metal rod) when it moves through a magnetic field, caused by the Lorentz force acting on charges within it==. It is calculated as $\mathcal{E} = vBl$ (velocity × magnetic field × length)
 
-![[image_search_1776252616988.png|532x260]]
+![[image_search_1776252616988.png|center|532]]
 
 $$
 \mathcal{E} = v B \ell
@@ -84,7 +86,7 @@ $$
 $$
 \mathcal{E} = \frac{1}{2} B \omega \ell^2
 $$
-- L = length of rod
+- l = length of rod
 
 Ncert 6.5, 6.7
 
@@ -99,9 +101,11 @@ Ncert 6.5, 6.7
 3. Maglev Train/ Magnetic Breaks
 4. Induction Furnace
 5. Electric Power Meter
+
 ## Inductance
 Inductance is a property of a circuit (or coil) that resists change in current.
 Or “How strongly a system can induce emf in itself (or another coil) when current changes”
+
 ### Self Induction
 *So jab tum ek wire ka coil banate ho to vo ek solenoid ban jata hai aur energy ko store kar sakta hai using magnetic field, like when u change current in that coil, it opposes the current to always make a gradient in current change*
 
@@ -124,7 +128,7 @@ $$
 \begin{align*}
 \mathcal{E}_{\text{ind}} &= \frac{\Delta \phi}{\Delta t} \\
 &= \frac{\Delta(Li)}{\Delta t} \\
-\Aboxed{\mathcal{E}_{\text{ind}} &= L\frac{\Delta i}{\Delta t}} \\
+\boxed{\mathcal{E}_{\text{ind}} = L\frac{\Delta i}{\Delta t}} \\
 i_{\text{ind}} &= \frac{L}{R} \frac{\Delta i}{\Delta t} \\
 q_{\text{ind}} &= \frac{L}{R} \Delta i
 \end{align*}
@@ -139,7 +143,7 @@ $$
 N\phi &= L\,i \\
 N\,BA &= L\,i \\
 N\,\mu_{0} ni\,A&= L\,i \\
-\Aboxed{L = \mu_{0}nNA}
+\boxed{L = \mu_{0}nNA}
 \end{align*}
 $$
 
@@ -159,7 +163,7 @@ dw&= L i\, di \\
 \int dW &= \int L\,i\,di \\
 \int_{0}^{W} dW &= L\int_{0}^{i} i \, di   \\
 \Delta U &= L\left[ \frac{i^2}{2} \right]^{i}_{0}  \\
-\Aboxed{U &= \frac{1}{2}L\,i^2}
+\boxed{U = \frac{1}{2}L\,i^2}
 \end{align*}
 $$
 ### Energy Density in an Inductor (u)
@@ -172,7 +176,7 @@ u &= \frac{U}{V} = \frac{U}{Al}  \\
 u_{b} &= \frac{B^2}{2 \mu_{0}}
 \end{align*}
 $$
-Here we wrote $\mu_{0}nI$ as B because that's what we learnt in [[Chapter - 4#Application Solenoid|4th Chapter, Ampere's Circuital Law for Solenoid]]
+Here we wrote $\mu_{0}nI$ as B because that's what we learnt in [[My-Notes/Physics/Chapter-4#application-solenoid|4th Chapter, Ampere's Circuital Law for Solenoid]]
 ### Inductors in Combination
 #### Series
 ![[Pasted image 20260416194911.jpg|471x236]]
@@ -180,7 +184,7 @@ Here we wrote $\mu_{0}nI$ as B because that's what we learnt in [[Chapter - 4#Ap
 $$
 \begin{align*}
 \mathcal{E}_{\text{net}} &= \mathcal{E}_{1} + \mathcal{E}_{2} + \dots \\
-\Aboxed{L_{\text{net}} &= L_{1} + L_{2} + \dots}
+\boxed{L_{\text{net}} = L_{1} + L_{2} + \dots}
 \end{align*}
 $$
 
