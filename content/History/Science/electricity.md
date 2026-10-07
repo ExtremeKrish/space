@@ -62,6 +62,7 @@ Guericke was the first to invent a "friction machine" for producing electricity.
 
 People became more and more interested in studying electricity after reading about Guericke's experiments.
 
+### Stephen Gray
 An Englishman named Stephen Gray decided to try some experiments of his own. He used glass as an electric because it was cheap enough to use in large pieces. If Guericke had known that glass was a good electric when he was doing his experiments years before, he wouldn't have had to crack away the pieces of glass around the sulphur. He would have used just the glass and skipped the sulphur altogether.
 
 Gray rubbed a hollow glass tube about 1 metre long from end to end. It attracted feathers, showing that electricity had been rubbed into it.
@@ -110,6 +111,7 @@ Gray was able to show that anything can be filled with electric fluid if it is r
 
 ## 3. Fluids and Jars
 
+### Francis Du Fay
 News of Gray’s experiments soon reached other parts of Europe. In France, a man named Charles Francis Du Fay aF8rted some experiments of his own.
 
 In 1733, he took a tiny piece of cork and covered it with a very thin layer of gold. Then he hung it from the ceiling by a silk thread. If he electrified the bit of cork by touching it with an electrified rod, the electricity spread evenly to the gold on the surface since cork was a good conductor. As the cork and gold were only touched by the silken thread and by air, the electricity could not escape.
@@ -148,6 +150,7 @@ If an electrified glass rod was touched to the brass rod sticking out of the jar
 
 If the glass rod was electrified again, more electric fluid could be passed into the jar. Eventually, enough electric fluid could be passed into the jar to make it very highly charged with electricity.
 
+### Musschenbroek
 One of the inventors of this kind of jar was a Dutch professor named Peter van Musschenbroek. He worked at the University of Leyden in the Netherlands, so the new device came to be called a "Leyden jar".
 
 The more electric fluid you squeeze into a Leyden jar, the more it is likely to be pushed out again. It is like packing more and more clothes into a trunk. The more you put in, the greater is the push of those clothes against the trunk-lid. IF the latch flies open some of the clothes tumble out. The same thing happens in the Leyden jar. The more you charge it with electricity, the more easily something might happen to discharge it and let the electric fluid come pouring out.
@@ -166,6 +169,7 @@ The electric fluid then forces its way out of the Leyden jar through the air and
 
 ## 4. Positive and Negative
 
+### Benjamin Franklin
 The news about electrical experiments crossed the Atlantic Ocean and reached Pennsylvania, one of the British colonies in America. In Pennsylvania, an American named Benjamin Franklin received a Leyden jar from England in 1747. He wondered where the electric fluid came from. If someone rubbed a glass rod and filled it with electricity, did the fluid come from the hand that rubbed it? Where did the hand get it from? From the ground?
 
 Franklin decided to test this. He had a man stand on a large block of wax. The wax was a non-conductor, so that as long as the man didn't touch anything except the wax and the air around him, no electricity could get into him.
@@ -230,6 +234,7 @@ This was the first time electrical knowledge was made useful to people generally
 
 ## 5. Batteries and Generators
 
+### Luigi Galvani
 In 1771, electrical experiments took a new turn. An Italian biologist named Luigi Galvani was experimenting with Leyden jars. He also happened to be working with some frog legs in an experiment that had nothing to do with electricity.
 
 A spark from the Leyden jar struck one of these legs and it twitched. Galvani was astonished because ordinary muscles contract only while they are alive. Electricity made dead muscles act as though they were alive. Could electricity have something to do with life?
@@ -242,6 +247,7 @@ But then he tried it again when there was no thunderstorm and when the weather w
 
 Galvani decided that there must be a connection between electricity and life. Living things were full of electricity. He felt that this, “animal electricity” didn’t disappear all at once after death, so that muscles could still twitch when they touched different metals.
 
+### Allessandro Volta
 Then another Italian scientist named Allessandro Volta began to wonder about this muscle twitching. He had worked quite a bit with electricity and he wasn’t convinced that muscles had unusual amounts of electricity.
 
 When muscles made contact with two different metals, maybe the electricity was produced by the metals, not by the muscles. If that was the case, perhaps the metals could be used to produce electricity without the muscles. Instead of putting a moist muscle across two different metals, suppose a piece of moist muscle two different metals, suppose a piece of moist cardboard was put across them?
@@ -268,6 +274,7 @@ In 1800, the very year in which the battery was invented, an Englishman named Wi
 
 In 1807, another Englishman named Humphry Davy used an electric current to break up certain rocky substances that no one had ever been able to break up before. He obtained new metals that no one had ever seen before.
 
+### Hans Christian Oersted
 Then, in 1819, a Danish scientist, Hans Christian Oersted found that when a wire was carrying an electric current it acted like a magnet. The two attractions, electricity and magnetism, apparently had some connection after all.
 
 At once, experimenters began to study the new fact. In 1829, an American scientist, Joseph Henry, showed that if wire carrying electric current was wound into coils, the magnetic attraction became stronger. Each coil of wire seemed to reinforce the next. It was important to wrap all the wire in silk, however, so that the current could not jump from one coil to the next hut had to travel through the full length of the wire.
@@ -276,6 +283,7 @@ If the coils of wire were wrapped about a piece of iron, the magnetic pull becam
 
 Henry used a small electromagnet to lift more than a tonne of iron. He could move the iron to where it was wanted and then he could release it.
 
+### Michael Faraday
 An English scientist, Michael Faraday, showed that just as electricity could produce magnetism, magnetism could be used to produce electricity. In 1831, he showed that when a copper plate was made to turn round and round near a magnet, an electric current was produced in the copper.
 
 If you use a steam engine to keep the copper plate turning, electric current can be led away from it for as long as the steam engine keeps working. Faraday produced, or "generated", electricity in this way and had invented the "electric generator".
@@ -292,6 +300,7 @@ The American inventor, Samuel F. B. Morse, built the first important electric "t
 
 This "Morse code" made is possible to send messages long distances at the speed of electricity, which is nearly 300,000 kilometres a second. A telegraph message can pass from New York to San Francisco in less than 1/60 of a second.
 
+### Alexander Graham Bell
 In 1876, a Scottish-American inventor, Alexander Graham Bell, worked out a method for making an electric current get weaker or stronger in such a way as to produce sound waves. He invented the "telephone".
 
 In 1879, the American inventor, Thomas Alva Edison, found a way to run an electric current through a carbon thread in a closed gas container that held no air. The electric current heated the thread till it glowed white-hot. Since there was no air, it couldn't burn but just kept on glowing. Edison had invented the "electric light".
