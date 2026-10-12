@@ -10,8 +10,9 @@ body_class: "notes"
 ```
 
 ## Solutions
-Solutions have 2+ Components, one is 
-- Solute (which we take less e.g. Suger) & another is **Can be Multiple**
+
+Solutions have atleast 2 or more Components, one is  
+- Solute (which we take less e.g. Suger) **Can be Multiple**, & another is:
 - Solvent (Which is much in qty, **And is always one**)
 
 ### Classification
@@ -34,12 +35,12 @@ Solutions have 2+ Components, one is
 | Solid  | Solid   | Copper dissolved in gold             |
 > Glucose is Solid 🤯
 
-→ **Aqueous Solution:-** Solution has *Water as Solvent* $(H_2O)$
+→ **Aqueous Solution:-** The Solution which has *Water as Solvent* $(H_2O)$
 
 ## Mole Concept
 
-BANANA → DOZEN          |      1 Dozen = 12 whatever
-PARTICLES → MOLES      |      1 Mole = $6.022 \times 10^{23}$ whatever (**Avogadro Number btw**)
+BANANA → DOZEN          |      1 Dozen = 12 'whatever'    
+PARTICLES → MOLES      |      1 Mole = $6.022 \times 10^{23}$ 'whatever' (**Avogadro Number btw**)
 
 > Wish I had ₹1 Mole
 
@@ -51,12 +52,16 @@ PARTICLES → MOLES      |      1 Mole = $6.022 \times 10^{23}$ whatever (**Avog
 ### In Terms of No. Of Particles 
 *Common sense*
 
-$$n = \frac{Given No. Of Particles}{6.022 \times 10^{23}}$$
+$$
+n = \frac{\text{Given No. Of Particles}}{6.022 \times 10^{23}}
+$$
 
 ### In Terms of Mass
 *Nikalna Mole hi hai, bas mass hai hamare pas*
 
-$n = \large\frac{Given Mass (g)}{Molar Mass (g/mol)}$
+$$
+n = \frac{\text{Given Mass (g)}}{\text{Molar Mass (g/mol)}}
+$$
 
 ### In Terms of Volume (Sirf Gases ke  liye)
 *STP Conditions* - Temp 273K, Atmp. = 1
@@ -66,35 +71,46 @@ $n = \large\frac{Given Mass (g)}{Molar Mass (g/mol)}$
 $n = \large\frac{Given Vol (L)}{22.4 L} = \frac{W}{M}$
 
 ## Concentration Terms
-1. Mole Fraction 
-	- **Just remember:** No. Of Moles of A and Mole Fraction of A are two diferent things: $n_{A}$ and $X_{a}$ are different. 
-	- $\sum_{i=1}^{n} x_i = 1$ (sum of X of all components in a solution is One)
-2. Mass % *Grass is Green ahh*
-3. Volume % *Grass is Green ahh*
-4. Mass by Vol Percent
-	Mass of Solute (g) present in 100mL of Solvent
-	$= \frac{Mass_{Solute} (g)}{Volume_{Solution} (mL)} \times 100$
-	
-	E.g. : `10% (W/V) aq. NaOH Soln`
-	
-	Becomes: 10g NaOH present in 100mL Solution
-5. PPM
-	- mass of solute (g) present in $10^6$ g solution
-	- => $ppm = \frac{Mass_{solute}}{Mass_{solution}}\times 10^6$
-6. Molarity (M)
-	No of Moles-e-Solute Present in Per Litre of **Entire Solution**
-	$M = \Large\frac{n_{solute}}{Volume of Solution (L)}$
+**1. Mole Fraction** 
 
-	$M = \frac{W}{M} \times \large\frac{1000}{Vol_{Soln} (mL)}$
+- **Just remember:** No. Of Moles of 'A' and Mole Fraction of 'A' are two diferent things: $n_{A}$ and $X_{a}$ are different. 
+- $\sum_{i=1}^{n} x_i = 1$ (sum of mole fraction X of all components in a solution is 1) 
+
+**2. Mass %** *Grass is Green ahh*  
+**3. Volume %** *Grass is Green ahh*
+
+**4. Mass by Volume Percent** 
+- Mass of Solute (g) present in 100mL of Solvent
+- $= \frac{Mass_{Solute} (g)}{Volume_{Solution} (mL)} \times 100$
 	
-	![[Pasted image 20260318000251.jpg]]
-7. Molality (m)
-	Moles of Solute present in 1Kg Solvent (not Solution)
-	=> $m = \frac{moles of solute}{Mass of Solvent (Kg)}$
-	
-	=> $m = \frac{W}{M} \cdot \large\frac{1000}{Mass_{Solv} (g)}$
-	
-	=> $m = \frac{X_{solute}}{X_{solvent}}\cdot\frac{1000}{MM_{solvent}}$ *→ This is a Important and long-derived formula*
+- E.g. : `10% (W/V) aq. NaOH Soln` Becomes: 10g NaOH present in 100mL Solution
+
+**5. Particles per Million (PPM)** 
+mass of solute (g) present in $10^6$ g solution
+
+$$
+ppm = \frac{Mass_{solute}}{Mass_{solution}}\times 10^6
+$$
+
+**6. Molarity (M)**  
+No of Moles-e-Solute Present in Per Litre of **Entire Solution**  
+
+$$
+M = \frac{n_{solute}}{\text{Volume of Solution (L)}}
+$$
+
+$M = \frac{W}{M} \times \large\frac{1000}{Vol_{Soln} (mL)}$
+
+![[Pasted image 20260318000251.jpg]]
+
+**7. Molality (m)**  
+Moles of Solute present in 1Kg Solvent (not Solution)
+=> $m = \frac{moles of solute}{Mass of Solvent (Kg)}$
+
+=> $m = \frac{W}{M} \cdot \large\frac{1000}{Mass_{Solv} (g)}$
+
+=> $m = \frac{X_{solute}}{X_{solvent}}\cdot\frac{1000}{MM_{solvent}}$ *→ This is a Important and long-derived formula*
+
 7. Normality *in next chapter 'Equi. Conductivity', in short N = M × n factor*
 8. Solubility *(Not a Concentration Term, we'll see that :-)*
 

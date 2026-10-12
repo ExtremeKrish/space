@@ -72,7 +72,7 @@ Not important for exam
 3. **By Induction** (Khesarilal Yadav)
 	- No Physical Touch by bodies
 ### Gold Leaf Electroscope
-A simple apparatus to detect charge on a body is the gold-leaf electroscope. It consists of a vertical metal rod housed in a box, with two thin gold leaves attached to its bottom end. When a charged object touches the metal knob at the top of the rod, charge flows on to the leaves and they diverge. The degree of divergance is an indicator of the amount of charge.
+A simple apparatus to detect charge on a body is the gold-leaf electroscope. It consists of a vertical metal rod housed in a box, with two thin gold leaves attached to its bottom end. When a charged object touches the metal knob at the top of the rod, charge flows on to the leaves and they diverge. *The degree of divergance is an indicator of the amount of charge.*
 
 ## Coulomb's Law
 ![[coulombs-law.svg|center|540]]
@@ -81,24 +81,15 @@ $$
 F = \frac{k\,q_1\,q_2}{r^2}
 $$
 
-- K = Coulomb's Constant
+- Where **Coulomb's Constant**, $k = \Large\frac{1}{4\pi \epsilon_\circ}$
 - $k = 9 \times 10^9 Nm^2/C^2$ *(In Free Space / Vaccum)*
-- $\large k = \Large\frac{1}{4\pi \epsilon_\circ}$   
-   
-### Properties of Coulomb's Law (Theory)
-- Valid only for point charges
-- Follows Newton's 3rd law
-- Both Laws of Gravitation & Coulomb's Law follow Inverse Square Law
-- Electrostatic Forces (& Sanghis) are conservative in nature
-	- Offtopic but Gravit. & Spring Forces are also Conservative
-- Electrostatic Forces are much stronger than Gravitaion force
 
 ### Permittivity of Free Space
 ![[Pasted image 20260408140706.png|center|300]]
 
 $\large \epsilon_\circ$ is called **Permittivity of Free Space**
 
-And its value is $\epsilon_\circ = 8.85 * 10^{-12} N^{-1}m^{-2}C^2$.
+And its value is $\epsilon_\circ = 8.85 \times 10^{-12} N^{-1}m^{-2}C^2$.
 
 ### Permittivity of a Medium
 $$
@@ -127,6 +118,14 @@ $K = \Large\epsilon_r$
 - **K never = 0**
 - **K = 1** (Air/Vaccum)
 
+### Properties of Coulomb's Law (Theory)
+- Valid only for point charges
+- Follows Newton's 3rd law
+- Both Laws of Gravitation & Coulomb's Law follow Inverse Square Law
+- Electrostatic Forces (& Sanghis) are conservative in nature
+	- Offtopic but Gravit. & Spring Forces are also Conservative
+- Electrostatic Forces are much stronger than Gravitaion force
+
 ## Superposition Principle
 
 This was like Grass is green, just remember formula
@@ -147,19 +146,21 @@ $$
 A charge produces something called an *electric field* in the space around it and this electric field exerts a force on any charge (except the source charge itself) placed in it. 
 The electric field has its own existence and is present even if there is no additional charge to experience the force.
 
-$$|\vec{E}| = \frac{kQ}{r^2}$$
-And
+$$
+|\vec{E}| = \frac{kQ}{r^2}
+$$
+And, it can also be written as:
+$$
+\vec{E} = \frac{\vec{F}}{q}
+$$
 
-$$\vec{E} = \frac{\vec{F}}{q}$$
-
-
-### Graph
-![[electric-field-graph.excalidraw.svg|center|440]]
+### Graph of E vs r
+![[electric-field-graph.excalidraw.svg|center|460]]
 
 ### Units of Electric Field
-Its N/C cuz $\vec{E} = \frac{\vec{F}}{q} = \frac{N}{C}$
+**Unit:-** N/C (Newton per Coulomb) cuz $\vec{E} = \large\frac{\vec{F}}{q} = \frac{N}{C}$
 
-& Dimention = $[MLT^{-3}A^{-1}]$
+& **Dimension** = $[MLT^{-3}A^{-1}]$
 ### Properties of Electric Field Lines (Theory)
 1. They start from positive and terminate at negative, 
 2. They do not form closed loops
@@ -172,7 +173,7 @@ Its N/C cuz $\vec{E} = \frac{\vec{F}}{q} = \frac{N}{C}$
 
 =>$ma = qE$        , and so:
 
-=>$Acceleration (> = \frac{qE}{m}$
+=>$Acceleration, a = \frac{qE}{m}$
 
 ### Motion of a Charged Particle in a Uniform Electric Field
 1. Charged Particle at rest.
@@ -188,9 +189,11 @@ Its N/C cuz $\vec{E} = \frac{\vec{F}}{q} = \frac{N}{C}$
 	$$
 	t = \sqrt{\frac{2dm}{qE}}
 	$$
-	m = mass of electron/proton
-	$m_{e} = 9.11 \times 10^{-31} kg$
-	$m_{p} = 1.67 \times 10^{-27} kg$
+
+    > [!info] m = mass of electron/proton  
+    >
+	> $m_{e} = 9.11 \times 10^{-31} kg$  
+	> $m_{p} = 1.67 \times 10^{-27} kg$
 	
 > [!question]- The magnitude of electric field intensity E is such that, an electron placed in it would experience an electrical force equal to its weight, is given by:
 > E = mg/e
@@ -213,11 +216,11 @@ Its N/C cuz $\vec{E} = \frac{\vec{F}}{q} = \frac{N}{C}$
 ### Continuous Charge Distribution
 1. Descrete
 2. Continuous
-	1. Linear $\lambda$
+	1. Linear $\lambda$  
 		$\large\lambda = \frac{Q}{L}$
-	2. Superficial (Arial) $\sigma$ **(Important)**
+	2. Superficial (Arial) $\sigma$ **(Important)**  
 		$\large\sigma = \frac{Q}{A}$
-	3. Volumetric $\rho$
+	3. Volumetric $\rho$  
 		$\large\rho = \frac{Q}{V}$
 ## Electric Flux
 Measures the ==electric field lines passing through a given area== $\vec{A}$

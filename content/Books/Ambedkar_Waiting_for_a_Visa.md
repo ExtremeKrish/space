@@ -209,7 +209,7 @@ There is one other incident more telling than this. On the 6th of March 1938, a 
 
 *Edited for classroom use by Prof. Frances W. Pritchett, Columbia University.*
 
-Source: https://franpritchett.com/00ambedkar/txt_ambedkar_waiting.html
+Source: [Click Here](https://franpritchett.com/00ambedkar/txt_ambedkar_waiting.html)
 
 Published in: **Dr. Babasaheb Ambedkar: Writings and Speeches, Vol. 12**, edited by Vasant Moon (Bombay: Education Department, Government of Maharashtra, 1993), Part I, pp. 661-691.
 

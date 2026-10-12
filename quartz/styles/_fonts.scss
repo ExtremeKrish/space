@@ -1,0 +1,23 @@
+@mixin face($family, $file, $weight: normal, $style: normal) {
+  @font-face {
+    font-family: $family;
+    src: url("./static/fonts/#{$file}.woff") format("woff");
+    font-weight: $weight;
+    font-style: $style;
+    font-display: swap;
+  }
+}
+
+// Body text
+@include face("Bookerly", "Bookerly-Regular");
+@include face("Bookerly", "Bookerly-Italic", normal, italic);
+@include face("Bookerly", "Bookerly-Bold", bold);
+@include face("Bookerly", "Bookerly-BoldItalic", bold, italic);
+@include face("Bookerly", "Bookerly-Light", 300);
+@include face("Bookerly", "Bookerly-Light-Italic", 300, italic);
+
+// Headings
+@include face("Bookerly Display", "Bookerly-Display");
+@include face("Bookerly Display", "Bookerly-Display-Italic", normal, italic);
+@include face("Bookerly Display", "Bookerly-Display-Bold", bold);
+@include face("Bookerly Display", "Bookerly-Display-Bold-Italic", bold, italic);

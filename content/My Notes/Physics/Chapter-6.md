@@ -68,6 +68,7 @@ $$
 **Lenz law and Energy Conservation**
 Current cannot be produced without any effort because this still voilate law conservation of energy. 
 
+Watch [this](https://www.instagram.com/reel/Dd4Rlj_jFZb/?cplk=MXRyeG1xOGNsYm53OQ==) by Veritasium
 ## Motional EMF
 Motional EMF (electromotive force) is ==the voltage induced across a conductor (such as a metal rod) when it moves through a magnetic field, caused by the Lorentz force acting on charges within it==. It is calculated as $\mathcal{E} = vBl$ (velocity × magnetic field × length)
 
@@ -95,6 +96,7 @@ Ncert 6.5, 6.7
 ### Eddy Currents (more likely Edgy Currents)
 *Jab magnetic field change hota hai to pas ke conductor me current loops banne lagte hai, jo ki heat bhi karte hain, this can act as a feature & problem too*
 
+See [this](https://youtube.com/shorts/v-K--ioiXms?si=eqFJl3Kho5FEfGNT) use of Eddy Current.
 #### Applications 
 1. Electromagnetic Damping
 2. Metal Detector
