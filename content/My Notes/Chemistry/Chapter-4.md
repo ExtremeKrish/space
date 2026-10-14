@@ -10,12 +10,13 @@ body_class: "notes"
 ```
 
 **The Periodic Table from NCERT**
-![[The Periodic Table - NCERT.svg|997x753]]
+![[The_Periodic_Table_NCERT.svg]]
 **D & F Block Elements**
 ## Position in the Periodic Table
 ![[Periodic_Table_structure.svg]]
 
-We call D block elements: Transition Metals
+smth
+We call D block elements: Transition Metals  
 & F block Elements: Inert Transition metals
 
 F block elements are *between* atomic number 56  and 72 (Hafnium) and 88 to 104 (Rutherfordium) thus start from 57 (Lanthanum) to 71 (Lutetium) and 89 (Actinium) to 103 (Lawrencium).

@@ -3,6 +3,7 @@ tags:
   - cuet
 created: 2026-04-27 23:27
 body_class: "notes"
+title: "Chapter-5 Coordination Compounds"
 ---
 
 ```table-of-contents

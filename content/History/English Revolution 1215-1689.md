@@ -3,8 +3,10 @@ tags:
   - history
 created: 2026-08-12 14:30
 ---
-```table-of-contents
+```toc
 ```
+
+```text
 1215
 │
 ├── Magna Carta
@@ -71,7 +73,7 @@ created: 2026-08-12 14:30
 └── 1689
     → Bill of Rights
     → Parliament's position strengthened
-
+```
 
 ### Magna Carta of 1215 
 On June 15, 1215 King John of England signed a royal document called **The Magna Carta** (Great Charter). It was a emergency peace treaty between rebellious group of barons and the tyrannical King John. The Barons were wealthy, powerful noblemen who held large estates directly from the king in exchange for military service and taxes. The King signed The Magna Carta because the the nobles captured London (which was Political & financial capital of England at that time) and forced the king to negotiate a peace deal at Runnymede.

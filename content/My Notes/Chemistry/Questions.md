@@ -1,17 +1,18 @@
 ---
 tags:
-  - cuet
+  - chemistry
 created: 2026-03-17 23:49
+title: "PYQs"
 ---
 # Chapter - 1
 
-Molarity
+## Molarity
 1. Calculate Molarity of 900g Pure Water (H2O = 1g/ml)
 2. 0.1 M, 400 mL NaOH is mixed with 800 mL, 0.4 M NaOH solution Calculate the molarity of resulting mixture?
 Dilution
-- What volume of H2O should be added to 250 mL, 2 M NaOH solution so that molarity is reduced to 0.5 M?
+3. What volume of H2O should be added to 250 mL, 2 M NaOH solution so that molarity is reduced to 0.5 M?
 
-Molality
+## Molality
 - 4 gm of NaOH is added to 100 mL of water, Calculate the molality of the solution? Density of water = 1 gm/mL?
 
 0.4 mol NaOH is dissolved in 500 ml H2O. Neglecting volume change on mixing, calculate mass/volume percentage?

@@ -9,12 +9,10 @@ body_class: "notes"
 ```toc numbered
 ```
 
-**Chemical Kinetics: -**
-branch of Chemistry that deals with Study of Reaction Rates and their mechanism
+**Chemical Kinetics: -** branch of Chemistry that deals with Study of Reaction Rates and their mechanism
 
 ## Rate of Reaction
 Change in Concentration of Reactants (or Products) in unit time.
-
 -> **Unit of Rate:-** $mol\, L^{-1} s^{-1}$ ; or $atm/s$
 
 If,   $\ce{A + B -> C + D}$
@@ -27,8 +25,7 @@ $$
 $$
 \text{Average Rate} = \frac{\Delta x}{\Delta t}
 $$
-
-**Rate of Reaction if Stoichiometric Coefficient isn't same**
+### Rate of Reaction if Stoichiometric Coefficient isn't same
 If the eq. Is $\ce{aA + bB -> cC + dD}$ , then
 $$
 \begin{aligned}
@@ -57,14 +54,13 @@ $$
 ---
 
 #### Factors Influencing Rate of Reaction
-1. Concentration -> We'll study Rate Law for ts
+1. Concentration -> We'll study [[#rate-law|Rate Law]] for ts
 2. Temprature -> We'll study Arrhenius Equation for ts
 3. Nature of Reactants (bonds needs to be broken more)
 4. Catalyst (Changes mechanism & not gets consumed)
 
 ## Rate Law
 It is the expression which relates the rate of reaction with concentration of the reactants.
-
 The constant of proportionallity `k` is known as rate constant
 
 Consider : $\ce{aA + bB -> cC + dD}$
@@ -85,14 +81,15 @@ Also $\large\frac{-d[R]}{dt} = k\,[A]^x [B]^b$
 ### Order of a Reaction
 
 $Rate = k\,[A]^x [B]^b$ so 
-$$x+y = \text{Order of Reaction}$$
-
-- It can be 0,1,2,3 or even a fraction
-- But it *cannot* be negative 
-- this order need not to be same stoichiometric coefficients of the reactants
+$$
+x+y = \text{Order of Reaction}
+$$
+-> It can be 0,1,2,3 or even a fraction  
+-> But it *cannot* be negative  
+-> this order need not to be same stoichiometric coefficients of the reactants
 
 #### Units of Rate Constant
-=> $Rate = k\,[A]^x [B]^b$
+=> $Rate = k\,[A]^x [B]^b$  
 => X+y = n
 $k = \large\frac{Rate}{[A]^X[B]^Y}$
 
@@ -107,7 +104,7 @@ $= \large\frac{concentration}{time}\times\frac{1}{(concentration)^n}$
 ### Molecularity
 Molecularity is ==the total number of reactant species (atoms, ions, or molecules) that collide simultaneously in an elementary (single-step) chemical reaction to form products==.
 
--> Its value can be 1,2 or 3 max.
+-> Its value can be 1,2 or 3 max.  
 -> It cannot be a fraction
 
 | Molecularity                                                                         | Order                                                                                                        |
@@ -158,7 +155,7 @@ $$
 t_{1/2} = \frac{0.693}{k}
 $$
 ### Pseudo First Order Reactions
-If one reactant is in huge excess, its concentration stays constant → reaction behaves like lower order i.e. Second Order Reaction acts like first order
+If one reactant is in huge excess, its concentration stays constant → reaction behaves like lower order i.e. Second Order Reaction acts like first order.
 
 Pseudo first order reaction = a reaction that is actually higher order but behaves like first order.
 
@@ -206,6 +203,6 @@ $$
 
 The rate of a reaction depends on a value called the activation energy, which is essentially the amount of energy required to reach a transition state that will lead to the formation of product.
 
-![[activation-energy.excalidraw.svg|center|450]]
+![[activation-energy.excalidraw.svg|center|500]]
 
 
