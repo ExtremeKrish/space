@@ -268,7 +268,7 @@ export function renderPage(
         <div id="quartz-root" class={`page ${frontmatterBodyClass}`}>
            {/* Dynamically injects the font import straight into the rendered DOM by default */}
 <style dangerouslySetInnerHTML={{ __html: `
-  @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Cutive+Mono&family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Cutive+Mono&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap');
 `}} />
 
           <Body {...componentData}>
