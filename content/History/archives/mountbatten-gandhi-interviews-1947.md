@@ -78,7 +78,7 @@ At this moment the A.D.C. reported that the Tibetan Mission had arrived, and our
 
 I did however obtain Mr. Gandhi's permission to discuss the matter with Pandit Nehru and Maulana Azad, in strict confidence, the next time they came to see me.
 
-### Addendum
+**Addendum**
 
 During the course of the discussion Mr. Gandhi gave it as his considered opinion as a student of history and of world politics that never before, in any case of history he had read about in recent or past times, had so difficult or responsible a task been imposed on any one man as that which now faced me. I thanked him sincerely for realising the position in which I was placed.
 
@@ -292,6 +292,29 @@ Mr. Menon replied emphatically, but with due consideration for Mr. Gandhi, that 
 
 ---
 
+## Ismay to Gandhi Letter, 6 April 1947
+
+*Mountbatten Papers. Official Correspondence Files: Interim Government of India, Part 1, Personal, 6 April 1947*
+
+Dear Mr Gandhi,
+
+Thank you for your letter of 5th April.1 It was very kind of you to dictate it at such a late hour in order that it might reach me last night.
+
+I think that there has been some misunderstanding about the form of the short note which I prepared last Friday. As I understood it, Lord Mountbatten, on the conclusion of his talk with you, asked if you would be so good as to spare a little more time for a talk with me about your plan, in order that I might prepare a short note summarising its salient features in general terms. He had no intention, so far as I knew, that I should attempt anything formal or elaborate. I have now shown him your letter and he confirms that my inter¬ pretation of his wishes was correct.
+
+I have prepared a revised copy of my note substituting your version of point 7 for the original and including your point 8. This covers much the same ground as my original points 3 and 4, which therefore now become redundant.
+
+Lord Mountbatten has asked me to say that he much looks forward to having another talk with you about your plan before you leave.
+
+May I conclude with an expression of my personal thanks for having spared me so much of your time last Friday.
+
+Yours sincerely,
+
+ISMAY
+
+P.S. The Viceroy assures you that he will not mention your plan to Mr Jinnah until he has had a further talk about it with you.
+
+
 ## Mountbatten to Mr Gandhi, 7 April 1947
 
 *Mountbatten Papers · Official Correspondence Files: Interim Government of India, Part 1 · 7 April 1947*
@@ -318,3 +341,65 @@ I enjoyed meeting you so much and found all you had to say of the greatest inter
 
 Yours sincerely,  
 MOUNTBATTEN OF BURMA
+
+---
+
+## Record of Interview between Mountbatten and Gandhi, 12 April I947
+
+*Mountbatten Papers. Viceroy's Interview No. 54, TOP SECRET, 12 April I947*
+
+The meeting lasted from 11.45 a.m. to 1.45 p.m.
+
+I thanked him for the letter1 he had sent me the previous day saying that he had been unable to get his great plan for a Jinnah government through respons¬ ible members of Congress, and had therefore had to withdraw it. He regretted his failure very much, but said he thought I could still go ahead on the plan myself if I ardently believed in it.
+
+I told him that however much I believed in it I couldn’t possibly go ahead with success in a matter in which he had already failed himself with the Congress.
+
+I then told him I wanted to report to him in strict confidence all my con¬ versations with Mr. Jinnah, to put him in the picture.
+
+I then said that although my mind was still open I was now particularly studying two alternative solutions : (a) the Cabinet Mission plan; (b) a truncated Pakistan. I asked him how much he personally favoured a united India, and of course he said he was extremely anxious for it. I asked him how far he thought Congress would go towards accepting the Cabinet Mission plan, and warned him that Mr. Jinnah was bitterly opposed to the Cabinet Mission plan and therefore Congress would have to go at least as far as Mr. Jinnah wanted before he would even consider it.
+
+Mr. Gandhi said that the whole bone of contention was the interpretation of the meaning of the Cabinet Mission plan, and he suggested that I should call in the High Court to interpret it. I told him that the differences of opinion had already been resolved by the statement of the Cabinet of the 6th December; but he held that the people who drafted the statement were not the people who had to interpret it, and gave as an analogy Acts of Parliament. He said that if a difference of opinion arose as to the meaning of a particular clause in law, it was the judge who settled the meaning and who interpreted the law and not the people who framed the law. He seemed convinced that Congress would accept any interpretation the High Court gave.
+
+I told him I did not see how we could possibly have a different interpretation put on the meaning of the Cabinet Mission plan to that which the Cabinet Mission themselves had announced on December the 6th after taking legal advice.
+
+I then discussed the joint statement calling for a truce and a denunciation of the use of force to obtain political ends. He said he would gladly sign the statement shown to him or any similar statement if Mr. Jinnah and I wished him to do so; though he must point out that the statement, to have any value, should be signed by Mr. Kripalani on behalf of the Congress as a whole.
+
+He said he had told Pandit Nehru that if indeed I could get Mr. Jinnah to sign and abide by this statement, I should have taken the greatest step politically in the recent history of India, and one which he hoped he had been instru¬ mental in putting into my head.
+
+Although I have absolutely no recollection of Mr. Gandhi making any such suggestion, I felt it would be pohtic not to point this out. For although I believed it to have been my own idea I am only too delighted that he should take the credit.
+
+In the meanwhile Lord Ismay came down at my request with the Cabinet Mission plan and the Statement of December the 6th. Mr. Gandhi appeared never to have read this statement although he knew of its existence. He thought he was at Noakhali at the time and did not have time to read it. After reading it very carefully he came back to Iris original point of view that the Cabinet Mission statement should be submitted to the High Court for interpretation, and he felt sure the Congress would abide by their decision.
+
+Lord Ismay pointed out that it was less a matter of finding out what the actual legal interpretation was than of ascertaining what common interpreta¬ tion would be acceptable both to the Muslim League and Congress; and to this Mr. Gandhi unreservedly agreed.
+
+Meanwhile he called upon me to renounce the use of the British Army, and said that he included the British officers of the Indian Army in that term; in other words any of the armed forces under my orders.
+
+I pointed out that except for the Punjab, which is under a Section 93 Govern¬ ment, in all other Provinces it was the local Government that called out the troops, and that if he wanted that practice to stop, why didn’t he make a start by talking to the Congress Government in Bihar where he was off to that evening. He said sadly he had already spoken to them, and that if they had had a strong conviction of non-violence they would offer themselves as sacrifices rather than allow these massacres to continue or trying to stop them by the use of troops.
+
+I did not altogether follow his argument here, and may have misquoted him. But since it appeared to be purely academic, and a matter he was going to put before the local Congress Govt, in Bihar, I did not pursue it.
+
+He then said that he advised me to go on strengthening the Interim Govern¬ ment, and making them function correctly for the next 14 months; after which he considered I should hand over power to the Interim Government. This staggered Lord Ismay and myself, and we both pointed out that that meant handing over power to one party, namely Congress, to the grave disadvantage of the other party, the Muslim League, which would not fail to produce strife, possibly leading to civil war.
+
+Mr. Gandhi, with a wily smile, pointed out that if Mr. Jinnah indeed signed the paper we were sending round to him he could not again use force for political purposes.
+
+I must say I was speechless to find that he proposed, if Mr. Jinnah indeed meant to both sign and stick to the statement, to take advantage of this to impose a Congress Government over the Muslims. Here again I find it hard to believe that I correcdy understood Mr. Gandhi.
+
+Finally, after substituting the word “communities” instead of “peoples” and having the declaration of truce retyped, Mr. Gandhi appended his signature in all three scripts: English, Urdu and Gujerati; and Lord Ismay took the paper for Sir Eric Mieville to take round to Mr. Jinnah.
+
+*Source: The Transfer of Power 1942–7, Vol. X, p. 211-13*
+
+## Record of Interview between Mountbatten and Gandhi, 4 May 1947
+
+*Mounthatten Papers. Viceroy’s Interview No. 120, Top Secret, 4 May 1947, 4-5.30 pm*
+
+I thanked him for the strong and courageous statement he made rebuking the Press in general, and his own in particular, for their uncalled for attack on me.1 He said that he thought that the Press in India was very immature and had only just been released from censorship and did not realise the harm they were doing by the methods they adopted.
+
+I outlined the plan which Lord Ismay had taken to London and asked Mr. Gandhi if he agreed that the method I was proposing to adopt, whereby the people of India would decide how they wished power to be transferred, was not a good one. He replied that he did not agree that we were leaving the people of India a free choice since we were practically imposing partition on them.
+
+I then asked him what his plan was and he returned to his original idea and reiterated that if I believed in it firmly I could put it through.
+
+In fact, he finally invited me to turn over power either to the Muslim League or, if they would not take it, to Congress for the whole of India, and give them immediate Dominion Status and then remain as Governor General for thirteen months and then leave them to their own devices. When I pointed out that this would lead to a civil war and a blood bath, he replied “not if Mr. Jinnah means what he has signed with me”.
+
+I told him Jinnah signed in good faith when he thought I was going to give a fair decision and that I did not for one moment suppose the Muslims would not immediately go to war if I attempted to betray them in this manner. In any case, I pointed out that H.M.G. would never allow me to hand over a colossal minority like the Muslims into the power of Congress and I much regretted therefore that his plan was not acceptable. I did, however, say I would report it to London.
+
+*Source: The Transfer of Power 1942–7, Vol. X, p. 610-11*
