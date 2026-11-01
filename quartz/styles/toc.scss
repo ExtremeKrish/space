@@ -1,0 +1,46 @@
+/* The Sidebar Container */
+.center-sidebar {
+  width: 260px;
+  min-width: 260px;
+  flex-shrink: 0;
+  overflow: hidden; /* clips anything trying to spill out */
+  opacity: 1;
+  transform: translateX(0);
+  margin-left: 1.5rem; /* spacing from main content */
+  
+  /* Apple's signature smooth decelerating cubic-bezier curve */
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), 
+              opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1), 
+              margin 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+              visibility 0.4s;
+  visibility: visible;
+}
+
+/* Inner content wrapper to lock text width so it NEVER squishes or wraps */
+.center-sidebar-inner {
+  width: 260px; 
+  white-space: nowrap; /* forces text to stay in a clean single line during motion */
+}
+
+/* Allow text inside links to wrap normally when fully open, but keep container rigid during slide */
+.custom-toc-list a {
+  white-space: normal; 
+}
+
+/* When hidden: slides right/fades out instantly, and collapses its layout margin so .center-inner expands */
+.center.toc-hidden .center-sidebar,
+.center-sidebar.toc-hidden {
+  transform: translateX(20px); /* subtle iOS-style drift */
+  opacity: 0;
+  visibility: hidden;
+  margin-left: 0;
+  margin-right: -260px; /* cleanly swallows up the layout space */
+  pointer-events: none;
+}
+
+/* Main center content smoothly expands to fill the freed-up space */
+#quartz-body .center-inner {
+  flex: 1;
+  max-width: 900px !important;
+  transition: max-width 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}

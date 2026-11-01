@@ -1,5 +1,6 @@
 @use "./base.scss";
 @use "./fonts";
+@use "./toc";
 
 /* --- Light Theme (Default) Heading Sizes & Colors --- */
 /* ==========================================
@@ -84,12 +85,18 @@ padding:0 !important;
 
 #quartz-body .center, #quartz-body .sidebar.right, footer {
     padding:0 1rem !important; 
-    max-width: 900px !important; 
-    min-width:0 !important;
+      min-width:0 !important;
+    
     margin-left: auto !important;
     margin-right: auto !important;
 }
-
+#quartz-body .center-inner{
+  max-width: 900px !important; 
+  min-width:0 !important;
+}
+#quartz-body .center {
+      display: flex;
+}
     
 footer {
 width:100%;
@@ -366,6 +373,8 @@ body.classic {
         padding-right: 1.5rem;
         min-width:0 !important;
     }
+    
+
     article p, article li {
         font-size: 1.4rem !important;
         line-height: 1.5;

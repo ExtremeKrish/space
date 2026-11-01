@@ -10,6 +10,7 @@ import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
 import { styleText } from "util"
+import CustomTocConstructor from "./CustomTableOfContents"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -257,6 +258,14 @@ export function renderPage(
     </div>
   )
 
+ const CustomTableOfContents = CustomTocConstructor()
+
+  const CenterSidebarComponent = (
+    <div class="center-sidebar-inner">
+      <CustomTableOfContents {...componentData} />
+    </div>
+  )
+
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const direction = i18n(cfg.locale).direction ?? "ltr"
   //Updated Line Below
@@ -273,25 +282,30 @@ export function renderPage(
 
           <Body {...componentData}>
             {LeftComponent}
-            <div class="center">
-              <div class="page-header">
-                <Header {...componentData}>
-                  {header.map((HeaderComponent) => (
-                    <HeaderComponent {...componentData} />
-                  ))}
-                </Header>
-                <div class="popover-hint">
-                  {beforeBody.map((BodyComponent) => (
+            <div class="center toc-hidden">
+              <div class="center-inner">
+                <div class="page-header">
+                  <Header {...componentData}>
+                    {header.map((HeaderComponent) => (
+                      <HeaderComponent {...componentData} />
+                    ))}
+                  </Header>
+                  <div class="popover-hint">
+                    {beforeBody.map((BodyComponent) => (
+                      <BodyComponent {...componentData} />
+                    ))}
+                  </div>
+                </div>
+                <Content {...componentData} />
+                <hr />
+                <div class="page-footer">
+                  {afterBody.map((BodyComponent) => (
                     <BodyComponent {...componentData} />
                   ))}
                 </div>
               </div>
-              <Content {...componentData} />
-              <hr />
-              <div class="page-footer">
-                {afterBody.map((BodyComponent) => (
-                  <BodyComponent {...componentData} />
-                ))}
+              <div class="center-sidebar toc-hidden">
+                {CenterSidebarComponent}
               </div>
             </div>
             {RightComponent}
