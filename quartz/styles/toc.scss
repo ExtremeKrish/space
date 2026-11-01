@@ -1,46 +1,161 @@
-/* The Sidebar Container */
+/* ==========================================
+   RESPONSIVE TABLE OF CONTENTS STYLING
+   ========================================== */
+
+/* --- 1. LAPTOP & DESKTOP VIEW (Sticky & Toggleable) --- */
 .center-sidebar {
   width: 260px;
   min-width: 260px;
   flex-shrink: 0;
-  overflow: hidden; /* clips anything trying to spill out */
-  opacity: 1;
-  transform: translateX(0);
-  margin-left: 1.5rem; /* spacing from main content */
+  position: sticky;
+  top: 2rem;
+  max-height: calc(100vh - 4rem);
+  overflow-y: auto !important;
+  margin-left: 1.5rem;
+  box-sizing: border-box;
   
-  /* Apple's signature smooth decelerating cubic-bezier curve */
+  /* Smooth desktop transition when toggled via JS */
+  transform: translateX(0);
+  opacity: 1;
+  visibility: visible;
   transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), 
               opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1), 
               margin 0.4s cubic-bezier(0.16, 1, 0.3, 1),
               visibility 0.4s;
-  visibility: visible;
 }
 
-/* Inner content wrapper to lock text width so it NEVER squishes or wraps */
 .center-sidebar-inner {
-  width: 260px; 
-  white-space: nowrap; /* forces text to stay in a clean single line during motion */
+  width: 100%;
 }
 
-/* Allow text inside links to wrap normally when fully open, but keep container rigid during slide */
-.custom-toc-list a {
-  white-space: normal; 
-}
-
-/* When hidden: slides right/fades out instantly, and collapses its layout margin so .center-inner expands */
-.center.toc-hidden .center-sidebar,
+/* Desktop Hidden State (Smooth slide right & fade out with layout collapse) */
 .center-sidebar.toc-hidden {
-  transform: translateX(20px); /* subtle iOS-style drift */
-  opacity: 0;
-  visibility: hidden;
-  margin-left: 0;
-  margin-right: -260px; /* cleanly swallows up the layout space */
+  transform: translateX(20px) !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  margin-left: 0 !important;
+  margin-right: -260px !important;
   pointer-events: none;
+
+  
 }
 
-/* Main center content smoothly expands to fill the freed-up space */
-#quartz-body .center-inner {
-  flex: 1;
-  max-width: 900px !important;
-  transition: max-width 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+
+/* --- 2. TABLET & MOBILE VIEW (max-width: 1024px) -> Floating Drawer --- */
+@media (max-width: 1160px) {
+  .center-sidebar {
+    position: fixed !important;
+    top: 56px !important;
+    bottom:1rem;
+     /* 👈 Pushed down 56px to clear the toggle button/navbar */
+    right: 1rem;
+    border-radius:0.6rem;
+    width: 300px;
+    /*height: calc(100vh - 56px);
+    height: calc(100dvh - 56px);*/
+    background-color: var(--light);
+    z-index: 1000;
+    box-shadow: -5px 10 30px rgba(0, 0, 0, 0.15);
+    padding: 2rem 1.5rem;
+    margin-left: 0;
+    max-height: none;
+    
+    /* Independent Scrolling */
+    overflow-y: auto !important; 
+    -webkit-overflow-scrolling: touch;
+
+    /* Smooth iOS-style slide & fade transition */
+    transform: translateX(100%) !important;
+    opacity: 0;
+    visibility: hidden;
+    transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), 
+                opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1), 
+                visibility 0.4s;
+  }
+
+  /* When visible / open on mobile or tablet */
+  .center-sidebar:not(.toc-hidden) {
+    transform: translateX(0) !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+
+  /* When hidden / closed on mobile or tablet */
+  .center-sidebar.toc-hidden {
+    transform: translateX(100%) !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none;
+
+     transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), 
+                opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1), 
+                visibility 0.4s !important;
+  }
+}
+
+/* --- TOC Typography & Indentation --- */
+.custom-toc-container {
+  padding: 0.5rem 0;
+}
+
+.custom-toc-title {
+  font-size: 0.8rem;
+  font-weight: 550;
+  margin-bottom: 1rem;
+  letter-spacing: -0.01em;
+  margin-top: 0;
+}
+
+.custom-toc-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+
+  li {
+    margin: 0.6rem 0;
+    line-height: 1.15rem;
+    
+    &.depth-0 { padding-left: 0rem; }
+    &.depth-1 { padding-left: 0.8rem; }
+    &.depth-2 { padding-left: 1.6rem; }
+    &.depth-3 { padding-left: 2.4rem; }
+    &.depth-4 { padding-left: 3rem; }
+
+    a {
+      text-decoration: none;
+      opacity: 0.75;
+      font-size: 0.95rem;
+      transition: opacity 0.2s ease;
+      font-family: "Plus Jakarta Sans", sans-serif;
+      
+      &:hover {
+        opacity: 1;
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+#toc-toggle-btn {
+
+  cursor: pointer;
+  width: 20px;
+  height: 32px;
+  text-align: inherit;
+  background: 0 0;
+  border: none;
+  flex-shrink: 0;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.toc-toggle-icon {
+  width: 20px;
+  height: 20px;
+  fill: var(--darkgray);
+  stroke: var(--darkgray);
+  transition: opacity .1s;
+  position: absolute;
+  top: calc(50% - 10px);
 }

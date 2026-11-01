@@ -277,12 +277,12 @@ export function renderPage(
         <div id="quartz-root" class={`page ${frontmatterBodyClass}`}>
            {/* Dynamically injects the font import straight into the rendered DOM by default */}
 <style dangerouslySetInnerHTML={{ __html: `
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Cutive+Mono&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap');
-`}} />
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+  `}} />
 
           <Body {...componentData}>
             {LeftComponent}
-            <div class="center toc-hidden">
+            <div class="center">
               <div class="center-inner">
                 <div class="page-header">
                   <Header {...componentData}>

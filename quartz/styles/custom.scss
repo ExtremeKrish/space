@@ -83,12 +83,12 @@ padding:0 !important;
 
 }
 
+/*LAYOT*/
 #quartz-body .center, #quartz-body .sidebar.right, footer {
-    padding:0 1rem !important; 
-      min-width:0 !important;
-    
-    margin-left: auto !important;
-    margin-right: auto !important;
+  padding:0 1rem !important; 
+  min-width:0 !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 #quartz-body .center-inner{
   max-width: 900px !important; 
@@ -97,10 +97,36 @@ padding:0 !important;
 #quartz-body .center {
       display: flex;
 }
-    
+/*LAYOUT END===*/
+
+/* ==========================================
+   MAIN LAYOUT & CONTAINER FIXES
+   ========================================== */
+
+#quartz-body .center-inner {
+  max-width: 900px !important; 
+  min-width: 0 !important;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Desktop: Flex so sidebar sits nicely next to content */
+#quartz-body .center {
+  display: flex !important;
+  position: relative;
+}
+
+/* Mobile & Tablet: Block so it doesn't squish content when drawer is hidden */
+@media (max-width: 1160) {
+  #quartz-body .center {
+    display: block !important;
+  }
+}
+
 footer {
 width:100%;
 margin:0 auto 4rem auto !important;
+max-width: 900px !important;
 }
 
 #quartz-body .sidebar.left {
