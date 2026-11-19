@@ -47,7 +47,7 @@ In fact, in the same book, Minhaj mentions all the places that Md. Ghori and his
 
 What's Adanda Vihar? Historian Jadunath Sarkar in his book 'History of Bengal' mentions that Adanda Vihar is nothing but **Odantapuri Monestry** & that's what Bakhtiyar captured.
 
-![[SmartSelect_20260922_234601_Chrome.jpg|center|633x344]]
+![[SmartSelect_20260922_234601_Chrome.jpg|center|633]]
 
 And further in Minhaj's book he writes that after conquering Odantapuri Monestry, Khilji came to Delhi. 
 There's zero mention of Bakhtiyar attacking any place known as Nalanda or setting fire to any place he conquered which burnt for a single minute.
@@ -74,7 +74,7 @@ For instance, Dutt cites an account from the seventh century involving King Chan
 For this we have 2 Tibbetan-Buddhist sources.
 First is from Taranath's accounts of the 17th Century, in which he blames Brahmins for burning Nalanda & not Bakhtiyar Khilji
 
-![[Taranatha’s History of Buddhism in India_0170.jpg|center|633x532]]
+![[Taranatha’s History of Buddhism in India_0170.jpg|center|532]]
 
 Kakutasiddha (minister of the king) built a temple in Nalendra (Nalanda). He arranged a great ceremonial feast. In this feast, two tirthikas (brahmins) came but 2 shramanas (Buddhist monks) threw water on them.
 

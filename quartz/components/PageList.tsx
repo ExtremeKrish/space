@@ -64,7 +64,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     list = list.slice(0, limit)
   }
 
-  return (
+/*return (
     <ul class="section-ul">
       {list.map((page) => {
         const title = page.frontmatter?.title
@@ -77,12 +77,64 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                 {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
               </p>
               <div class="desc">
-                <h3>
+                <span>
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                     {title}
                   </a>
-                </h3>
+                </span>
               </div>
+              <ul class="tags">
+                {tags.map((tag) => (
+                  <li>
+                    <a
+                      class="internal tag-link"
+                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                    >
+                      {tag}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </li>
+        )
+      })}
+    </ul>
+  )*/
+  return(
+<ul class="section-ul">
+      {list.map((page) => {
+        const title = page.frontmatter?.title
+        const tags = page.frontmatter?.tags ?? []
+
+        return (
+          <li class="section-li">
+            <div class="section">
+              <div class="desc">
+                <span>
+                  <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                    {title}
+                  </a>
+                </span>
+              </div>
+              <p class="meta">
+                {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
+                {page.dates && tags.length > 0 && " • "}
+                {tags.map((tag, index) => (
+                  <>
+                    <span class="folder-li-tag">
+                      <a
+                        class="internal"
+                        href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                      >
+                        {tag}
+                      </a>
+                    </span>
+                    {index !== tags.length - 1 && ", "}
+                  </>
+                ))}
+              </p>
+              
               <ul class="tags">
                 {tags.map((tag) => (
                   <li>

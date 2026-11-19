@@ -61,7 +61,7 @@ Where $\rho$ is **resistivity**
 - (Unit : $\Omega\,m$)
 - Materials are classified as conductors, insulators & semiconductors on their resistivities.
 - **Metals Resistivity:** $10^{-8} \Omega m$ to $10^{-6} \Omega m$
-- Insulators have resistivities 10^18 times greater than metals or more. 
+- Insulators have resistivities $10^{18}$ times greater than metals or more. 
 
 
 
@@ -103,7 +103,9 @@ $$
 \boxed{\vec{v_{d}} = - \frac{e\,\vec{E}}{m}\tau}
 $$
 ### Derivation 
-We know that F = ma = eE , so a = eE/m , okey? so now in a conductor, before connecting a battery, electrons are colliding:
+We know that,  
+F = ma = eE, so  
+a = eE/m , okey? so now in a conductor, before connecting a battery, electrons are colliding:
 Let $u_{1}+u_{2}+u_{3}+\dots + u_{n}$ are initial velocties of electrons, so
 $$
 u_{avg} = \frac{u_{1}+u_{2}+u_{3}+\dots+ u_{n}}{n} = 0

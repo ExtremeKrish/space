@@ -76,8 +76,11 @@ $n = \large\frac{Given Vol (L)}{22.4 L} = \frac{W}{M}$
 - **Just remember:** No. Of Moles of 'A' and Mole Fraction of 'A' are two diferent things: $n_{A}$ and $X_{a}$ are different. 
 - $\sum_{i=1}^{n} x_i = 1$ (sum of mole fraction X of all components in a solution is 1) 
 
-**2. Mass %** *Grass is Green ahh*  
-**3. Volume %** *Grass is Green ahh*
+**2. Mass %**  
+*Grass is Green ahh*
+
+**3. Volume %**  
+*Grass is Green ahh*
 
 **4. Mass by Volume Percent** 
 - Mass of Solute (g) present in 100mL of Solvent
@@ -104,19 +107,21 @@ $M = \frac{W}{M} \times \large\frac{1000}{Vol_{Soln} (mL)}$
 ![[Pasted image 20260318000251.jpg]]
 
 **7. Molality (m)**  
-Moles of Solute present in 1Kg Solvent (not Solution)
+Moles of Solute present in 1Kg Solvent (not Solution)  
 => $m = \frac{moles of solute}{Mass of Solvent (Kg)}$
 
 => $m = \frac{W}{M} \cdot \large\frac{1000}{Mass_{Solv} (g)}$
 
 => $m = \frac{X_{solute}}{X_{solvent}}\cdot\frac{1000}{MM_{solvent}}$ *→ This is a Important and long-derived formula*
 
-7. Normality *in next chapter 'Equi. Conductivity', in short N = M × n factor*
-8. Solubility *(Not a Concentration Term, we'll see that :-)*
+8. Normality 
+- *in next chapter 'Equi. Conductivity', in short N = M × n factor*
+9. Solubility 
+- *(Not a Concentration Term, we'll see that :-)*
 
 ---
 ### Dilution of Solution
-**Adding more solvent** keeping solute same (untouched).
+**Adding more solvent** keeping solute same (untouched).  
 → In this process, Concentration Decreases & so Molarity.
 
 #### Law of Dilution
@@ -137,6 +142,7 @@ When adding solid into Water, 2 things happen,
 2) Crystallisation = particles leaving solution and forming solid
 	- Some dissolved salt → comes back → forms solid crystal again
 	- Rasgulle di Chasni becoming crystal on edges.
+
 When both happen at same rate, its DYNAMIC EQUILIBRIUM
 
 ### Effect of Temperature
@@ -144,7 +150,7 @@ When both happen at same rate, its DYNAMIC EQUILIBRIUM
 - If **exothermic (heat released)** → solubility ↓ with temp
 #### Case 1: Endothermic
 Solution needs heat  
-So when you give heat → it dissolves more 🔥
+So when you give heat → it dissolves more 🔥  
 👉 Example: sugar in water (more dissolves when hot)
 #### Case 2: Exothermic
 Solution releases heat  
@@ -218,12 +224,14 @@ $$
 ## Ideal & Non Ideal Solutions
 ### Ideal Solution
 A solution that **obeys the Raoult's law at any composition** is known as **ideal solution**.
-→ The enthalpy of mixing of the pure components to form the solution is zero $\Delta_{mix} H = 0$ 
+
+- The enthalpy of mixing of the pure components to form the solution is zero $\Delta_{mix} H = 0$  
 	no heat is absorbed or evolved when the components are mixed
-→ The volume of mixing is also zero $\Delta_{mix} V = 0$
+- The volume of mixing is also zero $\Delta_{mix} V = 0$ 
 	volume of solution would be equal to the sum of volumes of the two components.
-*The intermolecular attractive forces between the A-A and B-B are nearly **equal to those between A-B**, this leads to the formation of ideal solution.*
-Ideal solution are rare. A real solution at very high dilution can behave ideally.
+
+*The intermolecular attractive forces between the A-A and B-B are nearly **equal to those between A-B**, this leads to the formation of ideal solution.*  
+Ideal solution are rare. A real solution at very high dilution can behave ideally.  
 **Examples :-** n-hexane, n-heptane, bromoethane, chloroethane, benzene, toulene
 
 ![[Pasted image 20260318211227.jpg|583x328]]
@@ -231,13 +239,13 @@ Ideal solution are rare. A real solution at very high dilution can behave ideall
 - does not obey Raoult’s law over the entire range of concentration
 - VP either high (Positive Deviation) or low (Negative Deviation)
 #### Postive Deviation
-→ A-B interactions are weaker then A-A and B-B
-→ VP is High
-→ Example : Mixing of Ethanol and Acetone or Carbon Disulphide and Acetone
+- A-B interactions are weaker then A-A and B-B
+- VP is High
+- Example : Mixing of Ethanol and Acetone or Carbon Disulphide and Acetone
 
 #### Negative Deviation
-→ A-B interactions are stronger than A-A and B-B
-VP is low
+→ A-B interactions are stronger than A-A and B-B  
+VP is low  
 → Example : Chloroform and Acetone
 #### Azeotopes
 Azeotropes are **binary liquid mixtures** that have **same composition in liquid and vapour phase** and boil at a **constant temperature**.
@@ -258,13 +266,15 @@ Azeotropes are **binary liquid mixtures** that have **same composition in liquid
 
 
 $\Delta P = P^0 X_{Solute}$
+
 $\Delta P = P^0\Large\frac{n_{solute}}{n_{solute} + n_{solvent}}$
 
 $$ \text{Relative Lowring in Vapour Pressure} = \frac{\Delta P}{P^0} = X_{Solute}$$
 
 ### 2. Elevation in Boiling Point
 First Lets clear this,
-Boiling Point is the temprature at which the vapour pressure inside becomes equal to Atmospheric Pressure
+Boiling Point is the temprature at which the vapour pressure inside becomes equal to Atmospheric Pressure.
+
 If $P^0_{A} > P^0_{B}$  then $T_{B(A)} < T_{B(A)}$ so Volatility $\propto \large\frac{1}{BP}$
 
 Here we Go:
@@ -290,16 +300,17 @@ Depends on (important for exam)
 *Matlab agar Pure ki jagah usme nalla kuda dal de to uska freezing point gir jata hai yani or Thanda temprature chaiye hoga usko freez karne ke liye*
 *E.g. Faraf wale ilake me vo log namak daal dete, to baraf pighal jati h*
 - Pure Solvent = $T_{f}^0$
-- Solution = $T_{f}$
-So $T_{f}^0 > T_{f}$
+- Solution = $T_{f}$  
+
+So $T_{f}^0 > T_{f}$  
 And $\Delta T_{f}$ → Depression in FP
 
 $$
  \Delta T_{f} = k_{f}\,m
 $$
-Where $k_{f}$ = Cryoscopic Constant / Molal Depression Const 
-Depends on Temp. And Nature of Solvent.
-**$k_{f}$ of Pure Water = 1.86**
+Where $k_{f}$ = Cryoscopic Constant / Molal Depression Const  
+Depends on Temp. And Nature of Solvent.  
+**btw $k_{f}$ of Pure Water = 1.86**
 
 ![[Pasted image 20260320224525.jpg]]
 
@@ -317,10 +328,14 @@ $$
 $$
 MM_{2} = \frac{W_{2}RT}{\pi\,V}
 $$
+
 **Osmosis:-** the spontaneous, passive net movement of water (solvent) molecules across a semipermeable membrane from a region of higher water concentration to a region of lower water concentration.
+
 **Hypertonic Solution:** A solution with a higher solute concentration than the cell's cytosol, drawing water out.
+
 **Hypotonic Solution:** A solution with a lower solute concentration than the cell's cytosol, forcing water into the cell.
-**Isotonic Solution:** A solution with an equal solute concentration compared to the cell's cytosol, resulting in no net water movement
+
+**Isotonic Solution:** A solution with an equal solute concentration compared to the cell's cytosol, resulting in no net water movement.
 
 ## Van't Hoff Factor
 $$

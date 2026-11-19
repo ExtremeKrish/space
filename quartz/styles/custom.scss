@@ -55,7 +55,8 @@
 :root {
   --ex-red: #e03131;
   --ex-black: #1e1e1e;
- --ex-white:#000000
+ --ex-white:#000000;
+  --bodyFontSize:1.3rem;
 }
 
 [saved-theme="dark"] {
@@ -183,11 +184,35 @@ line-height: 1.3 !important;
 
 /* ── Body text ── */
 article p, article li {
-    font-size: 1.3rem;
+    font-size: var(--bodyFontSize);
     line-height: 1.5;
     margin-top: 8px;
 
 }
+
+@media (max-width: 600px) {
+  :root{
+    --h1-size: 1.85rem;
+    --h2-size: 1.7rem;
+    --h3-size: 1.6rem;
+    --h4-size: 1.4rem;
+    --bodyFontSize:1.1rem;
+  }
+
+  article p, article li {
+    font-size: var(--bodyFontSize);
+    line-height: 1.5;
+    margin-top: 8px;
+
+  }
+  article ul {
+    padding-left: 1rem;
+  }
+  .inline-toc ol {
+    padding-left: 2rem ;
+  }
+}
+
 article li {
 margin-bottom:8px;
 }
@@ -244,10 +269,28 @@ border:none !important;
 padding:0 !important;
 }
 
+// ==== DRAWER ===
+
 .explorer-content {
 max-width: 22rem !important;
 padding: 4rem 1rem 2rem !important;
 box-shadow: 17px 0px 27px -1px rgba(0, 0, 0, 0.2);
+}
+
+.explorer .mobile-explorer .ham-menu rect {
+  transform-box: fill-box;
+  transform-origin: left center;
+  transition: transform 0.3s ease;
+}
+
+/* Only when the menu is truly open (set by JS on click, never on load) */
+:root.mobile-no-scroll .explorer:not(.collapsed) .mobile-explorer .ham-menu {
+  rect:nth-child(1) {
+    transform: translateY(7px) rotate(-45deg) scaleX(0.5);
+  }
+  rect:nth-child(3) {
+    transform: translateY(-7px) rotate(45deg) scaleX(0.5);
+  }
 }
 
 .breadcrumb-element p { 
@@ -273,6 +316,8 @@ font-size: 8px;
   margin: 2px 0 4px 0;
 line-height: 1.3rem !important;
 }
+
+
 
 .callout-title {
 --icon-size: 19px !important;
@@ -342,10 +387,44 @@ color:var(--dark) !important;
 .ham-menu {
 fill: var(--darkgray); 
 }
-/* 2. Classic Theme Setup */
-body.classic {
 
- --dark: #000 !important;
+//====== FOLDER-VIEW PAGE =======
+
+ul.section-ul li.section-li > .section {
+  display: flex;
+  flex-direction: column;
+}
+
+li.section-li {
+  margin-bottom: 0;
+  padding: 8px 0;
+
+  &:not(:last-child){
+      border-bottom: 1px solid var(--blockquote-border);
+  }
+}
+
+li.section-li > .section > .desc {
+font-size: calc(4px + var(--bodyFontSize));
+}
+
+li.section-li > .section > .meta {
+  font-size: calc(var(--bodyFontSize) * 0.8);
+}
+
+li.section-li > .section > .desc > span > a.internal {
+  line-height: 1.4 !important;
+}
+
+.folder-li-tag a.internal{
+  font-weight: 400;
+}
+
+
+/* 1. Classic Theme Setup */
+body.classic {
+  --bodyFontSize:1.4rem;
+  --dark: #000 !important;
   --light: #fff !important;
   --h1-color: #000 !important;
   --h2-color: #000 !important;
@@ -362,50 +441,42 @@ body.classic {
     --h4-color: #dddbd4 !important;
   }
   
-
   --font-header: 'EB Garamond', serif;
   --font-body: 'EB Garamond', serif;
   --h1-size: 3rem !important;
   --bold-color: var(--dark) !important;     /* Deep Crimson Red for **bold** */
   --italic-color: var(--dark) !important;
 
-    .page-title{
-        text-align:center !important;
-        font-style: italic !important;
-        font-size: 21px !important;
-    }
+  .page-title{
+    text-align:center !important;
+    font-style: italic !important;
+    font-size: 21px !important;
+  }
 
-    .breadcrumb-container {
-        font-family: Cutive Mono !important;
-        font-size: 14px !important;
-    }
+  .breadcrumb-container {
+    font-family: Cutive Mono !important;
+    font-size: 14px !important;
+  }
 
-    .tags {
-        display:none !important;
-    }
+  .tags {
+    display:none !important;
+  }
     
-    // NAVBAR
-    #quartz-body .sidebar.left {
-        border-bottom: 1px solid var(--darkgray) !important;
-        padding: 0 1rem !important;
-        height: 56px !important;
-    }
+  // NAVBAR
+  #quartz-body .sidebar.left {
+    border-bottom: 1px solid var(--darkgray) !important;
+    padding: 0 1rem !important;
+    height: 56px !important;
+  }
 
-    #quartz-body .center, footer {
-        max-width: 750px !important; 
-        margin-left: auto;
-        margin-right: auto;
-        padding-left: 1.5rem;
-        padding-right: 1.5rem;
-        min-width:0 !important;
-    }
-    
-
-    article p, article li {
-        font-size: 1.4rem !important;
-        line-height: 1.5;
-        margin-top: 8px;
-    }
+  #quartz-body .center, footer {
+    max-width: 750px !important; 
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    min-width:0 !important;
+  }
 
   /* Apply the body font to the main text */
   p, li, span, body.classic {
@@ -415,100 +486,114 @@ body.classic {
   /* Apply the serif font and dark color specifically to headings */
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-header);
-
     letter-spacing: 0 !important;
     font-weight:400 !important;
   }
 
   /* 1px clean borders for containers or dividers */
-    hr, .toc, .sidebar {
-        border-color: var(--darkgray);
-        border-width: 1px;
-    }
+  hr, .toc, .sidebar {
+    border-color: var(--darkgray);
+    border-width: 1px;
+  }
 
-    .explorer:not(.collapsed) > .explorer-content{
-        border-right: 1px solid var(--darkgray);
-    }
+  .explorer:not(.collapsed) > .explorer-content{
+    border-right: 1px solid var(--darkgray);
+  }
 
-    .explorer-ul li:not(.overflow-end):not(:last-child) {
-        border-bottom: 1px solid var(--lightgray);
-        line-height: 1.15 !important;
-        font-family: Cutive Mono !important;
-        padding: 4px 0 !important;
-    }
+  .explorer-ul li:not(.overflow-end):not(:last-child) {
+    border-bottom: 1px solid var(--lightgray);
+    line-height: 1.15 !important;
+    font-family: Cutive Mono !important;
+    padding: 4px 0 !important;
+  }
 
-    .explorer-ul li a {
-        font-family:Cutive Mono !important;
-    }
+  .explorer-ul li a {
+    font-family:Cutive Mono !important;
+  }
 
-    .explorer-ul li {
-        margin: 0;
-        padding: 4px 0;
-        letter-spacing: -1.5px !important;
-    }
-
+  .explorer-ul li {
+    margin: 0;
+    padding: 4px 0;
+    letter-spacing: -1.5px !important;
+  }
+  @media (max-width: 600px) {
+    --bodyFontSize: 1.2rem;
+    --h1-size: 2rem !important;
+  }
 }
 
 //=======TEST THEME IN WHICH KATEX MAIN IS FONT FOR WHOLE
 body.notes {
-    font-family: 'KaTeX_Main', 'Times New Roman', serif !important;
+  font-family: 'KaTeX_Main', 'Times New Roman', serif !important;
+
+  .katex {
+    font: normal 1.4rem KaTeX_Main,Times New Roman,serif !important;
+    font-weight: inherit !important;
+    color: inherit;
+  }
+
+  .katex-display > .katex {
+    font: normal 1.6rem KaTeX_Main,Times New Roman,serif !important;
+    color:var(--dark) !important;
+  }
+
+  .callout[data-callout="question"] {
+    --color: var(--bold-color);
+  }
+
+  @media (max-width: 600px) {
+    --bodyFontSize:1.2rem;
+    --h1-color:1.7rem;
+    --h2-size:1.6rem;
+    --h3-size:1.5rem;
 
     .katex {
-      font: normal 1.4rem KaTeX_Main,Times New Roman,serif !important;
-font-weight: inherit !important;
-  color: inherit;
+      font: normal 1.2rem KaTeX_Main,Times New Roman,serif !important;
     }
-
     .katex-display > .katex {
-        font: normal 1.6rem KaTeX_Main,Times New Roman,serif !important;
-color:var(--dark) !important;
+      font: normal 1.3rem KaTeX_Main,Times New Roman,serif !important;
     }
-
-.callout[data-callout="question"] {
-  --color: var(--bold-color);
-}
+  }
 }
 
 //======BOOK-THEME===========
 body.book {
-
-//font-family: "EB Garamond", serif;
-//font-family: Bookerly;
-font-family: 'Crimson Pro', serif;
+  //font-family: "EB Garamond", serif;
+  //font-family: Bookerly;
+  font-family: 'Crimson Pro', serif;
   font-weight: 350; // Sets your default text to light
 
-article p, article li {
+  article p, article li {
     font-size: 1.3rem;
     line-height: 1.5;
     margin-top: 8px;
+  }
 
-}
+  h1, h2, h3, h4, h5, h6 {
+    // font-family: "EB Garamond", serif;
+    //font-family: "Bookerly Display";
+    font-family: 'Crimson Pro', serif;
+    //font-family: 'Libre Baskerville', serif !important;
+    font-weight: 500;
+  }
 
-h1, h2, h3, h4, h5, h6 {
-// font-family: "EB Garamond", serif;
-//font-family: "Bookerly Display";
-font-family: 'Crimson Pro', serif;
-//font-family: 'Libre Baskerville', serif !important;
-font-weight: 500;
-}
+  b, strong {
+    font-weight: 550; // Change to 400 if 500 is still too chunky for ya
+  }
 
-b, strong {
-  font-weight: 550; // Change to 400 if 500 is still too chunky for ya
-}
+  blockquote {
+    border:none !important;
+    padding-right:1rem;
+  }
 
-blockquote {
-border:none !important;
-padding-right:1rem;
-}
-
---italic-color: var(--dark) !important;
---bold-color: var(--dark) !important;
+  --italic-color: var(--dark) !important;
+  --bold-color: var(--dark) !important;
 
   [saved-theme="dark"] & {
     --light: #181818 !important;
     --dark: #e9e9e9 !important;
-    }
-    .explorer-ul li a {
-        font-family:var(--bodyFont) !important;
-    }
+  }
+  .explorer-ul li a {
+    font-family:var(--bodyFont) !important;
+  }
 }
