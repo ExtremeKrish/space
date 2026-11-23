@@ -3,6 +3,8 @@ tags:
   - cuet
 created: 2026-04-23 00:34
 title: "Chapter-12 Atoms"
+previous: "[[My-Notes/Physics/Chapter-11]]"
+next: "[[My-Notes/Physics/Chapter-13]]"
 ---
 
 ```toc numbered

@@ -5,6 +5,8 @@ tags:
 created: 2026-03-28 17:01
 title: "Chapter-9 Ray Optics"
 body_class: "notes"
+previous: "[[My-Notes/Physics/Chapter-8]]"
+next: "[[My-Notes/Physics/Chapter-10]]"
 ---
 
 ```toc numbered

@@ -4,6 +4,8 @@ tags:
 created: 2026-03-27 00:22
 title: "Chapter-2 Electric Potential & Capacitance"
 body_class: "notes"
+previous: "[[My-Notes/Physics/Chapter-1]]"
+next: "[[My-Notes/Physics/Chapter-3]]"
 ---
 
 ```toc numbered

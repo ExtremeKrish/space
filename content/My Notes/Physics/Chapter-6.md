@@ -5,6 +5,8 @@ tags:
 created: 2026-04-14 00:10
 title: "Chapter-6 Electromagnetic Induction"
 body_class: "notes"
+previous: "[[My-Notes/Physics/Chapter-5]]"
+next: "[[My-Notes/Physics/Chapter-8]]"
 ---
 
 ```toc numbered

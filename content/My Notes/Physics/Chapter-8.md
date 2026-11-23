@@ -5,6 +5,8 @@ tags:
 created: 2026-04-17 02:10
 title: "Chapter-8 Electromagnetic Waves"
 body_class: "notes"
+previous: "[[My-Notes/Physics/Chapter-6]]"
+next: "[[My-Notes/Physics/Chapter-9]]"
 ---
 
 ```toc numbered

@@ -4,6 +4,8 @@ tags:
   - physics
 created: 2026-04-19 15:40
 title: "Chapter-10 Wave Optics"
+previous: "[[My-Notes/Physics/Chapter-9]]"
+next: "[[My-Notes/Physics/Chapter-11]]"
 ---
 
 ```toc numbered

@@ -4,6 +4,8 @@ tags:
   - physics
 created: 2026-04-20 02:38
 title: "Chapter-11 Dual Nature of Matter & Radiation"
+previous: "[[My-Notes/Physics/Chapter-10]]"
+next: "[[My-Notes/Physics/Chapter-12]]"
 ---
 **Dual Nature of Matter & Radiation**
 

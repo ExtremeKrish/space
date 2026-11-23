@@ -4,6 +4,8 @@ tags:
 created: 2026-04-03 13:10
 title: "Chapter-3 Current Electricity"
 body_class: "notes"
+previous: "[[My-Notes/Physics/Chapter-2]]"
+next: "[[My-Notes/Physics/Chapter-4]]"
 ---
 
 ```toc numbered

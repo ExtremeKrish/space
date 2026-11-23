@@ -91,6 +91,13 @@ padding:0 !important;
   margin-left: auto !important;
   margin-right: auto !important;
 }
+
+#quartz-body .sidebar.right {
+  max-width: 900px !important;
+  min-width: 0;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
 #quartz-body .center-inner{
   max-width: 900px !important; 
   min-width:0 !important;
@@ -420,6 +427,79 @@ li.section-li > .section > .desc > span > a.internal {
   font-weight: 400;
 }
 
+// PREVIOUS NEXT BUTTON
+.prev-next {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 2rem 0 1rem;
+  font-family: "Inter", sans-serif;
+
+  // `a.prev-next-link` beats Quartz's default `a.internal` styling
+  a.prev-next-link {
+    flex: 1 1 0;
+    min-width: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    background-color: transparent;
+    color: var(--dark);
+    text-decoration: none;
+    transition: border-color 0.2s ease;
+
+    &:hover {
+      border-color: var(--gray);
+      color: var(--dark);
+    }
+
+    &.next {
+      justify-content: flex-end;
+      text-align: right;
+    }
+  }
+
+  .prev-next-arrow {
+    flex-shrink: 0;
+  }
+
+  .prev-next-text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    min-width: 0;
+  }
+
+  .prev-next-label {
+    font-size: 0.75rem;
+    opacity: 0.7;
+  }
+
+  .prev-next-title {
+    font-size: 1rem;
+    font-weight: 600;
+    overflow-wrap: anywhere;
+  }
+
+  // keeps a lone "Next" on the right side when there is no "Previous"
+  .prev-next-spacer {
+    flex: 1 1 0;
+  }
+}
+
+// narrow screens: stack vertically
+@media (max-width: 600px) {
+  .prev-next {
+    flex-direction: column;
+
+    .prev-next-spacer {
+      display: none;
+    }
+  }
+}
 
 /* 1. Classic Theme Setup */
 body.classic {

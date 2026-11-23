@@ -11,6 +11,7 @@ import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
 import { styleText } from "util"
 import CustomTocConstructor from "./CustomTableOfContents"
+import PrevNextConstructor from "./PrevNext"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -259,6 +260,7 @@ export function renderPage(
   )
 
  const CustomTableOfContents = CustomTocConstructor()
+ const PrevNext = PrevNextConstructor()
 
   const CenterSidebarComponent = (
     <div class="center-sidebar-inner">
@@ -296,6 +298,7 @@ export function renderPage(
                   </div>
                 </div>
                 <Content {...componentData} />
+                <PrevNext {...componentData} />
                 <hr />
                 <div class="page-footer">
                   {afterBody.map((BodyComponent) => (

@@ -3,6 +3,8 @@ tags:
   - physics
 created: 2026-04-11 16:27
 title: "Chapter-5 Magnatism & Matter"
+previous: "[[My-Notes/Physics/Chapter-4]]"
+next: "[[My-Notes/Physics/Chapter-6]]"
 ---
 
 ```toc numbered

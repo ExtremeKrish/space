@@ -3,6 +3,8 @@ tags:
   - physics
 title: Chapter-1 Electrostatics
 body_class: "notes"
+next: "[[My-Notes/Physics/Chapter-2]]"
+
 ---
 
 ```toc numbered

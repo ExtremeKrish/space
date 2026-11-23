@@ -5,6 +5,8 @@ tags:
 created: 2026-04-07 21:25
 title: "Chapter-4 Moving Charges & Magnatism"
 body_class: "notes"
+previous: "[[My-Notes/Physics/Chapter-3]]"
+next: "[[My-Notes/Physics/Chapter-5]]"
 ---
 
 ```toc numbered

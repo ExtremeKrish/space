@@ -3,6 +3,8 @@ tags:
   - cuet
 created: 2026-05-04 01:55
 title: "Chapter-13 Nuclei"
+previous: "[[My-Notes/Physics/Chapter-12]]"
+next: "[[My-Notes/Physics/Chapter-14]]"
 ---
 
 ```toc numbered
